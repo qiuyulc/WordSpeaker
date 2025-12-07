@@ -97,12 +97,6 @@ const ListCom = (props: {
 
   const handlePlay = (event: React.MouseEvent<HTMLSpanElement>, u: string) => {
     event.stopPropagation();
-    // if ("speechSynthesis" in window) {
-    //   console.log("Speech synthesis supported.");
-    //   const utterance = new SpeechSynthesisUtterance(u);
-    //   utterance.lang = "en-US";
-    //   speechSynthesis.speak(utterance);
-    // }
     playText(u);
   };
 
