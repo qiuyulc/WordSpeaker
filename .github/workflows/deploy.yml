@@ -1,5 +1,5 @@
-# 一个简单的 GitHub Pages 部署工作流
-name: Deploy static content to Pages
+# 一个简单的 GitHub Pages 部署工作流 (使用 pnpm)
+name: Deploy static content to Pages with pnpm
 
 on:
   # 仅在推送到默认分支时运行
@@ -30,22 +30,37 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
-      - name: Set up Node
+
+      # 关键修改 1: 设置 pnpm
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: latest # 或指定版本如 '9.x'
+
+      - name: Set up Node.js
         uses: actions/setup-node@v6
         with:
           node-version: lts/*
-          cache: "pnpm"
+          # 关键修改 2: 配置 Node.js 使用 pnpm
+          cache: "pnpm" # 这里改为 pnpm
+
+      # 关键修改 3: 使用 pnpm 安装依赖
       - name: Install dependencies
-        run: pnpm ci
+        run: pnpm install --frozen-lockfile
+
+      # 关键修改 4: 使用 pnpm 执行构建命令
       - name: Build
         run: pnpm run build
+
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          # 上传 dist 文件夹
+          # 上传构建输出文件夹，根据你的项目调整（如 './dist', './build', './out'）
           path: "./dist"
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
