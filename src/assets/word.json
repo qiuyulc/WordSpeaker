@@ -1,0 +1,7702 @@
+[
+  {
+    "title": "A",
+    "words": [
+      {
+        "word": "a/an",
+        "phonetic": "[ ə/ən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "art.": "一 (个) ；每一 (个) ； (同类事物中的) 任何一个"
+        }
+      },
+      {
+        "word": "abandon",
+        "phonetic": "[ə ˈbændən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "放弃，抛弃，离弃"
+        }
+      },
+      {
+        "word": "abbreviation",
+        "phonetic": "[ə ˌbri ːviˈeɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "节略，缩写，缩短"
+        }
+      },
+      {
+        "word": "ability",
+        "phonetic": "[ə ˈbɪləti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "能力，才能，才干"
+        }
+      },
+      {
+        "word": "able",
+        "phonetic": "[ˈeɪbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "有能力的；能干的"
+        }
+      },
+      {
+        "word": "aboard",
+        "phonetic": "[ə ˈbɔːrd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad./prep.": "在船/车/飞行器上；上船/车/飞行器"
+        }
+      },
+      {
+        "word": "about",
+        "phonetic": "[ə ˈbaʊt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "关于，对于；在……周围，在……附近",
+          "ad.": "在周围，附近；大约，差不多"
+        }
+      },
+      {
+        "word": "above",
+        "phonetic": "[ə ˈbʌv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……之上，超过",
+          "a.": "上面的，上述的",
+          "ad.": "在上面，以上"
+        }
+      },
+      {
+        "word": "abroad",
+        "phonetic": "[ə ˈbrɔːd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "在 (到) 国外，在 (到) 海外；传开"
+        }
+      },
+      {
+        "word": "absence",
+        "phonetic": "[ˈæbsəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "缺席；缺乏"
+        }
+      },
+      {
+        "word": "absent",
+        "phonetic": "[ˈæbsənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "(from)缺席的；缺乏的；漫不经心"
+        }
+      },
+      {
+        "word": "absolute",
+        "phonetic": "[ˈæbsəluːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "绝对的，完全的"
+        }
+      },
+      {
+        "word": "absorb",
+        "phonetic": "[əbˈzɔːb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "吸收；吸引，使专心"
+        }
+      },
+      {
+        "word": "abundant",
+        "phonetic": "[ə ˈbʌndənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "丰富的，充裕的"
+        }
+      },
+      {
+        "word": "abuse",
+        "phonetic": "[ə ˈbjuːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vt.": "滥用，虐待；辱骂"
+        }
+      },
+      {
+        "word": "academy",
+        "phonetic": "[ ə ˈkædəmi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "学院；学会，协会；研究院"
+        }
+      },
+      {
+        "word": "accent",
+        "phonetic": "[ˈæksent]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "重音； 口音"
+        }
+      },
+      {
+        "word": "accept",
+        "phonetic": "[əkˈsept]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "同意，认可；接受，领受"
+        }
+      },
+      {
+        "word": "acceptable",
+        "phonetic": "[əkˈseptəbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "可接受的；合意的"
+        }
+      },
+      {
+        "word": "access",
+        "phonetic": "[ˈækses]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "通路；访问",
+          "vt.": "访问；存取"
+        }
+      },
+      {
+        "word": "accident",
+        "phonetic": "[ˈæksɪdənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "事故；意外的事，偶然的事"
+        }
+      },
+      {
+        "word": "accidental",
+        "phonetic": "[ˌæksɪˈdentl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "意外的；偶然 (发生) 的"
+        }
+      },
+      {
+        "word": "accompany",
+        "phonetic": "[ə ˈkʌmpəni]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "陪伴，伴随；伴奏"
+        }
+      },
+      {
+        "word": "accomplish",
+        "phonetic": "[ə ˈkɑːmplɪʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "完成，实现，达到"
+        }
+      },
+      {
+        "word": "according(to)",
+        "phonetic": "[ə ˈkɔːrdɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "按照，根据"
+        }
+      },
+      {
+        "word": "account",
+        "phonetic": "[ ə ˈkaʊnt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "账，账户；说明，叙述",
+          "vi.": "(for)解释"
+        }
+      },
+      {
+        "word": "accountant",
+        "phonetic": "[ə ˈkaʊntənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "会计"
+        }
+      },
+      {
+        "word": "accuracy",
+        "phonetic": "[ˈækjərəsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "正确 (性) ；精 (密) 度"
+        }
+      },
+      {
+        "word": "accurate",
+        "phonetic": "[ˈækjərət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "正确的，精确的"
+        }
+      },
+      {
+        "word": "accuse",
+        "phonetic": "[ə ˈkjuːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "(of)谴责；指控，告发"
+        }
+      },
+      {
+        "word": "accustomed",
+        "phonetic": "[ə ˈkʌstəmd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "(to)惯常的，习惯的"
+        }
+      },
+      {
+        "word": "ache",
+        "phonetic": "[eɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi.": "疼痛，酸痛"
+        }
+      },
+      {
+        "word": "achieve",
+        "phonetic": "[ ə ˈtʃiːv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "完成，达到；获得"
+        }
+      },
+      {
+        "word": "achievement",
+        "phonetic": "[ ə ˈtʃiːvmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "完成，达到；成就，成绩"
+        }
+      },
+      {
+        "word": "acid",
+        "phonetic": "[ˈæsɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "酸",
+          "a.": "酸的"
+        }
+      },
+      {
+        "word": "acknowledge",
+        "phonetic": "[əkˈnɑːlɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "(公开) 承认；感谢，答谢"
+        }
+      },
+      {
+        "word": "acquire",
+        "phonetic": "[ə ˈkwaɪər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "取得，获得，学到"
+        }
+      },
+      {
+        "word": "across",
+        "phonetic": "[ə ˈkrɔːs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad./prep.": "横越；交叉",
+          "prep.": "在……对面"
+        }
+      },
+      {
+        "word": "acre",
+        "phonetic": "[ˈeɪkər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "英亩"
+        }
+      },
+      {
+        "word": "act",
+        "phonetic": "[ækt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "行为，动作； ( 一) 幕；法令，条例",
+          "vi.": "行动，举动；起作用；表演"
+        }
+      },
+      {
+        "word": "action",
+        "phonetic": "[ˈækʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "行动；作用"
+        }
+      },
+      {
+        "word": "active",
+        "phonetic": "[ˈæktɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "活动的，活跃的；积极的，主动的"
+        }
+      },
+      {
+        "word": "activity",
+        "phonetic": "[ækˈtɪvəti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "活动，活跃；行动"
+        }
+      },
+      {
+        "word": "actor",
+        "phonetic": "[ˈæktər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "男演员"
+        }
+      },
+      {
+        "word": "actress",
+        "phonetic": "[ˈæktrəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "女演员"
+        }
+      },
+      {
+        "word": "actual",
+        "phonetic": "[ˈæktʃuəl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "实际的，事实上的"
+        }
+      },
+      {
+        "word": "actually",
+        "phonetic": "[ˈæktʃuəli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "事实上"
+        }
+      },
+      {
+        "word": "adapt",
+        "phonetic": "[ə ˈdæpt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "(to)使适应；改编"
+        }
+      },
+      {
+        "word": "add",
+        "phonetic": "[æd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "加，加上；增加，增进；进一步说/写",
+          "vi.": "(to)增添"
+        }
+      },
+      {
+        "word": "addition",
+        "phonetic": "[ə ˈdɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "加，加法；附加部分，增加 (物)"
+        }
+      },
+      {
+        "word": "additional",
+        "phonetic": "[ ə ˈdɪʃənl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "增加的，附加的"
+        }
+      },
+      {
+        "word": "address",
+        "phonetic": "[ˈædres]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "地址，通讯处",
+          "vt./n.": "致词，讲话",
+          "vt.": "致函；写地址"
+        }
+      },
+      {
+        "word": "adequate",
+        "phonetic": "[ˈædɪkwət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "足够的，充分的"
+        }
+      },
+      {
+        "word": "adjective",
+        "phonetic": "[ˈædʒɪktɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "形容词"
+        }
+      },
+      {
+        "word": "adjust",
+        "phonetic": "[ə ˈdʒʌst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "调整，校正",
+          "vi.": "(to)适应于"
+        }
+      },
+      {
+        "word": "administration",
+        "phonetic": "[ədˌmɪnɪˈstreɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "管理；行政，行政机关，政府"
+        }
+      },
+      {
+        "word": "admire",
+        "phonetic": "[ədˈmaɪər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "羡慕，赞赏，钦佩"
+        }
+      },
+      {
+        "word": "admit",
+        "phonetic": "[ədˈmɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "承认；准许进入；接纳"
+        }
+      },
+      {
+        "word": "adopt",
+        "phonetic": "[ə ˈdɑːpt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "收养；采用，采纳；通过"
+        }
+      },
+      {
+        "word": "adult",
+        "phonetic": "[ˈædʌlt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "成人"
+        }
+      },
+
+      {
+        "word": "advance",
+        "phonetic": "[ədˈvæns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "推进，促进；提升，提高",
+          "vi.": "前进，进展",
+          "n.": "前进，进展；预付"
+        }
+      },
+      {
+        "word": "advanced",
+        "phonetic": "[ədˈvænst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "先进的，高级的"
+        }
+      },
+      {
+        "word": "advantage",
+        "phonetic": "[ədˈvæntɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "优点，有利条件；利益，好处"
+        }
+      },
+      {
+        "word": "adventure",
+        "phonetic": "[ədˈventʃər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "冒险，惊险活动；奇遇"
+        }
+      },
+      {
+        "word": "adverb",
+        "phonetic": "[ˈædvɜːrb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "副词"
+        }
+      },
+      {
+        "word": "advertise",
+        "phonetic": "[ˈædvərtaɪz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "做广告"
+        }
+      },
+      {
+        "word": "advertisement",
+        "phonetic": "[ˌædvərˈtaɪzmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "广告"
+        }
+      },
+      {
+        "word": "advice",
+        "phonetic": "[ədˈvaɪs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "忠告，意见"
+        }
+      },
+      {
+        "word": "advisable",
+        "phonetic": "[ədˈvaɪzəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "明智的，可取的"
+        }
+      },
+      {
+        "word": "advise",
+        "phonetic": "[ədˈvaɪz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "忠告，劝告；建议"
+        }
+      },
+      {
+        "word": "advocate",
+        "phonetic": "[ˈædvəkeɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "提倡，主张；拥护"
+        }
+      },
+      {
+        "word": "affair",
+        "phonetic": "[ə ˈfer]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "事，事情，事件"
+        }
+      },
+      {
+        "word": "affect",
+        "phonetic": "[ə ˈfekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "影响，作用；感动； (疾病) 侵袭"
+        }
+      },
+
+      {
+        "word": "affection",
+        "phonetic": "[ə ˈfekʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "爱，感情；作用，影响"
+        }
+      },
+      {
+        "word": "afford",
+        "phonetic": "[ ə ˈfɔːrd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "提供，给予；供应得起"
+        }
+      },
+      {
+        "word": "afraid",
+        "phonetic": "[ə ˈfreɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "怕的，害怕的；惊恐的，担心的"
+        }
+      },
+      {
+        "word": "after",
+        "phonetic": "[ˈæftər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep./conj.": "在……之后",
+          "ad.": "以后，后来"
+        }
+      },
+      {
+        "word": "afternoon",
+        "phonetic": "[ˌæftərˈnuːn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "下午，午后"
+        }
+      },
+      {
+        "word": "afterward(s)",
+        "phonetic": "[ˈæftərwərd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "以后，后来"
+        }
+      },
+
+      {
+        "word": "again",
+        "phonetic": "[ə ˈɡen]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "再，再次；又，重新"
+        }
+      },
+      {
+        "word": "against",
+        "phonetic": "[ə ˈɡenst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "对 (着) ，逆；反对，违反；靠，靠近；和……对比"
+        }
+      },
+      {
+        "word": "age",
+        "phonetic": "[eɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "年龄；时代",
+          "vi.": "变老"
+        }
+      },
+      {
+        "word": "agency",
+        "phonetic": "[eɪdʒənsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "代理(处) ，代办(处)"
+        }
+      },
+      {
+        "word": "agenda",
+        "phonetic": "[ə ˈdʒendə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "议事日程，记事册"
+        }
+      },
+      {
+        "word": "agent",
+        "phonetic": "[ˈeɪdʒənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "代理人，经办人"
+        }
+      },
+      {
+        "word": "aggressive",
+        "phonetic": "[ə ˈɡresɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "进攻的；有进取心的"
+        }
+      },
+      {
+        "word": "ago",
+        "phonetic": "[ə ˈɡoʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "以前， ……前"
+        }
+      },
+      {
+        "word": "agree",
+        "phonetic": "[ə ˈɡri ː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(with...on)同意，赞同；(to)一致，适合；商定，约定"
+        }
+      },
+      {
+        "word": "agreeable",
+        "phonetic": "[ə ˈɡri ːəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "使人愉快的；欣然同意的；适合的"
+        }
+      },
+      {
+        "word": "agreement",
+        "phonetic": "[ə ˈɡri ːmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "同意，一致；协议，协定，契约"
+        }
+      },
+      {
+        "word": "agriculture",
+        "phonetic": "[ˈæɡrɪkʌltʃər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "农业"
+        }
+      },
+      {
+        "word": "ahead",
+        "phonetic": "[ə ˈhed]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "前头，在前，向前"
+        }
+      },
+      {
+        "word": "aid",
+        "phonetic": "[eɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "援助.救援",
+          "n.": "援助，救护；助手，辅助物"
+        }
+      },
+      {
+        "word": "aim",
+        "phonetic": "[eɪm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "瞄准，把……对准",
+          "vi.": "(at)志在， 旨在；瞄准，针对"
+        }
+      },
+      {
+        "word": "air",
+        "phonetic": "[er]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "空气，大气；天空",
+          "vt.": "晾干；使通风"
+        }
+      },
+      {
+        "word": "air-conditioning",
+        "phonetic": "[ˈerkən ˈdɪʃənɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "空调"
+        }
+      },
+      {
+        "word": "aircraft",
+        "phonetic": "[ˈerkræft]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "飞机，飞行器"
+        }
+      },
+      {
+        "word": "airline",
+        "phonetic": "[ˈerlaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "航空公司 (飞机的) 航线"
+        }
+      },
+      {
+        "word": "airplane",
+        "phonetic": "[ˈerpleɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "飞机"
+        }
+      },
+      {
+        "word": "airport",
+        "phonetic": "[ˈerpɔːrt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "机场"
+        }
+      },
+      {
+        "word": "alarm",
+        "phonetic": "[ə ˈlɑːrm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "惊恐；警报；警报器",
+          "vt.": "惊动，惊吓； 向……报警"
+        }
+      },
+      {
+        "word": "album",
+        "phonetic": "[ˈælbəm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "相片簿；集邮簿"
+        }
+      },
+      {
+        "word": "alcohol",
+        "phonetic": "[ˈælkəhɔːl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "酒精，乙醇"
+        }
+      },
+      {
+        "word": "alert",
+        "phonetic": "[ə ˈlɜːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "警觉的，提防的",
+          "vt.": "使警觉",
+          "n.": "警惕，警报"
+        }
+      },
+
+      {
+        "word": "alike",
+        "phonetic": "[ə ˈlaɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "相同的，相似的"
+        }
+      },
+      {
+        "word": "alive",
+        "phonetic": "[ ə ˈlaɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "活着的；活跃的，活泼的"
+        }
+      },
+      {
+        "word": "all",
+        "phonetic": "[ɔl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "全部的，所有的；非常的，极度的",
+          "pron.": "全部，一切",
+          "ad.": "完全地，很"
+        }
+      },
+      {
+        "word": "allow",
+        "phonetic": "[ə ˈlaʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "允许，准许；给予",
+          "vi.": "(for)考虑到"
+        }
+      },
+      {
+        "word": "ally",
+        "phonetic": "[ˈælaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "盟国，同盟者",
+          "vt.": "联合，联盟"
+        }
+      },
+      {
+        "word": "almost",
+        "phonetic": "[ˈɔːlmoʊst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "几乎，差不多"
+        }
+      },
+      {
+        "word": "alone",
+        "phonetic": "[ə ˈloʊn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a./ad.": "独自，单独",
+          "ad.": "仅仅，只"
+        }
+      },
+      {
+        "word": "along",
+        "phonetic": "[ə ˈlɔːŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "沿着",
+          "ad.": "向前"
+        }
+      },
+      {
+        "word": "aloud",
+        "phonetic": "[ə ˈlaʊd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "大声地，响亮地"
+        }
+      },
+      {
+        "word": "alphabet",
+        "phonetic": "[ˈælfəbet]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "字母表"
+        }
+      },
+      {
+        "word": "already",
+        "phonetic": "[ɔːlˈredi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "已，已经"
+        }
+      },
+      {
+        "word": "also",
+        "phonetic": "[ˈɔːlsoʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "也，同样；而且，还",
+          "vt.": "改变，变更"
+        }
+      },
+      {
+        "word": "alter",
+        "phonetic": "[ˈɔːltər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "改变，变更"
+        }
+      },
+      {
+        "word": "alternative",
+        "phonetic": "[ɔːlˈtɜːrnətɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "两者选一的，可供选择的",
+          "n.": "选择，替换物"
+        }
+      },
+      {
+        "word": "although",
+        "phonetic": "[ɔːlˈðoʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "conj.": "虽然，即使"
+        }
+      },
+      {
+        "word": "altitude",
+        "phonetic": "[ˈæltɪtuːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "高度；海拔"
+        }
+      },
+      {
+        "word": "altogether",
+        "phonetic": "[ˌɔːltə ˈɡeðər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "完全，总之，全部"
+        }
+      },
+      {
+        "word": "always",
+        "phonetic": "[ˈɔːlweɪz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "总是，永远"
+        }
+      },
+      {
+        "word": "amateur",
+        "phonetic": "[ˈæmətər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "业余爱好者"
+        }
+      },
+      {
+        "word": "amaze",
+        "phonetic": "[ə ˈmeɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使惊愕，使惊叹"
+        }
+      },
+      {
+        "word": "amazing",
+        "phonetic": "[ə ˈmeɪzɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "令人惊讶的，令人吃惊的"
+        }
+      },
+      {
+        "word": "ambassador",
+        "phonetic": "[æm ˈbæsədər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "大使"
+        }
+      },
+      {
+        "word": "ambition",
+        "phonetic": "[æm ˈbɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "雄心；野心"
+        }
+      },
+      {
+        "word": "ambitious",
+        "phonetic": "[æm ˈbɪʃəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "有雄心的，有抱负的"
+        }
+      },
+      {
+        "word": "ambulance",
+        "phonetic": "[ˈæmbjələns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "救护车"
+        }
+      },
+      {
+        "word": "among",
+        "phonetic": "[ə ˈmʌŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……之中，在……之间"
+        }
+      },
+      {
+        "word": "amount",
+        "phonetic": "[ə ˈmaʊnt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "数量，数额，总数",
+          "vt.": "(to)合计，相当于，等同"
+        }
+      },
+      {
+        "word": "amuse",
+        "phonetic": "[ə ˈmjuːz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "逗乐，使开心；给……提供娱乐"
+        }
+      },
+      {
+        "word": "amusing",
+        "phonetic": "[ə ˈmjuːzɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "逗人笑的，有趣的，好玩的"
+        }
+      },
+      {
+        "word": "analysis",
+        "phonetic": "[ə ˈnæləsɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "分析，解析"
+        }
+      },
+      {
+        "word": "analyze/-se",
+        "phonetic": "[ˈænəlaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "分析，解析"
+        }
+      },
+      {
+        "word": "ancestor",
+        "phonetic": "[ˈænsestər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "祖先，前辈"
+        }
+      },
+      {
+        "word": "anchor",
+        "phonetic": "[ˈæŋkər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "锚",
+          "vt./vt.": "抛锚， (使) 停泊； (使) 固定"
+        }
+      },
+      {
+        "word": "ancient",
+        "phonetic": "[ˈeɪnʃənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "古代的，古老的"
+        }
+      },
+      {
+        "word": "and",
+        "phonetic": "[ənd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "conj.": "和，与，及；那么，则"
+        }
+      },
+      {
+        "word": "angel",
+        "phonetic": "[ˈeɪndʒl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "天使"
+        }
+      },
+      {
+        "word": "anger",
+        "phonetic": "[ˈæŋɡər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "气愤，愤怒",
+          "vt.": "使发怒，激怒"
+        }
+      },
+      {
+        "word": "angle",
+        "phonetic": "[ˈæŋɡl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "角；角度；观点"
+        }
+      },
+      {
+        "word": "angry",
+        "phonetic": "[ˈæŋɡri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "愤怒的，生气的"
+        }
+      },
+      {
+        "word": "animal",
+        "phonetic": "[ˈænɪml]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "动物,野兽,牲畜",
+          "a.": "动物的，野兽的"
+        }
+      },
+      {
+        "word": "ankle",
+        "phonetic": "[ˈæŋkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "踝，踝关节"
+        }
+      },
+      {
+        "word": "anniversary",
+        "phonetic": "[ˌænɪˈvɜːrsəri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "周年纪念 ( 日)"
+        }
+      },
+      {
+        "word": "announce",
+        "phonetic": "[ə ˈnaʊns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "宣布，通告"
+        }
+      },
+      {
+        "word": "annoy",
+        "phonetic": "[ə ˈnɔɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "使烦恼，使生气，打搅"
+        }
+      },
+      {
+        "word": "another",
+        "phonetic": "[ə ˈnʌðər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "另一，再一；别的",
+          "pron.": "另一个"
+        }
+      },
+      {
+        "word": "answer",
+        "phonetic": "[ˈænsər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "回答，答复；答案",
+          "vt./vi.": "回答，答复"
+        }
+      },
+      {
+        "word": "ant",
+        "phonetic": "[ænt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "蚂蚁"
+        }
+      },
+      {
+        "word": "anticipate",
+        "phonetic": "[æn ˈtɪsɪpeɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "预期，预料；指望，期待"
+        }
+      },
+      {
+        "word": "antique",
+        "phonetic": "[ænˈtiːk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "古时的，古老的",
+          "n.": "古物，古董"
+        }
+      },
+      {
+        "word": "anxiety",
+        "phonetic": "[æŋˈzaɪəti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "挂念，焦虑，担心；渴望，热望"
+        }
+      },
+      {
+        "word": "anxious",
+        "phonetic": "[ˈæŋkʃəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "焦虑的，担忧的；渴望的，急切的"
+        }
+      },
+      {
+        "word": "any",
+        "phonetic": "[ˈeni]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "任何的，任一的； [否定、疑问、条件句中]什么，一些",
+          "pron.": "无论哪个，无论哪些，任一 anybody= anyone"
+        }
+      },
+      {
+        "word": "anyhow",
+        "phonetic": "[ˈenihaʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "不管以何种方式；无论如何",
+          "pron.": " anyway [ˈeniweɪ]"
+        }
+      },
+      {
+        "word": "anyone",
+        "phonetic": "[ˈeniwʌn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "pron.": "[否定、疑问、条件句中]任何人； [肯定句中]随便哪一个人"
+        }
+      },
+      {
+        "word": "anything",
+        "phonetic": "[ˈeniθɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "pron.": "[否定、疑问、条件句中]任何事 (物) ；无论什么事 (物)"
+        }
+      },
+      {
+        "word": "anyway",
+        "phonetic": "[ˈeniweɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "不管以何种方式；无论如何"
+        }
+      },
+      {
+        "word": "anywhere",
+        "phonetic": "[ˈeniwer]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "无论哪里； [否定、疑问、条件句中]任何地方"
+        }
+      },
+      {
+        "word": "apart",
+        "phonetic": "[ ə ˈpɑːrt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "分离，隔开；相距，相隔"
+        }
+      },
+      {
+        "word": "apartment",
+        "phonetic": "[ ə ˈpɑːrtmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "一套房间"
+        }
+      },
+      {
+        "word": "apologize/-se",
+        "phonetic": "[ə ˈpɑːlədʒaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "道歉；赔罪"
+        }
+      },
+      {
+        "word": "apology",
+        "phonetic": "[ə ˈpɑːlədʒi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "道歉，歉意"
+        }
+      },
+      {
+        "word": "apparent",
+        "phonetic": "[ə ˈpærənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "明显的；表面的"
+        }
+      },
+      {
+        "word": "appeal",
+        "phonetic": "[ə ˈpi ːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(to)请求，呼吁；吸引；上诉；求助",
+          "n.": "呼吁；吸引力；上诉"
+        }
+      },
+
+      {
+        "word": "appear",
+        "phonetic": "[ə ˈpɪr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "出现，出场，问世；好像是"
+        }
+      },
+      {
+        "word": "appearance",
+        "phonetic": "[ə ˈpɪrəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "出现，出场，露面；外表，外观"
+        }
+      },
+      {
+        "word": "appetite",
+        "phonetic": "[ˈæpɪtaɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "食欲， 胃 口；欲望"
+        }
+      },
+      {
+        "word": "apple",
+        "phonetic": "[ˈæpl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "苹果"
+        }
+      },
+      {
+        "word": "applicant",
+        "phonetic": "[ˈæplɪkənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "申请者"
+        }
+      },
+      {
+        "word": "application",
+        "phonetic": "[ˌæplɪ ˈkeɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "申请，申请书；运用，应用"
+        }
+      },
+      {
+        "word": "apply",
+        "phonetic": "[ə ˈplaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(for)申请",
+          "vt.": "(to)运用，应用"
+        }
+      },
+      {
+        "word": "appoint",
+        "phonetic": "[ə ˈpɔɪnt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "任命，委派；约定"
+        }
+      },
+      {
+        "word": "appointment",
+        "phonetic": "[ə ˈpɔɪntmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "约会，约见；任命，委派"
+        }
+      },
+      {
+        "word": "appreciate",
+        "phonetic": "[ə ˈpri ːʃieɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "感激，感谢；评价，欣赏，赏识"
+        }
+      },
+      {
+        "word": "approach",
+        "phonetic": "[ə ˈproʊtʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "接近，靠近；处理，对待",
+          "n.": "走近；方法，探讨；观点"
+        }
+      },
+      {
+        "word": "appropriate",
+        "phonetic": "[ə ˈproʊpriət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "适当的，恰当的"
+        }
+      },
+      {
+        "word": "approval",
+        "phonetic": "[ə ˈpruːvl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "同意，赞同；批准"
+        }
+      },
+      {
+        "word": "approve",
+        "phonetic": "[ə ˈpruːv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(of)赞成，赞许，同意",
+          "vt.": "批准，通过"
+        }
+      },
+      {
+        "word": "approximate",
+        "phonetic": "[ə ˈprɑːksɪmət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "大致的，近似的"
+        }
+      },
+      {
+        "word": "April",
+        "phonetic": "[eɪprəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "四月"
+        }
+      },
+      {
+        "word": "architecture",
+        "phonetic": "[ˈɑːrkɪtektʃər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "建筑；建筑学"
+        }
+      },
+      {
+        "word": "area",
+        "phonetic": "[ˈeriə]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "面积；地区；范围，领域"
+        }
+      },
+      {
+        "word": "argue",
+        "phonetic": "[ˈɑːrɡjuː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "辩论，争论",
+          "vt.": "辩论，论证；说服"
+        }
+      },
+      {
+        "word": "argument",
+        "phonetic": "[ˈɑːrɡjumənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "争论，辩论；论点，依据"
+        }
+      },
+      {
+        "word": "arise",
+        "phonetic": "[ə ˈraɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "出现，发生；(from)由……引起， 由……产生"
+        }
+      },
+      {
+        "word": "arithmetic",
+        "phonetic": "[ə ˈrɪθmətɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "算术"
+        }
+      },
+      {
+        "word": "arm",
+        "phonetic": "[ɑːrm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "手臂，臂状物；( pl. )武器",
+          "vt.": "武装，装备"
+        }
+      },
+      {
+        "word": "army",
+        "phonetic": "[ˈɑːrmi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "军队，陆军；大群，大批"
+        }
+      },
+      {
+        "word": "around",
+        "phonetic": "[ə ˈraʊnd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "周围，在附近；到处；大约",
+          "prep.": "在……周围，围着；在各地"
+        }
+      },
+      {
+        "word": "arouse",
+        "phonetic": "[ə ˈraʊz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "唤起，激起"
+        }
+      },
+      {
+        "word": "arrange",
+        "phonetic": "[ ə ˈreɪndʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "整理，布置；安排，筹备"
+        }
+      },
+      {
+        "word": "arrangement",
+        "phonetic": "[ ə ˈreɪndʒmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "安排，准备工作；整理，布置"
+        }
+      },
+      {
+        "word": "arrest",
+        "phonetic": "[ə ˈrest]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "逮捕，扣留"
+        }
+      },
+      {
+        "word": "arrival",
+        "phonetic": "[ə ˈraɪvl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "到来，到达；到达的人/物"
+        }
+      },
+      {
+        "word": "arrive",
+        "phonetic": "[ə ˈraɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "到来，到达；(at)达成，得出"
+        }
+      },
+      {
+        "word": "arrow",
+        "phonetic": "[ˈæroʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "箭，箭状物"
+        }
+      },
+      {
+        "word": "art",
+        "phonetic": "[ɑːrt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "艺术，美术；技术，技艺；( pl. )文科"
+        }
+      },
+      {
+        "word": "article",
+        "phonetic": "[ˈɑːrtɪkl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "文章；物件"
+        }
+      },
+      {
+        "word": "artificial",
+        "phonetic": "[ˌɑːrtɪ ˈfɪʃl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "人工的，人造的；人为的，做作的"
+        }
+      },
+      {
+        "word": "artist",
+        "phonetic": "[ˈɑːrtɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "艺术家，美术家"
+        }
+      },
+      {
+        "word": "artistic",
+        "phonetic": "[ɑːrˈtɪstɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "艺术 (家) 的，美术 (家) 的"
+        }
+      },
+      {
+        "word": "as",
+        "phonetic": "[əz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "conj.": "当/在……时候；如……一样；由于，因为",
+          "prep.": "作为，当作"
+        }
+      },
+      {
+        "word": "ash",
+        "phonetic": "[æʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "灰，灰烬"
+        }
+      },
+      {
+        "word": "ashamed",
+        "phonetic": "[ə ˈʃeɪmd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "惭愧的，害臊的"
+        }
+      },
+      {
+        "word": "aside",
+        "phonetic": "[ə ˈ saɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "在旁边；到 (向) 一边"
+        }
+      },
+      {
+        "word": "ask",
+        "phonetic": "[æsk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "问，询问；请求；邀请，约请"
+        }
+      },
+      {
+        "word": "asleep",
+        "phonetic": "[ə ˈ sliːp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "睡着的"
+        }
+      },
+      {
+        "word": "aspect",
+        "phonetic": "[ˈæspekt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "样子，面貌；方面"
+        }
+      },
+      {
+        "word": "assemble",
+        "phonetic": "[ ə ˈ sembl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "集合，集会；装配，组装",
+          "vi.": "集会，聚集"
+        }
+      },
+      {
+        "word": "assembly",
+        "phonetic": "[ə ˈ sembli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "集会，会议；装配，组装"
+        }
+      },
+      {
+        "word": "assess",
+        "phonetic": "[ ə ˈses]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "估计，估算；评估，评价，评定"
+        }
+      },
+      {
+        "word": "asset",
+        "phonetic": "[ˈæset]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "( pl. )资产，财产；有用的资源，宝贵的人/物；优点，益处"
+        }
+      },
+      {
+        "word": "assign",
+        "phonetic": "[ ə ˈsaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "派给，分配；选定，指定 (时间、地点等)"
+        }
+      },
+      {
+        "word": "assignment",
+        "phonetic": "[ə ˈsaɪnmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(分派的) 任务， (指定的) 作业；分配，指派"
+        }
+      },
+      {
+        "word": "assist",
+        "phonetic": "[ə ˈ sɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "帮助，援助"
+        }
+      },
+      {
+        "word": "assistant",
+        "phonetic": "[ə ˈ sɪstənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "助手的，辅助的",
+          "n.": "助手，助理；助教"
+        }
+      },
+      {
+        "word": "associate",
+        "phonetic": "[ ə ˈ soʊʃieɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "联系；联合",
+          "vi.": "交往",
+          "n.": "合作人，同事"
+        }
+      },
+      {
+        "word": "association",
+        "phonetic": "[ə ˌ soʊʃiˈeɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "协会，团体；交往；联合，合伙"
+        }
+      },
+      {
+        "word": "assume",
+        "phonetic": "[ə ˈ suːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "假定，设想；假装；承担"
+        }
+      },
+      {
+        "word": "assumption",
+        "phonetic": "[ ə ˈsʌmpʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "假定，设想；担任，承担"
+        }
+      },
+      {
+        "word": "assure",
+        "phonetic": "[ ə ˈʃʊr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使确信； 向……保证"
+        }
+      },
+      {
+        "word": "astonish",
+        "phonetic": "[ə ˈ stɑːnɪʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使惊讶，使吃惊"
+        }
+      },
+      {
+        "word": "at",
+        "phonetic": "[ət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "prep.": "[表示地点、位置、场合]在，于；[表示时刻、时节、年龄]在，当；[表示 目标、 方向]对，向； [表示速度、价格等]以；在……方面"
+        }
+      },
+      {
+        "word": "atmosphere",
+        "phonetic": "[ˈætməsfɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "空气；大气，大气层；气氛"
+        }
+      },
+      {
+        "word": "atom",
+        "phonetic": "[ætəm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "原子"
+        }
+      },
+      {
+        "word": "atomic",
+        "phonetic": "[ə ˈtɑːmɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "原子的，原子能的"
+        }
+      },
+      {
+        "word": "attach",
+        "phonetic": "[ə ˈtætʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "贴上，系上，附上；使依附"
+        }
+      },
+      {
+        "word": "athlete",
+        "phonetic": "[ˈæθliːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "运动员，运动选手"
+        }
+      },
+      {
+        "word": "attack",
+        "phonetic": "[ə ˈtæk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "攻击，进攻，抨击； (病) 发作"
+        }
+      },
+      {
+        "word": "attempt",
+        "phonetic": "[ə ˈtempt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "试图，努力"
+        }
+      },
+      {
+        "word": "attend",
+        "phonetic": "[ə ˈtend]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "出席；参加；照顾，护理",
+          "vi.": "(to)注意，留意；专心于"
+        }
+      },
+      {
+        "word": "attention",
+        "phonetic": "[ə ˈtenʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "注意，关心；注意力；立正；警戒"
+        }
+      },
+      {
+        "word": "attitude",
+        "phonetic": "[ˈætɪtuːd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "态度，看法"
+        }
+      },
+      {
+        "word": "attract",
+        "phonetic": "[ə ˈtrækt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "吸引，招引，引诱"
+        }
+      },
+      {
+        "word": "attraction",
+        "phonetic": "[ə ˈtrækʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "吸引；吸引力"
+        }
+      },
+      {
+        "word": "attractive",
+        "phonetic": "[ə ˈtræktɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "有吸引力的；有魅力的，动人的"
+        }
+      },
+      {
+        "word": "audience",
+        "phonetic": "[ˈɔːdiəns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "听众，观众"
+        }
+      },
+      {
+        "word": "August",
+        "phonetic": "[ˈɔːɡəst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "八月"
+        }
+      },
+      {
+        "word": "audio",
+        "phonetic": "[ˈɔːdioʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "八月",
+          "a.": "声音 (的) ，听觉 (的) ；音频 (的)"
+        }
+      },
+      {
+        "word": "aunt",
+        "phonetic": "[ænt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "伯母，婶母，姑母，舅母，姨母"
+        }
+      },
+      {
+        "word": "author",
+        "phonetic": "[ˈɔːθər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "作者"
+        }
+      },
+      {
+        "word": "authority",
+        "phonetic": "[ə ˈθɔːrəti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "权利，权威；权威人士；(pl.)当局 "
+        }
+      },
+      {
+        "word": "auto",
+        "phonetic": "[ˈɔːtəʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "汽车；机动车",
+          "adj.": "汽车的"
+        }
+      },
+      {
+        "word": "automatic",
+        "phonetic": "[ˌɔːtə ˈmætɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "自动的"
+        }
+      },
+      {
+        "word": "automobile",
+        "phonetic": "[ˈɔːtəməbiːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "汽车"
+        }
+      },
+      {
+        "word": "autumn",
+        "phonetic": "[ˈɔːtəm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "秋，秋季"
+        }
+      },
+      {
+        "word": "available",
+        "phonetic": "[ə ˈveɪləbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "可利用的；可得到的"
+        }
+      },
+      {
+        "word": "avenue",
+        "phonetic": "[ˈævənuː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "林荫路，大街"
+        }
+      },
+      {
+        "word": "average",
+        "phonetic": "[ˈævərɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "平均，平均数",
+          "a.": "平均的；平常的，普通的"
+        }
+      },
+      {
+        "word": "avoid",
+        "phonetic": "[ə ˈvɔɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "避免，逃避"
+        }
+      },
+      {
+        "word": "awake",
+        "phonetic": "[ə ˈweɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "醒着的；意识到的",
+          "vt.": "唤醒，唤起",
+          "vi.": "醒来；醒悟，觉悟"
+        }
+      },
+      {
+        "word": "award",
+        "phonetic": "[ə ˈwɔːrd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "奖，奖品",
+          "vt.": "授予，奖给"
+        }
+      },
+      {
+        "word": "aware",
+        "phonetic": "[ ə ˈwer]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "(of)知道的，意识到的"
+        }
+      },
+      {
+        "word": "awareness",
+        "phonetic": "[ə ˈwernəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "察觉，觉悟，意识"
+        }
+      },
+      {
+        "word": "away",
+        "phonetic": "[ə ˈweɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "远离，离开"
+        }
+      },
+      {
+        "word": "awful",
+        "phonetic": "[ˈɔːfl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "糟糕的，极坏的"
+        }
+      },
+      {
+        "word": "awkward",
+        "phonetic": "[ˈɔːkwərd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "粗笨的，笨拙的；尴尬的，棘手的"
+        }
+      },
+      {
+        "word": "ax(e)",
+        "phonetic": "[æks]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "斧子"
+        }
+      }
+    ]
+  },
+  {
+    "title": "B",
+    "words": [
+      {
+        "word": "baby",
+        "phonetic": "[ˈbeɪbi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "婴儿，孩子"
+        }
+      },
+      {
+        "word": "bachelor",
+        "phonetic": "[ˈbætʃələr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "学士；单身汉"
+        }
+      },
+      {
+        "word": "back",
+        "phonetic": "[bæk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "向后，后退；回复",
+          "n.": "背，背面，后面",
+          "a.": "后面的，背后的",
+          "vt.": "使后退；支持"
+        }
+      },
+      {
+        "word": "background",
+        "phonetic": "[ˈbækɡraʊnd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "背景；经历"
+        }
+      },
+      {
+        "word": "backward(s)",
+        "phonetic": "[ˈbækwərd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "向后的，相反的；落后的",
+          "ad.": "向后地，倒，逆"
+        }
+      },
+      {
+        "word": "bacon",
+        "phonetic": "[ˈbeɪkən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "咸肉；熏肉"
+        }
+      },
+      {
+        "word": "bacteria",
+        "phonetic": "[bækˈtɪriə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "( pl. )细菌"
+        }
+      },
+      {
+        "word": "bad",
+        "phonetic": "[bæd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "坏的，恶的；有害的，不利的；低劣的，拙劣的；腐败的，臭的；不舒服 的， 病的；严重的，厉害的"
+        }
+      },
+      {
+        "word": "badge",
+        "phonetic": "[bædʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "徽章，像章；标志"
+        }
+      },
+      {
+        "word": "badly",
+        "phonetic": "[ˈbædli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "非常，在很大程度上，严重地；坏，拙劣地；不利地，有害地"
+        }
+      },
+      {
+        "word": "bag",
+        "phonetic": "[bæd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "袋，提包，背包"
+        }
+      },
+      {
+        "word": "baggage",
+        "phonetic": "[ˈbæɡɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "行李"
+        }
+      },
+      {
+        "word": "bakery",
+        "phonetic": "[ˈbeɪkəri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "面包烘烤房，面包店"
+        }
+      },
+      {
+        "word": "bake",
+        "phonetic": "[beɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "烤，烘，焙"
+        }
+      },
+      {
+        "word": "balance",
+        "phonetic": "[ˈbæləns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "使平衡",
+          "n.": "平衡；差额，结余；天平，秤"
+        }
+      },
+      {
+        "word": "ball",
+        "phonetic": "[bɔːl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "球，球状物；大型舞会"
+        }
+      },
+      {
+        "word": "balloon",
+        "phonetic": "[bə ˈluːn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "气球"
+        }
+      },
+      {
+        "word": "bamboo",
+        "phonetic": "[ˌbæm ˈbuː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "竹子"
+        }
+      },
+      {
+        "word": "ban",
+        "phonetic": "[bæn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "禁止；取缔，查禁",
+          "n.": "禁止，禁令"
+        }
+      },
+      {
+        "word": "banana",
+        "phonetic": "[bə ˈnænə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "香蕉"
+        }
+      },
+      {
+        "word": "band",
+        "phonetic": "[bænd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "条，带；乐队，军乐队；一群，一伙；波段"
+        }
+      },
+      {
+        "word": "bang",
+        "phonetic": "[bæŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "巨响，爆炸声；猛击，猛撞",
+          "vi.": "猛击，猛撞；发出砰的一声，砰砰作响",
+          "vt.": "猛击，猛撞"
+        }
+      },
+      {
+        "word": "bank",
+        "phonetic": "[bæŋk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "岸，堤；银行"
+        }
+      },
+      {
+        "word": "bankrupt",
+        "phonetic": "[ˈbæŋkrʌpt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "破产的",
+          "vt.": "使破产",
+          "n.": "破产者"
+        }
+      },
+      {
+        "word": "banner",
+        "phonetic": "[ˈbænər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "横幅；旗帜"
+        }
+      },
+      {
+        "word": "banquet",
+        "phonetic": "[ˈbæŋkwɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "宴会，盛宴"
+        }
+      },
+      {
+        "word": "bar",
+        "phonetic": "[bɑːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "棍，横木，闩；酒吧"
+        }
+      },
+      {
+        "word": "barber",
+        "phonetic": "[ˈbɑːrbər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "理发师"
+        }
+      },
+      {
+        "word": "bare",
+        "phonetic": "[ber]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "赤裸的，光秃的，空的；极少的，仅有的"
+        }
+      },
+      {
+        "word": "barely",
+        "phonetic": "[ˈberli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "几乎没有；仅仅"
+        }
+      },
+      {
+        "word": "bargain",
+        "phonetic": "[ˈbɑːrɡən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(with)讨价还价",
+          "n.": "便宜货，交易"
+        }
+      },
+      {
+        "word": "bark",
+        "phonetic": "[bɑːrk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "树皮；吠声",
+          "vi.": "吠；叫骂"
+        }
+      },
+      {
+        "word": "barn",
+        "phonetic": "[bɑːrn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "谷仓；牲口棚"
+        }
+      },
+      {
+        "word": "barrier",
+        "phonetic": "[ˈbæriər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "栅栏；障碍，屏障"
+        }
+      },
+      {
+        "word": "base",
+        "phonetic": "[beɪs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "基 (础) ，底 (座) ；基地",
+          "vt.": "(on)把……建立在……基础上"
+        }
+      },
+      {
+        "word": "baseball",
+        "phonetic": "[ˈbeɪsbɔːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "棒球，棒球运动"
+        }
+      },
+      {
+        "word": "basement",
+        "phonetic": "[ˈbeɪsmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "地下室"
+        }
+      },
+      {
+        "word": "basic",
+        "phonetic": "[ˈbeɪsɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "基本的，基础的，根本的；主要的，首要的",
+          "n.": "基础，基本"
+        }
+      },
+      {
+        "word": "basically",
+        "phonetic": "[ˈbeɪsɪkli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "基本地，根本地"
+        }
+      },
+      {
+        "word": "basin",
+        "phonetic": "[ˈbeɪsn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "盆；盆地"
+        }
+      },
+      {
+        "word": "basis",
+        "phonetic": "[ˈbeɪsɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "基础，基底；基准，根据"
+        }
+      },
+      {
+        "word": "basket",
+        "phonetic": "[ˈbæskɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "篮子，篓"
+        }
+      },
+      {
+        "word": "basketball",
+        "phonetic": "[ˈbæskɪtbɔːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "篮球(运动)"
+        }
+      },
+      {
+        "word": "bat",
+        "phonetic": "[bæt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "蝙蝠；球棒"
+        }
+      },
+      {
+        "word": "bath",
+        "phonetic": "[bæθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "洗澡，沐浴；浴缸，浴盆，浴池"
+        }
+      },
+      {
+        "word": "bathroom",
+        "phonetic": "[ˈbæθruːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "浴室；盥洗室"
+        }
+      },
+      {
+        "word": "battery",
+        "phonetic": "[ˈbætri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "电池 (组)"
+        }
+      },
+      {
+        "word": "battle",
+        "phonetic": "[ˈbætl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "战斗，战役，斗争",
+          "vi.": "战斗，斗争"
+        }
+      },
+      {
+        "word": "bathe",
+        "phonetic": "[beɪð]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "洗澡"
+        }
+      },
+      {
+        "word": "bay",
+        "phonetic": "[beɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "湾，海湾"
+        }
+      },
+      {
+        "word": "be",
+        "phonetic": "[bi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "是，就是，等于；在，存在",
+          "aux. v.": "[与动词现在分词连用，构成各种进行时态]； [与及物动词的过去分词连 用， 构成被动语态]； [后接动词不定式，表示安排等]"
+        }
+      },
+      {
+        "word": "beach",
+        "phonetic": "[biːtʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "海滨，海滩"
+        }
+      },
+      {
+        "word": "beak",
+        "phonetic": "[biːk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "喙"
+        }
+      },
+      {
+        "word": "beam",
+        "phonetic": "[biːm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "一束；一道横梁",
+          "vi.": "发光，发热"
+        }
+      },
+      {
+        "word": "bean",
+        "phonetic": "[biːn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "豆，菜豆"
+        }
+      },
+      {
+        "word": "bear",
+        "phonetic": "[ber]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "熊",
+          "vt.": "忍受，容忍；负荷，负担；生育；心怀 (爱憎等感情)"
+        }
+      },
+      {
+        "word": "beard",
+        "phonetic": "[bɪrd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "胡须"
+        }
+      },
+      {
+        "word": "beast",
+        "phonetic": "[biːst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "兽，牲畜；凶残的人"
+        }
+      },
+      {
+        "word": "beat",
+        "phonetic": "[biːt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "打，击；打败，战胜",
+          "vi.": "跳动",
+          "n.": "跳动；拍子，节拍"
+        }
+      },
+      {
+        "word": "beautiful",
+        "phonetic": "[ˈbjuːtɪfl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "美的，美丽的"
+        }
+      },
+      {
+        "word": "beauty",
+        "phonetic": "[ˈbjuːti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "美，美丽；美人，美丽的东西"
+        }
+      },
+      {
+        "word": "because",
+        "phonetic": "[bɪ ˈkəz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "conj.": "因为"
+        }
+      },
+      {
+        "word": "become",
+        "phonetic": "[bɪ ˈkʌm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "成为，变成"
+        }
+      },
+      {
+        "word": "bed",
+        "phonetic": "[bed]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "床，床位；苗圃，花坛；河床，海底"
+        }
+      },
+      {
+        "word": "bee",
+        "phonetic": "[biː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "蜜蜂"
+        }
+      },
+      {
+        "word": "beef",
+        "phonetic": "[biːf]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "牛肉"
+        }
+      },
+      {
+        "word": "beer",
+        "phonetic": "[bɪr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "啤酒"
+        }
+      },
+      {
+        "word": "before",
+        "phonetic": "[bɪ ˈfɔːr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep./conj.": "在……之前",
+          "prep.": "在……前面",
+          "ad.": "从前，早些时候"
+        }
+      },
+      {
+        "word": "bed",
+        "phonetic": "[bed]",
+        "key_word": true,
+        "definitions_by_pos": {}
+      },
+      {
+        "word": "beforehand",
+        "phonetic": "[bɪ ˈfɔːrhænd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "预先"
+        }
+      },
+      {
+        "word": "beggar",
+        "phonetic": "[ˈbeɡər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "乞丐，穷人"
+        }
+      },
+      {
+        "word": "begin",
+        "phonetic": "[bɪ ˈɡɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "开始，着手"
+        }
+      },
+      {
+        "word": "beginning",
+        "phonetic": "[bɪ ˈɡɪnɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "开始，开端；起因"
+        }
+      },
+      {
+        "word": "behalf",
+        "phonetic": "[bɪ ˈhæf]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "利益；方面；支持"
+        }
+      },
+      {
+        "word": "behave",
+        "phonetic": "[bɪ ˈheɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "举动，举止，表现"
+        }
+      },
+      {
+        "word": "behavio(u)r",
+        "phonetic": "[bɪ ˈhevjər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "行为，举止"
+        }
+      },
+      {
+        "word": "behind",
+        "phonetic": "[bɪ ˈhaɪnd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "prep.": "在……后面，落后于",
+          "ad.": "在后，落后"
+        }
+      },
+      {
+        "word": "being",
+        "phonetic": "[ˈbiːɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "存在，生存；存在物，生物，人"
+        }
+      },
+      {
+        "word": "belief",
+        "phonetic": "[bɪ ˈliːf]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "相信；信仰，信条，信念"
+        }
+      },
+      {
+        "word": "believe",
+        "phonetic": "[bɪ ˈliːv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "相信，认为",
+          "vi.": "相信，信任，信奉"
+        }
+      },
+      {
+        "word": "bell",
+        "phonetic": "[bel]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "钟，铃"
+        }
+      },
+      {
+        "word": "belong",
+        "phonetic": "[bɪ ˈlɔːŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(to)属，附属；归类于"
+        }
+      },
+      {
+        "word": "beloved",
+        "phonetic": "[bɪ ˈlʌvd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "心爱的"
+        }
+      },
+      {
+        "word": "below",
+        "phonetic": "[bɪ ˈloʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……下面，在……以下",
+          "ad.": "在下，以下，向下"
+        }
+      },
+
+      {
+        "word": "belt",
+        "phonetic": "[belt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "带，腰带"
+        }
+      },
+      {
+        "word": "bench",
+        "phonetic": "[bentʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "长凳，条凳；工作台；台，座"
+        }
+      },
+      {
+        "word": "bend",
+        "phonetic": "[bend]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "弯曲； 曲折处",
+          "vt.": "折弯；使屈服"
+        }
+      },
+      {
+        "word": "beneath",
+        "phonetic": "[bɪ ˈni ːθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……下方，在……之下",
+          "ad.": "在下方"
+        }
+      },
+      {
+        "word": "beneficial",
+        "phonetic": "[ˌbenɪˈfɪʃl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "有益的，有利的"
+        }
+      },
+      {
+        "word": "benefit",
+        "phonetic": "[ˈbenɪfɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "利益，恩惠",
+          "vt.": "有利于，受益于",
+          "vi.": "(from)得益于"
+        }
+      },
+      {
+        "word": "beside",
+        "phonetic": "[bɪ ˈ saɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "prep.": "在……旁边；和……相比"
+        }
+      },
+      {
+        "word": "besides",
+        "phonetic": "[bɪ ˈ saɪdz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "而且，还有",
+          "prep.": "除……之外"
+        }
+      },
+      {
+        "word": "best",
+        "phonetic": "[best]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "最好的",
+          "ad.": "最，最好"
+        }
+      },
+      {
+        "word": "bet",
+        "phonetic": "[bet]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "以……打赌，与……打赌",
+          "vi.": "赌，打赌",
+          "n.": "打赌；赌注，赌金"
+        }
+      },
+      {
+        "word": "betray",
+        "phonetic": "[bɪ ˈtreɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "背叛，辜负，暴露"
+        }
+      },
+      {
+        "word": "better",
+        "phonetic": "[ˈbetər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "较好的，更好的",
+          "ad.": "更好",
+          "vt.": "改良，改善"
+        }
+      },
+      {
+        "word": "between",
+        "phonetic": "[bɪ ˈtwi ːn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……中间，在……之间",
+          "ad.": "当中，中间"
+        }
+      },
+      {
+        "word": "beyond",
+        "phonetic": "[bɪ ˈjɑːnd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……那边，在……以外；超出，超过",
+          "ad.": "在那边，在远处"
+        }
+      },
+      {
+        "word": "Bible",
+        "phonetic": "[ˈbaɪbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "圣经"
+        }
+      },
+      {
+        "word": "bicycle",
+        "phonetic": "[ˈbaɪsɪkl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "自行车"
+        }
+      },
+      {
+        "word": "bid",
+        "phonetic": "[bɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "出价，投标",
+          "n.": "出价，投标"
+        }
+      },
+      {
+        "word": "big",
+        "phonetic": "[bɪɡ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "大的，重要的"
+        }
+      },
+      {
+        "word": " bike= bicycle",
+        "key_word": false
+      },
+      {
+        "word": "bill",
+        "phonetic": "[bɪl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "账单；票据；纸币；提案"
+        }
+      },
+      {
+        "word": "billion",
+        "phonetic": "[ˈbɪljən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "[美]十亿； [英]万亿"
+        }
+      },
+      {
+        "word": "bind",
+        "phonetic": "[baɪnd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "绑，包扎；束缚"
+        }
+      },
+      {
+        "word": "biology",
+        "phonetic": "[baɪˈɑːlədʒi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "生物学"
+        }
+      },
+      {
+        "word": "bird",
+        "phonetic": "[bɜːrd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "鸟，禽"
+        }
+      },
+      {
+        "word": "birth",
+        "phonetic": "[bɜːrθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "出生；出身；起源"
+        }
+      },
+      {
+        "word": "birthday",
+        "phonetic": "[ˈbɜːrθdeɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "生日"
+        }
+      },
+      {
+        "word": "biscuit",
+        "phonetic": "[ˈbɪskɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "饼干"
+        }
+      },
+      {
+        "word": "bit",
+        "phonetic": "[bɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "一片，一点，一些"
+        }
+      },
+
+      {
+        "word": "bite",
+        "phonetic": "[baɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n": "咬，叮",
+          "n.": "一口"
+        }
+      },
+      {
+        "word": "bitter",
+        "phonetic": "[ˈbɪtər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "苦味的；痛苦的；严寒的"
+        }
+      },
+      {
+        "word": "black",
+        "phonetic": "[blæk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a./n.": "黑，黑色；黑暗",
+          "n.": "黑色，黑人"
+        }
+      },
+      {
+        "word": "blackboard",
+        "phonetic": "[ˈblækbɔːrd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "黑板"
+        }
+      },
+      {
+        "word": "blade",
+        "phonetic": "[bleɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "刀刃，刀片；叶片；翼"
+        }
+      },
+      {
+        "word": "blame",
+        "phonetic": "[bleɪm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "(过错、事故等的) 责任；责怪，责备",
+          "vt.": "责备，怪，怨；(on)把……归咎于"
+        }
+      },
+      {
+        "word": "blank",
+        "phonetic": "[blæŋk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "空白；空白表格",
+          "a.": "空白的，空着的；茫然的，无表情的"
+        }
+      },
+
+      {
+        "word": "blanket",
+        "phonetic": "[ˈblæŋkɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "毛毯，毯子"
+        }
+      },
+      {
+        "word": "blast",
+        "phonetic": "[blæst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "炸掉，摧毁",
+          "n.": "爆炸，爆破；一阵 (风)"
+        }
+      },
+      {
+        "word": "bleed",
+        "phonetic": "[bliːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "出血，流血"
+        }
+      },
+      {
+        "word": "blend",
+        "phonetic": "[blend]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "混合，掺杂，调和",
+          "n.": "混合；混合物"
+        }
+      },
+      {
+        "word": "blind",
+        "phonetic": "[blaɪnd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "盲的，瞎的；盲目的",
+          "vt.": "使失明；蒙蔽"
+        }
+      },
+      {
+        "word": "block",
+        "phonetic": "[blɑːk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "阻塞，封锁；",
+          "n.": "街区，街段；大块 (木料、石 料、金屈、冰等) ；阻塞物，路障"
+        }
+      },
+      {
+        "word": "blood",
+        "phonetic": "[blʌd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "血，血液；血统，血亲"
+        }
+      },
+      {
+        "word": "bloody",
+        "phonetic": "[ˈblʌdi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "流血的；血腥的；残忍的"
+        }
+      },
+      {
+        "word": "bloom",
+        "phonetic": "[bluːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "开花，繁荣",
+          "n.": "花；开花期"
+        }
+      },
+      {
+        "word": "blossom",
+        "phonetic": "[ˈblɑːsəm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "花簇；开花时期；繁荣 (时期)",
+          "vi.": "开花；兴旺；长成"
+        }
+      },
+      {
+        "word": "blouse",
+        "phonetic": "[blaʊs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "女衬衫"
+        }
+      },
+      {
+        "word": "blow",
+        "phonetic": "[bloʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "吹，吹气，打气；爆炸，爆裂",
+          "n.": "打，殴打，打击"
+        }
+      },
+      {
+        "word": "blue",
+        "phonetic": "[bluː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "蓝色的；脸色发灰的；忧郁的",
+          "n.": "蓝色"
+        }
+      },
+      {
+        "word": "blur",
+        "phonetic": "[blɜːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "模糊不清的事物；暧昧不明",
+          "vi./vt.": "(使) 变模糊， (使) 难以区分"
+        }
+      },
+      {
+        "word": "board",
+        "phonetic": "[bɔːrd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "板，木板，纸板；董事会，理事会",
+          "vt.": "上船/车/飞机"
+        }
+      },
+      {
+        "word": "boast",
+        "phonetic": "[boʊst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "吹嘘； 以拥有……而自豪",
+          "vi.": "(of/about)夸耀，说大话",
+          "n.": "自吹自擂"
+        }
+      },
+      {
+        "word": "boat",
+        "phonetic": "[ boʊt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "船，小船"
+        }
+      },
+      {
+        "word": "body",
+        "phonetic": "[ˈbɑːdi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "身体，躯体；主体；物体；尸体； ( 一) 群， ( 一) 批"
+        }
+      },
+      {
+        "word": "boil",
+        "phonetic": "[bɔɪl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "沸腾",
+          "vt.": "煮沸"
+        }
+      },
+      {
+        "word": "bold",
+        "phonetic": "[boʊld]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "勇敢的； 冒失的；醒目的； (线、字等) 粗的"
+        }
+      },
+      {
+        "word": "bolt",
+        "phonetic": "[boʊlt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "螺栓，插销；霹雳",
+          "vt.": "闩门，关窗，拴住"
+        }
+      },
+      {
+        "word": "bomb",
+        "phonetic": "[bɑːm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "炸弹",
+          "vt.": "轰炸"
+        }
+      },
+      {
+        "word": "bond",
+        "phonetic": "[bɑːnd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "契约，公债，债券；联结，联系"
+        }
+      },
+      {
+        "word": "bone",
+        "phonetic": "[ˈboʊnəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "骨，骨骼"
+        }
+      },
+      {
+        "word": "bonus",
+        "phonetic": "[ˈboʊnəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "奖金；红利；额外津贴"
+        }
+      },
+      {
+        "word": "book",
+        "phonetic": "[bʊk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "书，书籍",
+          "vt.": "定，预订"
+        }
+      },
+      {
+        "word": "booklet",
+        "phonetic": "[ˈbʊklət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "小册子"
+        }
+      },
+      {
+        "word": "boom",
+        "phonetic": "[buːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "隆隆声；繁荣，兴隆起来"
+        }
+      },
+      {
+        "word": "boot",
+        "phonetic": "[buːt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "靴子"
+        }
+      },
+      {
+        "word": "booth",
+        "phonetic": "[buːθ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "电话亭；货摊"
+        }
+      },
+      {
+        "word": "border",
+        "phonetic": "[ˈbɔːrdər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "边缘；边界，边境",
+          "vi.": "交界，与……毗邻；与……相似"
+        }
+      },
+      {
+        "word": "bore",
+        "phonetic": "[bɔːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "钻洞，打眼，钻探；使厌烦",
+          "n.": "令人讨厌的人/物"
+        }
+      },
+      {
+        "word": "bored",
+        "phonetic": "[bɔːrd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "厌烦的"
+        }
+      },
+      {
+        "word": "boring",
+        "phonetic": "[ˈbɔːrɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "令人厌烦的",
+          "n.": "钻孔"
+        }
+      },
+
+      {
+        "word": "born",
+        "phonetic": "[bɔːrn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "出生的；天生的，生来的"
+        }
+      },
+      {
+        "word": "borrow",
+        "phonetic": "[ˈbɑːroʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "借，借用"
+        }
+      },
+      {
+        "word": "boss",
+        "phonetic": "[bɔːs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "老板，上司，头儿"
+        }
+      },
+      {
+        "word": "both",
+        "phonetic": "[boʊθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "pron.": "二者，双方",
+          "a.": "两，双"
+        }
+      },
+      {
+        "word": "bother",
+        "phonetic": "[ˈbɑːðər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "打扰，麻烦",
+          "vi.": "担心，烦恼",
+          "n.": "烦恼，麻烦"
+        }
+      },
+      {
+        "word": "bottle",
+        "phonetic": "[ˈbɑːtl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "瓶子"
+        }
+      },
+      {
+        "word": "bottom",
+        "phonetic": "[ˈbɑːtəm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "底，底部"
+        }
+      },
+      {
+        "word": "bounce",
+        "phonetic": "[baʊns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(使) (球等) 反弹，弹回，拍 (球)",
+          "n.": "(球等) 反弹"
+        }
+      },
+      {
+        "word": "bound",
+        "phonetic": "[baʊnd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "必定，注定；受约束的；开往……的"
+        }
+      },
+      {
+        "word": "boundary",
+        "phonetic": "[ˈbaʊndri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "界线，边界"
+        }
+      },
+      {
+        "word": "bow",
+        "phonetic": "[baʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "弓， 弓形",
+          "vi./n.": "鞠躬，点头"
+        }
+      },
+      {
+        "word": "bowl",
+        "phonetic": "[boʊl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "碗，钵"
+        }
+      },
+      {
+        "word": "box",
+        "phonetic": "[bɑːks]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "箱子，盒子",
+          "vi.": "拳击；打耳光"
+        }
+      },
+
+      {
+        "word": "boxing",
+        "phonetic": "[ˈbɑːksɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "拳击"
+        }
+      },
+      {
+        "word": "boy",
+        "phonetic": "[bɔɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "男孩，儿子"
+        }
+      },
+      {
+        "word": "boyfriend",
+        "phonetic": "[ˈbɔɪfrend]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "男朋友"
+        }
+      },
+      {
+        "word": "brain",
+        "phonetic": "[breɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "大脑，脑髄；( pl. )心智，智力"
+        }
+      },
+      {
+        "word": "brake",
+        "phonetic": "[breɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "刹车",
+          "n.": "闸，制动器"
+        }
+      },
+      {
+        "word": "branch",
+        "phonetic": "[bræntʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "枝，树枝；分支，分科"
+        }
+      },
+      {
+        "word": "brand",
+        "phonetic": "[brænd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "商标， (商品的) 牌子"
+        }
+      },
+      {
+        "word": "brass",
+        "phonetic": "[bræs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "黄铜；铜器；铜管乐器"
+        }
+      },
+      {
+        "word": "brave",
+        "phonetic": "[breɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "勇敢的，英勇的"
+        }
+      },
+      {
+        "word": "bread",
+        "phonetic": "[bred]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "面包"
+        }
+      },
+      {
+        "word": "breadth",
+        "phonetic": "[bredθ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "宽度"
+        }
+      },
+      {
+        "word": "break",
+        "phonetic": "[breɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "(课间或工间) 休息时间",
+          "vt.": "打破，打碎；损坏，破坏，违反；中止",
+          "vi.": "破，破裂"
+        }
+      },
+      {
+        "word": "breakfast",
+        "phonetic": "[ˈbrekfəst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "早饭，早餐"
+        }
+      },
+      {
+        "word": "breakthrough",
+        "phonetic": "[ˈbreɪkθruː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "突破；突破性的发现"
+        }
+      },
+      {
+        "word": "breast",
+        "phonetic": "[brest]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "胸脯，乳房"
+        }
+      },
+      {
+        "word": "breath",
+        "phonetic": "[breθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "呼吸，气息"
+        }
+      },
+      {
+        "word": "breathe",
+        "phonetic": "[bri ːð]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "吸入，呼吸"
+        }
+      },
+      {
+        "word": "breed",
+        "phonetic": "[bri ːd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "生殖，繁殖；生产，饲养",
+          "n.": "品种，种类"
+        }
+      },
+      {
+        "word": "breeze",
+        "phonetic": "[bri ːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "微风，和风"
+        }
+      },
+      {
+        "word": "bribe",
+        "phonetic": "[braɪb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "贿赂， (向……) 行贿"
+        }
+      },
+      {
+        "word": "brick",
+        "phonetic": "[brɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "砖，砖块"
+        }
+      },
+      {
+        "word": "bride",
+        "phonetic": "[braɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "新娘"
+        }
+      },
+      {
+        "word": "bridge",
+        "phonetic": "[brɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "桥，桥梁；桥牌"
+        }
+      },
+      {
+        "word": "brief",
+        "phonetic": "[bri ːf]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "简短，简洁；短暂",
+          "vt.": "简单介绍"
+        }
+      },
+      {
+        "word": "briefcase",
+        "phonetic": "[ˈbri ːfkeɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "公文包"
+        }
+      },
+      {
+        "word": "bright",
+        "phonetic": "[braɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "明亮的，光明的；聪明的，伶俐的；快活的，美好的；"
+        }
+      },
+      {
+        "word": "brilliant",
+        "phonetic": "[ˈbrɪliənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "辉煌的，灿烂的；杰出的，有才华的"
+        }
+      },
+      {
+        "word": "bring",
+        "phonetic": "[brɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "拿来，带来；产生，引起；使处于某种状态"
+        }
+      },
+      {
+        "word": "broad",
+        "phonetic": "[brɔːd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "宽，广，广阔；宽宏，豁达"
+        }
+      },
+      {
+        "word": "broadcast",
+        "phonetic": "[ˈbrɔːdkæst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n./vt.": "广播，播音"
+        }
+      },
+      {
+        "word": "broaden",
+        "phonetic": "[ˈbrɔːdn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使变宽"
+        }
+      },
+      {
+        "word": "broom",
+        "phonetic": "[bruːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "扫帚"
+        }
+      },
+      {
+        "word": "brother",
+        "phonetic": "[ˈbrʌðər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "兄弟，同胞"
+        }
+      },
+      {
+        "word": "brow",
+        "phonetic": "[braʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "眉，眉毛"
+        }
+      },
+      {
+        "word": "browse",
+        "phonetic": "[braʊz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "浏览"
+        }
+      },
+
+      {
+        "word": "brown",
+        "phonetic": "[braʊn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a./n.": "棕色"
+        }
+      },
+      {
+        "word": "brush",
+        "phonetic": "[brʌʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "刷，毛刷，画笔",
+          "vt.": "刷"
+        }
+      },
+      {
+        "word": "bubble",
+        "phonetic": "[ˈbʌbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "泡，水泡，气泡",
+          "vi.": "冒泡，起泡，沸腾"
+        }
+      },
+      {
+        "word": "bud",
+        "phonetic": "[bʌd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "发芽，萌芽",
+          "n.": "芽；苞；花蕾；伙计，老兄"
+        }
+      },
+      {
+        "word": "budget",
+        "phonetic": "[ˈbʌdʒɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "预算",
+          "vi.": "做预算，编入预算"
+        }
+      },
+      {
+        "word": "build",
+        "phonetic": "[bɪld]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "修建，建造，建立"
+        }
+      },
+      {
+        "word": "building",
+        "phonetic": "[ˈbɪldɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "建筑物，大楼"
+        }
+      },
+      {
+        "word": "bulb",
+        "phonetic": "[bʌlb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "灯泡；球状物"
+        }
+      },
+      {
+        "word": "bulk",
+        "phonetic": "[bʌlk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "体积，容积；大块，大批；大部分，主体"
+        }
+      },
+      {
+        "word": "bull",
+        "phonetic": "[bʊl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "公牛"
+        }
+      },
+      {
+        "word": "bullet",
+        "phonetic": "[ˈbʊlɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "子弹，枪弹"
+        }
+      },
+      {
+        "word": "bulletin",
+        "phonetic": "[ˈbʊlətɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "公报，公告；告示"
+        }
+      },
+      {
+        "word": "bump",
+        "phonetic": "[bʌmp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "碰撞；颠簸"
+        }
+      },
+      {
+        "word": "bunch",
+        "phonetic": "[bʌntʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "—束，一串"
+        }
+      },
+      {
+        "word": "bundle",
+        "phonetic": "[ˈbʌndl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "捆，包，束"
+        }
+      },
+      {
+        "word": "burden",
+        "phonetic": "[ˈbɜːrdn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "担子，重担，负担；义务，责任"
+        }
+      },
+      {
+        "word": "bureau",
+        "phonetic": "[ˈbjʊroʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "司，局，处，部，所，署"
+        }
+      },
+      {
+        "word": "burial",
+        "phonetic": "[ˈberiəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "埋，安葬"
+        }
+      },
+      {
+        "word": "burn",
+        "phonetic": "[bɜːrn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "灼伤，烧伤",
+          "vi./vt.": "燃烧，烧毁"
+        }
+      },
+      {
+        "word": "burst",
+        "phonetic": "[bɜːrst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "破裂，爆炸",
+          "vi.": "(into)突然发生，突然发作"
+        }
+      },
+      {
+        "word": "bury",
+        "phonetic": "[ˈberi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "埋，安葬"
+        }
+      },
+      {
+        "word": "bus",
+        "phonetic": "[bʌs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "公共汽车"
+        }
+      },
+      {
+        "word": "bush",
+        "phonetic": "[bʊʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "灌木，灌木丛"
+        }
+      },
+      {
+        "word": "business",
+        "phonetic": "[ˈbɪznəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "生意，业务；事务，职责；行业"
+        }
+      },
+      {
+        "word": "busy",
+        "phonetic": "[ˈbɪzi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "忙，忙碌；热闹的，繁忙的， (电话) 占线"
+        }
+      },
+      {
+        "word": "but",
+        "phonetic": "[bət]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "conj.": "可是，但是，然而",
+          "prep.": "除……之外",
+          "ad.": "只，仅仅"
+        }
+      },
+      {
+        "word": "butcher",
+        "phonetic": "[ˈbʊtʃər]",
+        "key_word": false,
+        "definitions_by_pos": { "n.": "屠夫，卖肉者" }
+      },
+
+      {
+        "word": "butter",
+        "phonetic": "[ˈbʌtər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "黄油，奶油"
+        }
+      },
+      {
+        "word": "butterfly",
+        "phonetic": "[ˈbʌtərflaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "蝴蝶"
+        }
+      },
+      {
+        "word": "button",
+        "phonetic": "[ˈbʌtn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "扣子；按钮",
+          "vt.": "扣，扣紧"
+        }
+      },
+
+      {
+        "word": "buy",
+        "phonetic": "[baɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "买，购买"
+        }
+      },
+      {
+        "word": "by",
+        "phonetic": "[baɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……旁，靠近；被， 由；在……前，到……为止；经，沿，通过； [ 表方 法、手段]靠，用，通过；按照，根据",
+          "ad.": "在旁，近旁，经过"
+        }
+      },
+      {
+        "word": "bye",
+        "phonetic": "[baɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "int.": "再见"
+        }
+      }
+    ]
+  },
+  {
+    "title": "C",
+    "words": [
+      {
+        "word": "cab",
+        "phonetic": "[kæb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "出租车"
+        }
+      },
+      {
+        "word": "cabbage",
+        "phonetic": "[ˈkæbɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "卷心菜，甘蓝"
+        }
+      },
+      {
+        "word": "cabin",
+        "phonetic": "[ˈkæbɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "小木屋；机舱，船舱"
+        }
+      },
+      {
+        "word": "cabinet",
+        "phonetic": "[ˈkæbɪnət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "橱柜； 内阁"
+        }
+      },
+      {
+        "word": "cable",
+        "phonetic": "[ˈkeɪbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "缆，索； 电缆；海底电报"
+        }
+      },
+      {
+        "word": "cafe",
+        "phonetic": "[kæ ˈfeɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "咖啡；咖啡馆；酒吧"
+        }
+      },
+      {
+        "word": "cage",
+        "phonetic": "[keɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "笼，鸟笼"
+        }
+      },
+      {
+        "word": "cake",
+        "phonetic": "[keɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "月饼，糕，蛋糕"
+        }
+      },
+      {
+        "word": "calculate",
+        "phonetic": "[ˈkælkjuleɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "计算，推算；估计，推测；计划，打算"
+        }
+      },
+      {
+        "word": "calendar",
+        "phonetic": "[ˈkælɪndər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "日历，月历"
+        }
+      },
+      {
+        "word": "call",
+        "phonetic": "[kɔːl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "叫做，称为；叫，招呼；打电话",
+          "vi.": "拜访，访问；叫，招呼；打电话",
+          "n.": "叫，招呼；号召；拜访，访问；打电话"
+        }
+      },
+      {
+        "word": "calm",
+        "phonetic": "[kɑːm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "平静，镇静，沉着,平静，风平浪静",
+          "vi./vt.": "(使) 镇静， (使) 镇定"
+        }
+      },
+      {
+        "word": "camel",
+        "phonetic": "[ˈkæml]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "骆驼"
+        }
+      },
+      {
+        "word": "camera",
+        "phonetic": "[ˈkæmərə]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "照相机，摄像机"
+        }
+      },
+      {
+        "word": "camp",
+        "phonetic": "[kæmp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "设营，宿营",
+          "n.": "野营，营地，帐篷"
+        }
+      },
+      {
+        "word": "campaign",
+        "phonetic": "[kæm ˈpeɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "战役；运动"
+        }
+      },
+      {
+        "word": "campus",
+        "phonetic": "[ˈkæmpəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(大学) 校园"
+        }
+      },
+      {
+        "word": "can",
+        "phonetic": "[kən]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "aux. v.": "能，会；可能；可以",
+          "n.": "罐头，铁罐，易拉罐"
+        }
+      },
+      {
+        "word": "canal",
+        "phonetic": "[kə ˈnæl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "运河，渠"
+        }
+      },
+      {
+        "word": "cancel",
+        "phonetic": "[ˈkænsl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "取消，撤销；删去"
+        }
+      },
+      {
+        "word": "cancer",
+        "phonetic": "[ˈkænsər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "癌"
+        }
+      },
+      {
+        "word": "candidate",
+        "phonetic": "[ˈkændɪdət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "候选人；报考者；求职者"
+        }
+      },
+      {
+        "word": "candle",
+        "phonetic": "[ˈkændl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "蜡烛"
+        }
+      },
+      {
+        "word": "candy",
+        "phonetic": "[ˈkændi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "[美]糖果"
+        }
+      },
+      {
+        "word": "cap",
+        "phonetic": "[kæp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "便帽，军帽；帽状物"
+        }
+      },
+      {
+        "word": "capability",
+        "phonetic": "[ˌkeɪpəˈbɪləti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "能力，才能；性能，容量"
+        }
+      },
+      {
+        "word": "capable",
+        "phonetic": "[ˈkeɪpəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "能干的，有能力的，有才能的"
+        }
+      },
+      {
+        "word": "capacity",
+        "phonetic": "[kə ˈpæsəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "容量，容积；能量；能力；接受力"
+        }
+      },
+      {
+        "word": "capital",
+        "phonetic": "[ˈkæpɪtl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "首都；资本，资金",
+          "a.": "主要的，基本的"
+        }
+      },
+      {
+        "word": "captain",
+        "phonetic": "[ˈkæptɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "首领，队长；船长，舰长；陆军上尉，海军上校",
+          "vt.": "捕获，捉拿；夺取，攻占"
+        }
+      },
+      {
+        "word": "capture",
+        "phonetic": "[ˈkæptʃər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": ".捕获，捉拿；夺取，攻占"
+        }
+      },
+      {
+        "word": "car",
+        "phonetic": "[kɑːr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "汽车，车辆，车"
+        }
+      },
+      {
+        "word": "carbon",
+        "phonetic": "[ˈkɑːrbən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "碳"
+        }
+      },
+      {
+        "word": "card",
+        "phonetic": "[kɑːrd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "卡片，名片；纸片"
+        }
+      },
+      {
+        "word": "care",
+        "phonetic": "[ker]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "注意，小心；挂念；照顾，照料",
+          "vi.": "关心，计较；喜欢，愿意"
+        }
+      },
+      {
+        "word": "career",
+        "phonetic": "[kə ˈrɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "生涯，经历；专业，职业"
+        }
+      },
+      {
+        "word": "careful",
+        "phonetic": "[ˈkerfl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "小心的，仔细的"
+        }
+      },
+      {
+        "word": "careless",
+        "phonetic": "[ˈkerl əs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "粗心的，草率的"
+        }
+      },
+      {
+        "word": "cargo",
+        "phonetic": "[ˈkɑːrɡoʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(运输的) 货物"
+        }
+      },
+      {
+        "word": "carpenter",
+        "phonetic": "[ˈkɑːrpəntər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "木工，木匠"
+        }
+      },
+      {
+        "word": "carpet",
+        "phonetic": "[ˈkɑːrpɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "地毯"
+        }
+      },
+      {
+        "word": "carriage",
+        "phonetic": "[ˈkærɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "马车，客车，车厢"
+        }
+      },
+      {
+        "word": "carrier",
+        "phonetic": "[ˈkæriər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "搬运人；携带者；运载工具"
+        }
+      },
+      {
+        "word": "carrot",
+        "phonetic": "[ˈkærət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "胡萝 卜"
+        }
+      },
+      {
+        "word": "carry",
+        "phonetic": "[ˈkæri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "搬运，运送，携带；传送，传播"
+        }
+      },
+      {
+        "word": "cart",
+        "phonetic": "[kɑːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "手推车；两轮运货马车"
+        }
+      },
+      {
+        "word": "cartoon",
+        "phonetic": "[kɑːrˈtuːn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "卡通画，漫画；卡通片，动画片"
+        }
+      },
+      {
+        "word": "case",
+        "phonetic": "[keɪs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "事实，情况；案件；病例；箱子，盒子"
+        }
+      },
+      {
+        "word": "cash",
+        "phonetic": "[kæʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "现金，现款"
+        }
+      },
+      {
+        "word": "cashier",
+        "phonetic": "[kæ ˈʃɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "出纳员"
+        }
+      },
+      {
+        "word": "cast",
+        "phonetic": "[kæst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "投，掷，抛；铸造",
+          "n.": "演员表"
+        }
+      },
+      {
+        "word": "castle",
+        "phonetic": "[ˈkæsl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "城堡"
+        }
+      },
+      {
+        "word": "casual",
+        "phonetic": "[ˈkæʒuəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "随便的；偶然的；临时的"
+        }
+      },
+      {
+        "word": "cat",
+        "phonetic": "[kæt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "猫"
+        }
+      },
+      {
+        "word": "catalog(ue)",
+        "phonetic": "[ˈkætəlɔːɡ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "目录",
+          "vt.": "将……编入目录"
+        }
+      },
+      {
+        "word": "catch",
+        "phonetic": "[kætʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "捕，捉；赶上；感染，染上病；听清楚"
+        }
+      },
+      {
+        "word": "category",
+        "phonetic": "[ˈkætəɡɔːri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "种类，类别； [逻]范畴"
+        }
+      },
+      {
+        "word": "cattle",
+        "phonetic": "[ˈkætl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "[用作复数]牛"
+        }
+      },
+      {
+        "word": "cause",
+        "phonetic": "[kɔːz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "原因，理由，缘故；事业，奋斗目标",
+          "vt.": "引起"
+        }
+      },
+      {
+        "word": "cautious",
+        "phonetic": "[ˈkɔːʃəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "小心的，谨慎的"
+        }
+      },
+      {
+        "word": "cave",
+        "phonetic": "[keɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "洞，窑洞"
+        }
+      },
+      {
+        "word": "cease",
+        "phonetic": "[si ːs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "停止，中止"
+        }
+      },
+      {
+        "word": "ceiling",
+        "phonetic": "[ˈsi ːlɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "天花板"
+        }
+      },
+      {
+        "word": "celebrate",
+        "phonetic": "[ˈselɪbreɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "庆祝，庆贺"
+        }
+      },
+      {
+        "word": "cell",
+        "phonetic": "[sel]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "细胞； 电池"
+        }
+      },
+      {
+        "word": "cellar",
+        "phonetic": "[ˈselər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "地窖；地下室"
+        }
+      },
+      {
+        "word": "cement",
+        "phonetic": "[sɪˈment]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "水泥"
+        }
+      },
+      {
+        "word": "cent",
+        "phonetic": "[sent]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "分，分币； [作单位的]百"
+        }
+      },
+      {
+        "word": "center/-re",
+        "phonetic": "[ˈsentər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "中心，中央",
+          "vi./vt.": "(使) 放在中央"
+        }
+      },
+      {
+        "word": "centigrade",
+        "phonetic": "[ˈsentɪɡreɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "摄氏温度的"
+        }
+      },
+      {
+        "word": "centimeter/-re",
+        "phonetic": "[ˈsentɪmi ːtər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "厘米"
+        }
+      },
+      {
+        "word": "central",
+        "phonetic": "[ˈsentrəl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "中心的，中央的，中枢的；主要的"
+        }
+      },
+      {
+        "word": "century",
+        "phonetic": "[ˈsentʃəri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "世纪，百年"
+        }
+      },
+      {
+        "word": "cereal",
+        "phonetic": "[ˈsɪriəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "谷类制食物；谷物"
+        }
+      },
+      {
+        "word": "ceremony",
+        "phonetic": "[ˈserəmoʊni]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "仪式，典礼，礼节"
+        }
+      },
+      {
+        "word": "certain",
+        "phonetic": "[ˈsɜːrtn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "确实的，可靠的；某一，某些；一定的，必然的",
+          "ad.": "必定，一定；当然，行"
+        }
+      },
+      {
+        "word": "certainly",
+        "phonetic": "[ˈsɜːrtnli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "必定，一定；当然，行"
+        }
+      },
+      {
+        "word": "certificate",
+        "phonetic": "[sərˈtɪfɪkət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "证 (明) 书"
+        }
+      },
+      {
+        "word": "chain",
+        "phonetic": "[tʃeɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "链，链条；一连串，连锁"
+        }
+      },
+      {
+        "word": "chair",
+        "phonetic": "[tʃer]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "椅子；主席"
+        }
+      },
+      {
+        "word": "chairman",
+        "phonetic": "[ˈtʃermən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "主席，议长，会长"
+        }
+      },
+      {
+        "word": "chalk",
+        "phonetic": "[tʃɔːk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "粉笔"
+        }
+      },
+      {
+        "word": "challenge",
+        "phonetic": "[ˈtʃælɪndʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "挑战，挑战书；艰巨任务，难题",
+          "vt.": "向……挑战"
+        }
+      },
+      {
+        "word": "champagne",
+        "phonetic": "[ʃæm ˈpeɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "香槟；香槟酒色"
+        }
+      },
+      {
+        "word": "champion",
+        "phonetic": "[ˈtʃæmpiən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "冠军，优胜者"
+        }
+      },
+      {
+        "word": "chance",
+        "phonetic": "[tʃæns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "机会，可能性；机遇，机缘；可能性，机会"
+        }
+      },
+      {
+        "word": "change",
+        "phonetic": "[tʃeɪndʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "改变，变化",
+          "vt.": "换，兑换",
+          "n.": "找头，零头"
+        }
+      },
+      {
+        "word": "channel",
+        "phonetic": "[ˈtʃænl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "海峡，水道，沟渠，渠道；频道"
+        }
+      },
+      {
+        "word": "chapter",
+        "phonetic": "[ˈtʃæptər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "章，回，篇"
+        }
+      },
+      {
+        "word": "character",
+        "phonetic": "[ˈkærəktər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "性格；特性，特征；人物，角色；(书写或印刷) 符号，(汉) 字"
+        }
+      },
+      {
+        "word": "characteristic",
+        "phonetic": "[ˌkærəktə ˈrɪstɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "特有的，独特的",
+          "n.": "特征，特性"
+        }
+      },
+      {
+        "word": "characterize/-se",
+        "phonetic": "[ˈkærəktəraɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "描绘……的特性，刻画……的性格"
+        }
+      },
+      {
+        "word": "charge",
+        "phonetic": "[tʃɑːrdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "控诉，控告；要价，收费；装 (满) ，充电；袭击，冲锋",
+          "n.": "魅力，魔力；咒文；护咒"
+        }
+      },
+      {
+        "word": "charity",
+        "phonetic": "[ˈtʃærəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "慈善事业 (行为) ；施舍；慈悲；博爱"
+        }
+      },
+      {
+        "word": "charm",
+        "phonetic": "[tʃɑːrm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "魅力，魔力；咒文；护咒",
+          "vt.": "迷住；使陶醉"
+        }
+      },
+      {
+        "word": "chart",
+        "phonetic": "[tʃɑːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "图表，图"
+        }
+      },
+      {
+        "word": "chase",
+        "phonetic": "[tʃeɪs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "追赶，追逐"
+        }
+      },
+      {
+        "word": "chat",
+        "phonetic": "[tʃæt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "聊天"
+        }
+      },
+      {
+        "word": "cheap",
+        "phonetic": "[tʃiːp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "便宜，贱；低劣的，劣质的"
+        }
+      },
+      {
+        "word": "cheat",
+        "phonetic": "[tʃiːt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "欺骗，骗取",
+          "vi.": "作弊，欺诈",
+          "n.": "欺骗；骗子"
+        }
+      },
+      {
+        "word": "check",
+        "phonetic": "[tʃek]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "检査，核对；制止，控制",
+          "n.": "支票，账单"
+        }
+      },
+      {
+        "word": "cheek",
+        "phonetic": "[tʃiːk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "面颊"
+        }
+      },
+      {
+        "word": "cheer",
+        "phonetic": "[tʃɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "喝彩，欢呼",
+          "vt.": "使高兴，使振作"
+        }
+      },
+      {
+        "word": "cheerful",
+        "phonetic": "[ˈtʃɪrfl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "快乐的，高兴的"
+        }
+      },
+      {
+        "word": "cheese",
+        "phonetic": "[tʃiːz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "干酪，乳酪"
+        }
+      },
+      {
+        "word": "chemical",
+        "phonetic": "[ˈkemɪkl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "化学的",
+          "n.": "化学制品/产品/物质/成分"
+        }
+      },
+      {
+        "word": "chemist",
+        "phonetic": "[ˈkemɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "化学家，药剂师"
+        }
+      },
+      {
+        "word": "chemistry",
+        "phonetic": "[ˈkemɪstri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "化学"
+        }
+      },
+      {
+        "word": "cheque",
+        "phonetic": "[tʃek]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "支票，账单"
+        }
+      },
+      {
+        "word": "chess",
+        "phonetic": "[tʃes]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "棋"
+        }
+      },
+      {
+        "word": "chest",
+        "phonetic": "[tʃest]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "柜子，橱；胸脯，胸腔"
+        }
+      },
+      {
+        "word": "chew",
+        "phonetic": "[tʃuː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "咀嚼"
+        }
+      },
+      {
+        "word": "chicken",
+        "phonetic": "[ˈtʃɪkɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "小鸡，鸡肉"
+        }
+      },
+      {
+        "word": "chief",
+        "phonetic": "[tʃiːf]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "领袖，首领",
+          "a.": "主要的，首要的"
+        }
+      },
+      {
+        "word": "child",
+        "phonetic": "[tʃaɪld]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "( pl. children)孩子，儿童，子女"
+        }
+      },
+      {
+        "word": "childhood",
+        "phonetic": "[ˈtʃaɪldhʊd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "幼年，童年"
+        }
+      },
+      {
+        "word": "chill",
+        "phonetic": "[tʃɪl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "凉气，寒气；寒战"
+        }
+      },
+      {
+        "word": "chimney",
+        "phonetic": "[ˈtʃɪmni]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "烟囱，烟筒"
+        }
+      },
+      {
+        "word": "chin",
+        "phonetic": "[tʃɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "下巴"
+        }
+      },
+      {
+        "word": "chip",
+        "phonetic": "[tʃɪp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "薄片，碎片；集成电路片"
+        }
+      },
+      {
+        "word": "chocolate",
+        "phonetic": "[ˈtʃɑːklət]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "巧克力"
+        }
+      },
+      {
+        "word": "choice",
+        "phonetic": "[tʃɔɪs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "选择；选择机会"
+        }
+      },
+      {
+        "word": "choke",
+        "phonetic": "[tʃoʊk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(使) 窒息，噎住；阻塞"
+        }
+      },
+      {
+        "word": "choose",
+        "phonetic": "[tʃuːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "选择，挑拣；甘愿"
+        }
+      },
+      {
+        "word": "chop",
+        "phonetic": "[tʃɑːp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "砍，劈，剁碎"
+        }
+      },
+      {
+        "word": "Christ",
+        "phonetic": "[kraɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "救世主"
+        }
+      },
+      {
+        "word": "Christian",
+        "phonetic": "[ˈkrɪstʃən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "基督教徒",
+          "a.": "基督教 (徒) 的"
+        }
+      },
+      {
+        "word": "Christmas",
+        "phonetic": "[ˈkrɪsməs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "圣诞节"
+        }
+      },
+      {
+        "word": "church",
+        "phonetic": "[tʃɜːrtʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "教堂，(C-)教会"
+        }
+      },
+      {
+        "word": "cigar",
+        "phonetic": "[sɪˈɡɑːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "雪茄烟"
+        }
+      },
+      {
+        "word": "cigaret(te)",
+        "phonetic": "[ˈsɪɡəret]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "香烟；纸烟"
+        }
+      },
+      {
+        "word": "cinema",
+        "phonetic": "[ˈsɪnəmə]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "电影院"
+        }
+      },
+      {
+        "word": "circle",
+        "phonetic": "[ˈsɜːrkl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "圆，圆周；圈子，阶层；周期，循环",
+          "vt.": "环绕",
+          "vi.": "盘旋；画圈"
+        }
+      },
+      {
+        "word": "circuit",
+        "phonetic": "[ˈsɜːrkɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "电路，线路"
+        }
+      },
+      {
+        "word": "circular",
+        "phonetic": "[ˈsɜːrkjələr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "圆形的；循环的"
+        }
+      },
+      {
+        "word": "circulate",
+        "phonetic": "[ˈsɜːrkjəleɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(使) 循环，(使) 流通",
+          "n.": "情形，条件；( pl. )环境"
+        }
+      },
+      {
+        "word": "circumstance",
+        "phonetic": "[ˈsɜːrkəmstɑːns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "情形，条件；(pl.)环境"
+        }
+      },
+      {
+        "word": "citizen",
+        "phonetic": "[ˈsɪtɪzn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "公民，市民，居民"
+        }
+      },
+      {
+        "word": "city",
+        "phonetic": "[ˈsɪti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "城市，都市"
+        }
+      },
+      {
+        "word": "civil",
+        "phonetic": "[ˈsɪvl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "市民的，公民的；民间的；民事的，根据民法的；文职的；有礼貌的"
+        }
+      },
+      {
+        "word": "civilian",
+        "phonetic": "[sə ˈvɪliən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "平民，百姓",
+          "a.": "平民的，民间的，民用的"
+        }
+      },
+      {
+        "word": "civilization/-sation",
+        "phonetic": "[ˌsɪvələ ˈzeɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "文明，文化"
+        }
+      },
+      {
+        "word": "civilize/-se",
+        "phonetic": "[ˈsɪvəlaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使文明，使开化"
+        }
+      },
+      {
+        "word": "claim",
+        "phonetic": "[kleɪm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "声称，主张；要求，认领，索赔",
+          "n.": "权利；要求；主张"
+        }
+      },
+      {
+        "word": "clarify",
+        "phonetic": "[ˈklærəfaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "澄清，阐明",
+          "vt.": "使明晰"
+        }
+      },
+      {
+        "word": "clash",
+        "phonetic": "[klæʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "碰撞；冲突"
+        }
+      },
+      {
+        "word": "class",
+        "phonetic": "[klæs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "种类，等级，阶级；班，班级，年级； ( 一节) 课"
+        }
+      },
+      {
+        "word": "classic",
+        "phonetic": "[ˈklæsɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "名著，杰作"
+        }
+      },
+      {
+        "word": "classical",
+        "phonetic": "[ˈklæsɪkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "经典的，古典的"
+        }
+      },
+      {
+        "word": "classification",
+        "phonetic": "[ˌklæsɪfɪ ˈkeɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "分类，分级"
+        }
+      },
+      {
+        "word": "classify",
+        "phonetic": "[ˈklæsɪfaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "分类，分级"
+        }
+      },
+      {
+        "word": "classmate",
+        "phonetic": "[ˈklæsmeɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "同班同学"
+        }
+      },
+      {
+        "word": "classroom",
+        "phonetic": "[ˈklæsruːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "教室"
+        }
+      },
+      {
+        "word": "clause",
+        "phonetic": "[klɔːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "子句，从句； (章程、条约等的) 条，项；条款"
+        }
+      },
+      {
+        "word": "claw",
+        "phonetic": "[klɔː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "爪"
+        }
+      },
+      {
+        "word": "clay",
+        "phonetic": "[kleɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "泥土，黏土"
+        }
+      },
+      {
+        "word": "clean",
+        "phonetic": "[kliːn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "弄清洁，擦干净",
+          "a.": "清洁的，干净的；"
+        }
+      },
+      {
+        "word": "clear",
+        "phonetic": "[klɪr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "明亮的，清澈的；晴朗的；清楚的",
+          "ad.": "清楚地，清晰地",
+          "vt.": "清除；澄清；晴朗起来"
+        }
+      },
+      {
+        "word": "clerk",
+        "phonetic": "[klɜːrk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "办事员，职员，店员"
+        }
+      },
+      {
+        "word": "clever",
+        "phonetic": "[ˈklevər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "聪明的，伶俐的；机敏的，机巧的"
+        }
+      },
+      {
+        "word": "click",
+        "phonetic": "[klɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "一击"
+        }
+      },
+      {
+        "word": "client",
+        "phonetic": "[ˈklaɪənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "顾客；委托人；当事人"
+        }
+      },
+      {
+        "word": "cliff",
+        "phonetic": "[klɪf]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "崖，悬崖"
+        }
+      },
+      {
+        "word": "climate",
+        "phonetic": "[ˈklaɪmət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "气候；风气，社会思潮"
+        }
+      },
+      {
+        "word": "climb",
+        "phonetic": "[klaɪm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "攀登；上升",
+          "n.": "爬，攀登"
+        }
+      },
+      {
+        "word": "cling",
+        "phonetic": "[klɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(to)粘着；缠着；坚持"
+        }
+      },
+      {
+        "word": "clinic",
+        "phonetic": "[ˈklɪnɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "诊所"
+        }
+      },
+      {
+        "word": "clinical",
+        "phonetic": "[ˈklɪnɪkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "门诊的，临床的"
+        }
+      },
+      {
+        "word": "clip",
+        "phonetic": "[klɪp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "夹子，回形针；剪报",
+          "vt.": "用别针别，用夹子夹；剪，剪下报刊上的图片等"
+        }
+      },
+      {
+        "word": "clock",
+        "phonetic": "[klɑːk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "钟"
+        }
+      },
+      {
+        "word": "clockwise",
+        "phonetic": "[ˈklɑːkwaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad./a.": "顺时针方向地/的"
+        }
+      },
+      {
+        "word": "close",
+        "phonetic": "[kloʊz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "关，关闭；结束",
+          "a.": "近的；紧密的，亲密的；周密的，仔细的",
+          "n.": "结束，了结",
+          "ad.": "接近，紧密地"
+        }
+      },
+      {
+        "word": "closet",
+        "phonetic": "[ˈklɑːzət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "私室；密室；小房间"
+        }
+      },
+      {
+        "word": "cloth",
+        "phonetic": "[ klɔːθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "布，织物，衣料； ( 一块) 布"
+        }
+      },
+      {
+        "word": "clothes",
+        "phonetic": "[kloʊðz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "衣服"
+        }
+      },
+      {
+        "word": "clothing",
+        "phonetic": "[ˈkloʊðɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "[总称]衣服"
+        }
+      },
+      {
+        "word": "cloud",
+        "phonetic": "[klaʊd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "云，云状物"
+        }
+      },
+      {
+        "word": "cloudy",
+        "phonetic": "[ˈklaʊdi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "多云，阴；似云的；模糊不清的"
+        }
+      },
+      {
+        "word": "club",
+        "phonetic": "[klʌb]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "俱乐部，社；棒，球棒"
+        }
+      },
+      {
+        "word": "clue",
+        "phonetic": "[kluː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "线索；提示"
+        }
+      },
+      {
+        "word": "clumsy",
+        "phonetic": "[ˈklʌmzi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "笨拙的"
+        }
+      },
+      {
+        "word": "coach",
+        "phonetic": "[koʊtʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "客车，长途汽车；私人教练，教练",
+          "vt.": "训练，辅导，指导"
+        }
+      },
+      {
+        "word": "coal",
+        "phonetic": "[koʊl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "煤，煤块"
+        }
+      },
+      {
+        "word": "coarse",
+        "phonetic": "[kɔːrs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "粗，粗糙，粗劣；粗鲁，粗俗"
+        }
+      },
+      {
+        "word": "coast",
+        "phonetic": "[koʊst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "海岸，海滨"
+        }
+      },
+      {
+        "word": "coat",
+        "phonetic": "[koʊt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "外套，上衣；涂层",
+          "vt.": "涂上，包上"
+        }
+      },
+      {
+        "word": "cock",
+        "phonetic": "[kɑːk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "公鸡，雄鸟；旋塞，开关"
+        }
+      },
+      {
+        "word": "code",
+        "phonetic": "[koʊd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "代码，代号，密码，编码"
+        }
+      },
+      {
+        "word": "coffee",
+        "phonetic": "[ˈkɔːfi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "咖啡"
+        }
+      },
+      {
+        "word": "coil",
+        "phonetic": "[kɔɪl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "卷，盘绕",
+          "n.": "( 一) 卷， ( 一) 圈；圈，线圈"
+        }
+      },
+      {
+        "word": "coin",
+        "phonetic": "[kɔɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "硬币，货币"
+        }
+      },
+      {
+        "word": "cold",
+        "phonetic": "[koʊld]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "冷的，寒冷的；冷淡的",
+          "n.": "寒冷；感冒"
+        }
+      },
+      {
+        "word": "collapse",
+        "phonetic": "[kə ˈlæps]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "倒塌；崩溃"
+        }
+      },
+      {
+        "word": "collar",
+        "phonetic": "[ˈkɑːlər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "衣袖，领子； (狗的) 项圈"
+        }
+      },
+      {
+        "word": "colleague",
+        "phonetic": "[ˈkɑːliːɡ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "同事，同僚"
+        }
+      },
+      {
+        "word": "collect",
+        "phonetic": "[kə ˈlekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "收集，收 (税等)",
+          "vi.": "聚集，堆积"
+        }
+      },
+      {
+        "word": "collection",
+        "phonetic": "[kə ˈlekʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "收藏，收集；收藏品"
+        }
+      },
+      {
+        "word": "collective",
+        "phonetic": "[kə ˈlektɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "集体的，共同的",
+          "n.": "集体"
+        }
+      },
+      {
+        "word": "college",
+        "phonetic": "[ˈkɑːlɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "学院，大学"
+        }
+      },
+      {
+        "word": "collision",
+        "phonetic": "[kə ˈlɪʒn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "碰撞，冲突，抵触"
+        }
+      },
+      {
+        "word": "colony",
+        "phonetic": "[ˈkɑːləni]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "殖民地；聚居地"
+        }
+      },
+      {
+        "word": "colo(u)r",
+        "phonetic": "[ˈkʌlər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "颜色，色彩；颜料；肤色",
+          "vi.": "给……染色"
+        }
+      },
+      {
+        "word": "colo(u)rful",
+        "phonetic": "[ˈkʌləfl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "多色的；丰富多彩的"
+        }
+      },
+      {
+        "word": "column",
+        "phonetic": "[ˈkɑːləm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "柱，柱状物；栏，专栏 (文章)"
+        }
+      },
+      {
+        "word": "comb",
+        "phonetic": "[koʊm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "梳子",
+          "vt.": "梳理 (头发)"
+        }
+      },
+      {
+        "word": "combination",
+        "phonetic": "[ˌkɑːmbɪ ˈneɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "结合，联合"
+        }
+      },
+      {
+        "word": "combine",
+        "phonetic": "[kəm ˈbaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(使) 结合； (使) 合并"
+        }
+      },
+      {
+        "word": "come",
+        "phonetic": "[kʌm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "来，来到；出现，产生"
+        }
+      },
+      {
+        "word": "comedy",
+        "phonetic": "[ˈkɑːmədi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "喜剧"
+        }
+      },
+      {
+        "word": "comfort",
+        "phonetic": "[ˈkʌmfərt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "慰问，安慰",
+          "n.": "安逸，舒适"
+        }
+      },
+      {
+        "word": "comfortable",
+        "phonetic": "[ˈkʌmftəbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "舒适的，舒服的"
+        }
+      },
+      {
+        "word": "comic",
+        "phonetic": "[ˈkɑːmɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "喜剧的；滑稽的"
+        }
+      },
+      {
+        "word": "command",
+        "phonetic": "[kə ˈmænd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "命令，指挥",
+          "n.": "掌握，运用能力"
+        }
+      },
+      {
+        "word": "commander",
+        "phonetic": "[kə ˈmændər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "司令官，指挥官"
+        }
+      },
+      {
+        "word": "comment",
+        "phonetic": "[ˈkɑːment]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi.": "解说，评论"
+        }
+      },
+
+      {
+        "word": "commercial",
+        "phonetic": "[kə ˈmɜːrʃl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "商业的，商务的",
+          "n.": "商业广告"
+        }
+      },
+      {
+        "word": "commit",
+        "phonetic": "[kə ˈmɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "犯 (罪) ，干 (错事)"
+        }
+      },
+      {
+        "word": "commitment",
+        "phonetic": "[kə ˈmɪtmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "承诺；信奉，献身；承担的责任/义务"
+        }
+      },
+      {
+        "word": "committee",
+        "phonetic": "[kə ˈmɪti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "委员会，全体委员"
+        }
+      },
+      {
+        "word": "commodity",
+        "phonetic": "[kə ˈmɑːdəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(pl.)商品；农/矿产品；有用的东西"
+        }
+      },
+      {
+        "word": "common",
+        "phonetic": "[ˈkɑːmən]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "普通的，平常的；公共的，共同的"
+        }
+      },
+      {
+        "word": "communicate",
+        "phonetic": "[kə ˈmjuːnɪkeɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "传达，交流，通信",
+          "vi.": "传达，传播"
+        }
+      },
+      {
+        "word": "communication",
+        "phonetic": "[kə ˌmjuːnɪˈkeɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "通讯，通信；交际，交流；传达，传送"
+        }
+      },
+      {
+        "word": "community",
+        "phonetic": "[kə ˈmjuːnəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "社区"
+        }
+      },
+      {
+        "word": "commute",
+        "phonetic": "[kə ˈmjuːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "乘公交车上下班",
+          "n.": "上下班交通"
+        }
+      },
+      {
+        "word": "companion",
+        "phonetic": "[kəmˈpæniən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "同伴，伴侣"
+        }
+      },
+      {
+        "word": "company",
+        "phonetic": "[ˈkʌmpəni]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "公司，商号；陪伴，同伴"
+        }
+      },
+      {
+        "word": "comparable",
+        "phonetic": "[ˈkɑːmpərəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "可比较的， 比得上的"
+        }
+      },
+      {
+        "word": "comparative",
+        "phonetic": "[kəmˈpærətɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "比较的，相当的"
+        }
+      },
+      {
+        "word": "compare",
+        "phonetic": "[kəmˈper]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "比较，相比，对照"
+        }
+      },
+      {
+        "word": "comparison",
+        "phonetic": "[kəmˈpærɪsn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "比较，对照， 比喻， 比较关系"
+        }
+      },
+      {
+        "word": "compass",
+        "phonetic": "[ˈkʌmpəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "指南针；( pl. )圆规"
+        }
+      },
+      {
+        "word": "compel",
+        "phonetic": "[kəmˈpel]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "强迫，迫使"
+        }
+      },
+      {
+        "word": "compensate",
+        "phonetic": "[ˈkɑːmpenseɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "给……补偿，酬报；给……付工钱；赔偿"
+        }
+      },
+      {
+        "word": "compete",
+        "phonetic": "[kəmˈpiːt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "比赛，竞赛",
+          "a.": "有能力的，胜任的"
+        }
+      },
+      {
+        "word": "competent",
+        "phonetic": "[ˈkɑːmpɪtənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "有能力的，胜任的"
+        }
+      },
+      {
+        "word": "competition",
+        "phonetic": "[ˌkɑːmpəˈtɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "比赛，竞赛"
+        }
+      },
+      {
+        "word": "competitive",
+        "phonetic": "[kəmˈpetətɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "比赛的；竞争的"
+        }
+      },
+      {
+        "word": "competitor",
+        "phonetic": "[kəmˈpetɪtər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "竞争对手"
+        }
+      },
+      {
+        "word": "complain",
+        "phonetic": "[kəmˈpleɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "v.": "抱怨，诉苦， 申诉"
+        }
+      },
+      {
+        "word": "complaint",
+        "phonetic": "[kəmˈpleɪnt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "抱怨，怨言；控告"
+        }
+      },
+      {
+        "word": "complete",
+        "phonetic": "[kəmˈpliːt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "全，完全； 已完成的，彻底的",
+          "vt.": "完成，结束"
+        }
+      },
+      {
+        "word": "completely",
+        "phonetic": "[kəm ˈpliːtli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "完全地"
+        }
+      },
+      {
+        "word": "complex",
+        "phonetic": "[kəm ˈpleks]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "复杂的，复合的"
+        }
+      },
+      {
+        "word": "complicated",
+        "phonetic": "[ˈkɑːmplɪkeɪtɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "错综复杂的，难懂的"
+        }
+      },
+      {
+        "word": "component",
+        "phonetic": "[kəm ˈpoʊnənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "组成部分，成分；部件，元件"
+        }
+      },
+      {
+        "word": "compose",
+        "phonetic": "[kəmˈpoʊz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "写作，作曲；(of)由……组成"
+        }
+      },
+      {
+        "word": "composer",
+        "phonetic": "[kəm ˈpoʊzər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "作曲家，创作者"
+        }
+      },
+      {
+        "word": "composition",
+        "phonetic": "[ˌkɑːmpəˈzɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "写作，作文，习作；成分，合成物；乐曲"
+        }
+      },
+      {
+        "word": "compound",
+        "phonetic": "[ˈkɑːmpaʊnd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "复合的",
+          "n.": "复合物，化合物"
+        }
+      },
+      {
+        "word": "comprehension",
+        "phonetic": "[ˌkɑːmprɪˈhenʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "理解 (力) ，领悟"
+        }
+      },
+      {
+        "word": "comprehensive",
+        "phonetic": "[ˌkɑːmprɪˈhensɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "综合的；有理解力"
+        }
+      },
+      {
+        "word": "compromise",
+        "phonetic": "[ˈkɑːmprəmaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "妥协；和解"
+        }
+      },
+      {
+        "word": "computer",
+        "phonetic": "[kəm ˈpjuːtər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "计算机"
+        }
+      },
+      {
+        "word": "comrade",
+        "phonetic": "[ˈkɑːmræd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "同志"
+        }
+      },
+      {
+        "word": "conceal",
+        "phonetic": "[kən ˈ si ːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "隐瞒，隐藏，隐蔽"
+        }
+      },
+      {
+        "word": "concentrate",
+        "phonetic": "[ˈkɑːnsntreɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "集中；聚集；浓缩",
+          "vi.": "集中，专心"
+        }
+      },
+      {
+        "word": "concentration",
+        "phonetic": "[ˌkɑːnsn ˈtreɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "专注，专心；集中；浓度"
+        }
+      },
+      {
+        "word": "concept",
+        "phonetic": "[ˈkɑːnsept]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "概念，观念"
+        }
+      },
+      {
+        "word": "concern",
+        "phonetic": "[kən ˈ sɜːrn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "涉及，关系到",
+          "n.": "关心，挂念"
+        }
+      },
+      {
+        "word": "concerning",
+        "phonetic": "[kən ˈ sɜːrnɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "关于，就……而论"
+        }
+      },
+      {
+        "word": "concert",
+        "phonetic": "[ˈkɑːnsərt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "音乐会，演奏会"
+        }
+      },
+      {
+        "word": "conclude",
+        "phonetic": "[kən ˈkluːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "结束，完结；下结论，断定"
+        }
+      },
+      {
+        "word": "conclusion",
+        "phonetic": "[kən ˈkluːʒn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "结束，终结，结论；推断，推论"
+        }
+      },
+      {
+        "word": "concrete",
+        "phonetic": "[ˈkɑːŋkri ːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "混凝土",
+          "a.": "具体的，实质性的"
+        }
+      },
+
+      {
+        "word": "condemn",
+        "phonetic": "[kən ˈdem]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "谴责，指责；宣判，判刑"
+        }
+      },
+      {
+        "word": "condition",
+        "phonetic": "[kən ˈdɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "状况，状态；(pl.)环境，情形；条件"
+        }
+      },
+      {
+        "word": "conduct",
+        "phonetic": "[kən ˈdʌkt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "行为，品行",
+          "vt.": "引导，指挥；传电，传热"
+        }
+      },
+      {
+        "word": "conductor",
+        "phonetic": "[kən ˈdʌktər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "领队，乐队指挥；售票员，列车员；导体"
+        }
+      },
+      {
+        "word": "conference",
+        "phonetic": "[ˈkɑːnfərəns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "会议，讨论会"
+        }
+      },
+      {
+        "word": "confidence",
+        "phonetic": "[ˈkɑːnfɪdəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "信任，信心"
+        }
+      },
+      {
+        "word": "confident",
+        "phonetic": "[ˈkɑːnfɪdənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "确信的，有自信的"
+        }
+      },
+      {
+        "word": "confine",
+        "phonetic": "[kən ˈfaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "限制；使受限于；监禁，管制",
+          "n.": "界限，范围"
+        }
+      },
+      {
+        "word": "confirm",
+        "phonetic": "[kən ˈfɜːrm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "证实；进一步确定；确认，批准"
+        }
+      },
+      {
+        "word": "conflict",
+        "phonetic": "[ˈkɑːnflɪkt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "争论，抵触，冲突",
+          "vi.": "抵触，冲突"
+        }
+      },
+      {
+        "word": "confront",
+        "phonetic": "[kən ˈfrʌnt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "遭遇；正视；对抗"
+        }
+      },
+      {
+        "word": "confuse",
+        "phonetic": "[kən ˈfjuːz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "使混淆，搞乱"
+        }
+      },
+      {
+        "word": "confusing",
+        "phonetic": "[kən ˈfjuːzɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "令人困惑的，使混淆的"
+        }
+      },
+      {
+        "word": "confusion",
+        "phonetic": "[kən ˈfjuːʒn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "混淆，搞乱"
+        }
+      },
+      {
+        "word": "congratulate",
+        "phonetic": "[kən ˈɡrætʃuleɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "祝贺，向……贺喜"
+        }
+      },
+      {
+        "word": "congratulation",
+        "phonetic": "[kənˌɡrætʃu ˈleɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(pl.)祝贺，恭喜"
+        }
+      },
+      {
+        "word": "congress",
+        "phonetic": "[ˈkɑːŋɡrəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "代表大会；国会，议会"
+        }
+      },
+      {
+        "word": "conjunction",
+        "phonetic": "[kənˈdʒʌŋkʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "连接；接合；联合；连 (接) 词"
+        }
+      },
+      {
+        "word": "connect",
+        "phonetic": "[kə ˈnekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "连接，联结",
+          "vi.": "连接，相通"
+        }
+      },
+      {
+        "word": "connection",
+        "phonetic": "[kə ˈnekʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "连接，联系，关系"
+        }
+      },
+      {
+        "word": "conquer",
+        "phonetic": "[ˈkɑːŋkər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "征服，战胜"
+        }
+      },
+      {
+        "word": "conquest",
+        "phonetic": "[ˈkɑːŋkwest]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "征服；克服；攻取"
+        }
+      },
+      {
+        "word": "conscience",
+        "phonetic": "[ˈkɑːnʃəns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "良心，道德心"
+        }
+      },
+      {
+        "word": "conscious",
+        "phonetic": "[ˈkɑːnʃəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "意识到的；有知觉的；有觉悟的， 自觉的"
+        }
+      },
+      {
+        "word": "consequence",
+        "phonetic": "[ˈkɑːnsəkwens]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(in)结果；后果；重要，重大"
+        }
+      },
+      {
+        "word": "consequent",
+        "phonetic": "[ˈkɒnsəkwənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "作为结果的，随之发生的"
+        }
+      },
+      {
+        "word": "conservative",
+        "phonetic": "[kən ˈ sɜːrvətɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "保守的",
+          "n.": "保守的人"
+        }
+      },
+      {
+        "word": "consider",
+        "phonetic": "[kənˈsɪdər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "考虑，细想；认为，以为；关心，顾及"
+        }
+      },
+      {
+        "word": "considerable",
+        "phonetic": "[kən ˈ sɪdərəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "相当的，可观的"
+        }
+      },
+      {
+        "word": "considerate",
+        "phonetic": "[kənˈ sɪdərət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "考虑周到，体谅的"
+        }
+      },
+      {
+        "word": "consideration",
+        "phonetic": "[kənˌsɪdə ˈreɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "考虑；要考虑的事；体贴，关心"
+        }
+      },
+      {
+        "word": "consist",
+        "phonetic": "[kən ˈ sɪst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(of)由……构成，由……组成；(in)在于"
+        }
+      },
+      {
+        "word": "consistent",
+        "phonetic": "[kən ˈ sɪstənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "一致的，一贯的，连续的"
+        }
+      },
+      {
+        "word": "constant",
+        "phonetic": "[kən ˈ sɪstənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "不断的，持续的；始终如一的；坚定的，忠实的；恒定的"
+        }
+      },
+      {
+        "word": "constitute",
+        "phonetic": "[kən ˈ sɪstənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "构成，组成"
+        }
+      },
+      {
+        "word": "construct",
+        "phonetic": "[kən ˈ strʌkt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "建设，建造"
+        }
+      },
+      {
+        "word": "consult",
+        "phonetic": "[kən ˈ sʌlt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "请教，咨询；查阅；就诊",
+          "vi.": "商量，会诊"
+        }
+      },
+      {
+        "word": "consume",
+        "phonetic": "[kənˈsuːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "消费，消耗"
+        }
+      },
+      {
+        "word": "consumer",
+        "phonetic": "[kənˈsuːmər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "用户，消费者"
+        }
+      },
+      {
+        "word": "consumption",
+        "phonetic": "[kən ˈ sʌmpʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "消耗，消费"
+        }
+      },
+      {
+        "word": "contact",
+        "phonetic": "[ˈkɑːntækt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "接触，联系，交往"
+        }
+      },
+      {
+        "word": "contain",
+        "phonetic": "[kənˈteɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "容纳，含有，装有；克制，抑制"
+        }
+      },
+      {
+        "word": "container",
+        "phonetic": "[kən ˈteɪnər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "容器，集装箱"
+        }
+      },
+      {
+        "word": "content",
+        "phonetic": "[ˈkɑːntent]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(pl.)内容， 目录",
+          "a.": "满足的，满意的"
+        }
+      },
+      {
+        "word": "contest",
+        "phonetic": "[ˈkɑːntest]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "背景，环境；上下文",
+          "vt.": "参与……的竞争或角逐"
+        }
+      },
+      {
+        "word": "context",
+        "phonetic": "[ˈkɑːntekst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "背景，环境；上下文"
+        }
+      },
+      {
+        "word": "continent",
+        "phonetic": "[ˈkɑːntɪnənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "大陆，洲"
+        }
+      },
+      {
+        "word": "continual",
+        "phonetic": "[kən ˈtɪnjuəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "不断的，频繁的"
+        }
+      },
+      {
+        "word": "continue",
+        "phonetic": "[kən ˈtɪnjuː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "连续，继续"
+        }
+      },
+      {
+        "word": "continuous",
+        "phonetic": "[kən ˈtɪnjuəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "连续的，继续的，持续的"
+        }
+      },
+      {
+        "word": "contract",
+        "phonetic": "[ˈkɑːntrækt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "契约，合同，包工",
+          "vi./vt.": "收缩；感染；定约"
+        }
+      },
+      {
+        "word": "contradiction",
+        "phonetic": "[ˌkɑːntrə ˈdɪkʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "反驳，矛盾"
+        }
+      },
+      {
+        "word": "contrary",
+        "phonetic": "[ˈkɑːntreri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "相反的，矛盾的",
+          "n.": "相反，反面"
+        }
+      },
+      {
+        "word": "contrast",
+        "phonetic": "[ˈkɑːntræst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./vi.": "对比，对照",
+          "n.": "对照，对比"
+        }
+      },
+      {
+        "word": "contribute",
+        "phonetic": "[kən ˈtrɪbjuːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "捐助，捐献；投稿"
+        }
+      },
+      {
+        "word": "contribution",
+        "phonetic": "[ˌkɑːntrɪˈbjuːʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "贡献，捐助，捐助之物"
+        }
+      },
+      {
+        "word": "control",
+        "phonetic": "[kən ˈtroʊl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "控制，操纵；抑制"
+        }
+      },
+      {
+        "word": "controversial",
+        "phonetic": "[ˌkɑːntrə ˈvɜːrʃl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "争论的；引起争论的；被议论的"
+        }
+      },
+      {
+        "word": "convenience",
+        "phonetic": "[kən ˈvi ːniəns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "便利，方便"
+        }
+      },
+      {
+        "word": "convenient",
+        "phonetic": "[kən ˈvi ːniənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "便利的，方便的"
+        }
+      },
+      {
+        "word": "convention",
+        "phonetic": "[kən ˈvenʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "习俗，惯例；大会，会议；公约"
+        }
+      },
+      {
+        "word": "conventional",
+        "phonetic": "[kən ˈvenʃənl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "普通的，常见的；习惯的，常规的"
+        }
+      },
+      {
+        "word": "conversation",
+        "phonetic": "[ˌkɑːnvərˈseɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "会话，谈话"
+        }
+      },
+      {
+        "word": "convert",
+        "phonetic": "[kən ˈvɜːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "把……改变为，转换，兑换"
+        }
+      },
+      {
+        "word": "conviction",
+        "phonetic": "[kən ˈvɪkʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "定罪；确信，信服"
+        }
+      },
+      {
+        "word": "convince",
+        "phonetic": "[kən ˈvɪns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使确信，使信服"
+        }
+      },
+      {
+        "word": "cook",
+        "phonetic": "[kʊk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "烹调，煮，烧",
+          "n.": "炊事员，厨师"
+        }
+      },
+      {
+        "word": "cool",
+        "phonetic": "[kuːl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "凉，凉爽；冷静，沉着，冷淡",
+          "vi./vt.": "(使) 冷却， (使) 镇静"
+        }
+      },
+      {
+        "word": "cooperate",
+        "phonetic": "[koʊ ˈɑːpəreɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "合作，协作，相配合"
+        }
+      },
+      {
+        "word": "coordinate",
+        "phonetic": "[koʊ ˈɔːrdɪneɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": " (使) 协调，调整； (使) 互相配合"
+        }
+      },
+      {
+        "word": "cope",
+        "phonetic": "[ koʊp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(with)对付，应付"
+        }
+      },
+      {
+        "word": "copper",
+        "phonetic": "[ˈkɑːpər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "铜；铜币，铜制品"
+        }
+      },
+      {
+        "word": "copy",
+        "phonetic": "[ˈkɑːpi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "抄件，副本；本，册",
+          "vt.": "抄写，复印，临摹"
+        }
+      },
+      {
+        "word": "copyright",
+        "phonetic": "[ˈkɑːpiraɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "版权，著作权"
+        }
+      },
+      {
+        "word": "core",
+        "phonetic": "[kɔːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "核心，要点；果心"
+        }
+      },
+      {
+        "word": "corn",
+        "phonetic": "[kɔːrn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "谷物； [美]玉米"
+        }
+      },
+      {
+        "word": "corner",
+        "phonetic": "[ˈkɔːrnər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "角，角落"
+        }
+      },
+      {
+        "word": "corporation",
+        "phonetic": "[ˌkɔːrpəˈreɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "公司，团体"
+        }
+      },
+      {
+        "word": "correct",
+        "phonetic": "[kə ˈrekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "正确的；恰当的，合适的",
+          "vt.": "改正，修改，矫正"
+        }
+      },
+      {
+        "word": "correspond",
+        "phonetic": "[ˌkɔːrə ˈspɑːnd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(to)相当，对应；(with)符合；通信"
+        }
+      },
+      {
+        "word": "correspondent",
+        "phonetic": "[ˌkɔːrə ˈ spɑːndənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "通信者，通讯员，记者"
+        }
+      },
+      {
+        "word": "corresponding",
+        "phonetic": "[ˌkɔːrə ˈ spɑːndɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "相应的，相当的；符合的，一致的"
+        }
+      },
+      {
+        "word": "corridor",
+        "phonetic": "[ˈkɔːrɪdɔːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "走廊"
+        }
+      },
+      {
+        "word": "corrupt",
+        "phonetic": "[kə ˈrʌpt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "腐化的，贪污的"
+        }
+      },
+      {
+        "word": "corruption",
+        "phonetic": "[kə ˈrʌpʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "腐化，腐败"
+        }
+      },
+      {
+        "word": "cost",
+        "phonetic": "[kɔːst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "成本，费用，代价",
+          "vt.": "值，花费"
+        }
+      },
+
+      {
+        "word": "costly",
+        "phonetic": "[ˈkɔːstli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "昂贵，代价高的"
+        }
+      },
+      {
+        "word": "costume",
+        "phonetic": "[ˈkɑːstuːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "服装；戏装"
+        }
+      },
+      {
+        "word": "cottage",
+        "phonetic": "[ˈkɑːtɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "村舍；小屋"
+        }
+      },
+      {
+        "word": "cotton",
+        "phonetic": "[ˈkɑːtn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "棉花；棉纱，棉织品"
+        }
+      },
+      {
+        "word": "couch",
+        "phonetic": "[kaʊtʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "睡椅；长沙发椅"
+        }
+      },
+      {
+        "word": "cough",
+        "phonetic": "[kɔːf]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "咳嗽"
+        }
+      },
+      {
+        "word": "could",
+        "phonetic": "[kəd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "aux. v.": "[can 的过去式]"
+        }
+      },
+      {
+        "word": "council",
+        "phonetic": "[ˈkaʊnsl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "理事会，委员会；议事机构"
+        }
+      },
+      {
+        "word": "counsel",
+        "phonetic": "[ˈkaʊnsl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "劝告，建议",
+          "vt.": "给……提供建议，劝告"
+        }
+      },
+
+      {
+        "word": "count",
+        "phonetic": "[kaʊnt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "数,计算；看做，认为",
+          "vi.": "计数；指望"
+        }
+      },
+      {
+        "word": "counter",
+        "phonetic": "[ˈkaʊntər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "柜台；计数器",
+          "a./ad.": "相反的 (地) ，反对的 (地)",
+          "vt.": "反对，对抗"
+        }
+      },
+      {
+        "word": "country",
+        "phonetic": "[ˈkʌntri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "国家；农村，乡间"
+        }
+      },
+      {
+        "word": "countryside",
+        "phonetic": "[ˈkʌntrisaɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "乡下，农村"
+        }
+      },
+      {
+        "word": "county",
+        "phonetic": "[ˈkaʊnti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "郡，县"
+        }
+      },
+      {
+        "word": "couple",
+        "phonetic": "[ˈkʌpl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "对，双；夫妇"
+        }
+      },
+      {
+        "word": "courage",
+        "phonetic": "[ˈkɜːrɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "勇气，胆量"
+        }
+      },
+      {
+        "word": "course",
+        "phonetic": "[kɔːrs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "进程，过程；课程； ( 一) 道 (菜)"
+        }
+      },
+      {
+        "word": "court",
+        "phonetic": "[kɔːrt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "法院，法庭；宫殿，朝廷；院子；球场"
+        }
+      },
+      {
+        "word": "courtyard",
+        "phonetic": "[ˈkɔːrtjɑːrd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "庭院；院子"
+        }
+      },
+      {
+        "word": "cousin",
+        "phonetic": "[ˈkʌzn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "堂/表兄弟"
+        }
+      },
+      {
+        "word": "cover",
+        "phonetic": "[ˈkʌvər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "盖，覆；包括，涉及",
+          "n.": "覆盖物，套，封面"
+        }
+      },
+      {
+        "word": "cow",
+        "phonetic": "[kaʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "母牛，奶牛"
+        }
+      },
+      {
+        "word": "coward",
+        "phonetic": "[ˈkaʊərd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "胆小鬼"
+        }
+      },
+      {
+        "word": "cowboy",
+        "phonetic": "[ˈkaʊbɔɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "牛仔，牧童"
+        }
+      },
+
+      {
+        "word": "crack",
+        "phonetic": "[kræk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(使) 破裂，砸开；发爆裂声",
+          "n.": "裂纹，龟裂；爆裂声"
+        }
+      },
+      {
+        "word": "cradle",
+        "phonetic": "[ˈkreɪdl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "摇篮"
+        }
+      },
+      {
+        "word": "craft",
+        "phonetic": "[kræft]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "技巧，手艺；飞机，飞船"
+        }
+      },
+      {
+        "word": "crane",
+        "phonetic": "[kreɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "起重机；鹤"
+        }
+      },
+      {
+        "word": "crash",
+        "phonetic": "[kræʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "摔坏，坠毁"
+        }
+      },
+      {
+        "word": "crawl",
+        "phonetic": "[krɔːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "爬行，慢行"
+        }
+      },
+      {
+        "word": "crazy",
+        "phonetic": "[ˈkreɪzi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "疯狂的，蠢的；(about)狂热爱好，着迷的"
+        }
+      },
+      {
+        "word": "cream",
+        "phonetic": "[kri ːm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "奶油；奶油色"
+        }
+      },
+      {
+        "word": "create",
+        "phonetic": "[kriˈeɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "创造，创作；产生；制造，建立"
+        }
+      },
+      {
+        "word": "creation",
+        "phonetic": "[kriˈeɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "制造，创造；创造物，产物； (上帝) 创世"
+        }
+      },
+      {
+        "word": "creative",
+        "phonetic": "[kriˈeɪtɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "有创造力的，创造性的"
+        }
+      },
+      {
+        "word": "creature",
+        "phonetic": "[ˈkri ːtʃər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "人，动物，生物"
+        }
+      },
+      {
+        "word": "credible",
+        "phonetic": "[ˈkredəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "可信的，可靠的"
+        }
+      },
+      {
+        "word": "credit",
+        "phonetic": "[ˈkredɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "信贷，赊欠；信用，信誉；名誉，名望；光荣，功劳；学分",
+          "vt.": "记入贷方"
+        }
+      },
+      {
+        "word": "creep",
+        "phonetic": "[kri ːp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "爬，徐行，蠕动",
+          "vi.": "爬，蔓延，潜行"
+        }
+      },
+      {
+        "word": "crew",
+        "phonetic": "[kruː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "全体船员，全体乘务员"
+        }
+      },
+      {
+        "word": "crime",
+        "phonetic": "[kraɪm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "罪，罪行，犯罪"
+        }
+      },
+      {
+        "word": "criminal",
+        "phonetic": "[ˈkrɪmɪnl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "犯罪的，刑事的",
+          "n.": "罪犯，刑事犯"
+        }
+      },
+      {
+        "word": "crisis",
+        "phonetic": "[ˈkraɪsɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "危机；决定性时刻"
+        }
+      },
+      {
+        "word": "critic",
+        "phonetic": "[ˈkrɪtɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "批评家，评论家"
+        }
+      },
+      {
+        "word": "critical",
+        "phonetic": "[ˈkrɪtɪkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "批评的，批判的；危急的，紧要的"
+        }
+      },
+      {
+        "word": "criticism",
+        "phonetic": "[ˈkrɪtɪsɪzəm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "批评，评论"
+        }
+      },
+      {
+        "word": "criticize/-se",
+        "phonetic": "[ˈkrɪtɪsaɪz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "批评，评论"
+        }
+      },
+      {
+        "word": "crop",
+        "phonetic": "[krɑːp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "农作物，庄稼；收成"
+        }
+      },
+      {
+        "word": "cross",
+        "phonetic": "[krɔːs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./vi.": "越过，穿过；使交叉，使相交",
+          "n.": "十字形，十字架",
+          "a.": "交叉的，横穿的"
+        }
+      },
+      {
+        "word": "crossing",
+        "phonetic": "[ˈkrɔːsɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "横越，横渡；交叉点，渡口"
+        }
+      },
+      {
+        "word": "crowd",
+        "phonetic": "[kraʊd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "人群，群众",
+          "vt./vi.": "挤满，拥挤"
+        }
+      },
+      {
+        "word": "crowded",
+        "phonetic": "[ˈkraʊdɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "拥挤的"
+        }
+      },
+      {
+        "word": "crown",
+        "phonetic": "[kraʊn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "王冠；花冠",
+          "vt.": "加冠于"
+        }
+      },
+      {
+        "word": "crude",
+        "phonetic": "[kruːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "天然的，未加工的；简陋的；粗鲁的"
+        }
+      },
+      {
+        "word": "cruel",
+        "phonetic": "[kruːəl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "残酷的，残忍的"
+        }
+      },
+      {
+        "word": "cruelty",
+        "phonetic": "[ˈkruːəlti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "残忍，残酷行为"
+        }
+      },
+      {
+        "word": "cruise",
+        "phonetic": "[kruːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "巡航；航游"
+        }
+      },
+      {
+        "word": "crush",
+        "phonetic": "[krʌʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n./vt.": "压碎，榨；压服，压垮"
+        }
+      },
+      {
+        "word": "crust",
+        "phonetic": "[krʌst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "外壳，面包皮"
+        }
+      },
+      {
+        "word": "cry",
+        "phonetic": "[kraɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "叫，喊，哭泣"
+        }
+      },
+      {
+        "word": "crystal",
+        "phonetic": "[ˈkrɪstl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "水晶，晶体",
+          "a.": "水晶的，晶体的；透明的"
+        }
+      },
+      {
+        "word": "cube",
+        "phonetic": "[kjuːb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "立方体；立方"
+        }
+      },
+      {
+        "word": "cubic",
+        "phonetic": "[ˈkjuːbɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "立体的，立方的；三次的"
+        }
+      },
+      {
+        "word": "cue",
+        "phonetic": "[kjuː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "暗示；提示"
+        }
+      },
+      {
+        "word": "cultural",
+        "phonetic": "[ˈkʌltʃərəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "文化的"
+        }
+      },
+      {
+        "word": "culture",
+        "phonetic": "[ˈkʌltʃər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "文化；修养，教养"
+        }
+      },
+      {
+        "word": "cup",
+        "phonetic": "[kʌp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "杯子，奖杯； ( 一) 杯"
+        }
+      },
+      {
+        "word": "cupboard",
+        "phonetic": "[ˈkʌbərd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "碗柜"
+        }
+      },
+      {
+        "word": "cure",
+        "phonetic": "[kjʊr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "治愈，医治； 良药，疗法",
+          "vt.": "治愈，医治"
+        }
+      },
+      {
+        "word": "curiosity",
+        "phonetic": "[ˌkjʊriˈɑːsəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "好奇 (心)"
+        }
+      },
+      {
+        "word": "curious",
+        "phonetic": "[ˈkjʊriəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "好奇的，爱打听的"
+        }
+      },
+      {
+        "word": "curl",
+        "phonetic": "[ kɜːrl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "卷曲，卷发",
+          "vt.": "弄卷",
+          "vi.": "卷曲，弯曲"
+        }
+      },
+      {
+        "word": "currency",
+        "phonetic": "[ˈkɜːrənsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "货币，通货"
+        }
+      },
+      {
+        "word": "current",
+        "phonetic": "[ˈkɜːrənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "流，水流，气流，电流；潮流，趋势",
+          "a.": "通用的，流行的，当前的"
+        }
+      },
+      {
+        "word": "curse",
+        "phonetic": "[kɜːrs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi./vt.": "诅咒，咒骂"
+        }
+      },
+      {
+        "word": "curtain",
+        "phonetic": "[ˈkɜːrtn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "窗帘，幕 (布)"
+        }
+      },
+      {
+        "word": "curve",
+        "phonetic": "[kɜːrv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "曲线，弯曲",
+          "vt./vi.": "弄弯，使成曲线"
+        }
+      },
+      {
+        "word": "cushion",
+        "phonetic": "[ˈkʊʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "垫子，坐垫"
+        }
+      },
+      {
+        "word": "custom",
+        "phonetic": "[ˈkʌstəm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "习惯，风俗，惯例；(pl.)海关"
+        }
+      },
+      {
+        "word": "customer",
+        "phonetic": "[ˈkʌstəmər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "顾客，主顾"
+        }
+      },
+      {
+        "word": "cut",
+        "phonetic": "[kʌt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "伤口",
+          "vt.": "切，剪，割，削；删，缩减"
+        }
+      },
+      {
+        "word": "cute",
+        "phonetic": "[kjuːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "聪明的；伶俐的"
+        }
+      },
+      {
+        "word": "cycle",
+        "phonetic": "[ˈsaɪkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "周期，循环； 自行车"
+        }
+      },
+      {
+        "word": "cyclist",
+        "phonetic": "[ˈsaɪklɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "骑自行车/摩托车的人"
+        }
+      }
+    ]
+  }
+]
