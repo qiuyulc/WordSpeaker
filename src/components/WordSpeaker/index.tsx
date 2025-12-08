@@ -133,7 +133,14 @@ const ListCom = (props: {
             >
               <Card.Header className={styles.card_header}>
                 <div className={styles.card_header_box}>
-                  <span className={styles.card_word}>{u.word}</span>
+                  <span className={`${styles.card_word}`}>
+                    {u.key_word ? (
+                      <span className={styles.card_title_icon}>*</span>
+                    ) : (
+                      ""
+                    )}
+                    <i>{u.word}</i>
+                  </span>
                   <span
                     className={`${styles.card_icon} ${
                       isPlaying && currentWord === u.word
