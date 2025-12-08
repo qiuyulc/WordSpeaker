@@ -7,6 +7,7 @@ export interface SpeechOptions {
   volume?: number; // 音量 (0 ~ 1，默认1)
   lang?: string; // 语言 (默认'en-US')
   voice?: SpeechSynthesisVoice | null; // 特定语音
+  voiceName?: string;
 }
 
 export interface SpeechState {
@@ -34,6 +35,7 @@ const defaultOptions: SpeechOptions = {
   pitch: 1,
   volume: 1,
   lang: "en-US",
+  voiceName: "Samantha",
 };
 
 const useSpeech = (
@@ -64,6 +66,19 @@ const useSpeech = (
     // 获取可用的语音列表
     const loadVoices = () => {
       const voices = synthesisRef.current?.getVoices() || [];
+
+      if (voices.length > 0) {
+        const voice = voices.find(
+          (voice) => voice.name === state.currentOptions.voiceName
+        );
+
+        if (voice) {
+          setState((prev) => ({
+            ...prev,
+            currentOptions: { ...prev.currentOptions, voice },
+          }));
+        }
+      }
       setState((prev) => ({ ...prev, voices }));
     };
 

@@ -1,9 +1,20 @@
 import styles from "./index.module.less";
 import { useState, useRef, useMemo } from "react";
-import { Volume } from "@react-vant/icons";
-import { Tabs, List, Card } from "react-vant";
+import { Volume, VolumeO } from "@react-vant/icons";
+import {
+  Tabs,
+  List,
+  Card,
+  Popup,
+  Slider,
+  DropdownMenu,
+  NoticeBar,
+  Sticky,
+} from "react-vant";
 import word from "../../assets/word.json";
 import useSpeech from "../../hooks/useSpeech";
+import Menu from "../../components/Menu";
+
 export interface WordType {
   word: string;
   phonetic: string;
@@ -156,9 +167,14 @@ const WordSpeaker = () => {
     String.fromCharCode(i + 65)
   );
 
+  const [popup, setPopup] = useState({
+    visible: false,
+  });
+
   const [state, controls] = useSpeech("", {
     rate: 0.6, // 稍微慢一点，方便学习
     lang: "en-US",
+    voiceName: "Samantha",
   });
   const playText = (text: string) => {
     if (text) {
@@ -166,9 +182,52 @@ const WordSpeaker = () => {
     }
   };
 
+  const handleOnClose = () => {
+    setPopup({
+      visible: false,
+    });
+  };
+
+  const menuChange = (val: string) => {
+    if (val === "edit") {
+      setPopup({
+        visible: true,
+      });
+    }
+  };
+
+  const getvoiceOrvoices = useMemo(() => {
+    const { currentOptions, voices } = state;
+    const data = voices
+      .filter((u) => u.lang === "en-US")
+      .map((u) => {
+        return {
+          text: u.name,
+          value: u.name,
+        };
+      });
+
+    return {
+      voice: {
+        value: currentOptions.voice?.voiceURI || 0,
+      },
+      voices: data,
+    };
+  }, [state]);
+
   return (
     <>
       <div className={styles.wordSpeaker}>
+        {getvoiceOrvoices.voices.length === 0 ? (
+          <Sticky>
+            <NoticeBar
+              leftIcon={<VolumeO />}
+              text="很抱歉，没有可用语音。朗读功能暂时不可用。"
+            />
+          </Sticky>
+        ) : (
+          ""
+        )}
         <h3 className={styles.title}>WordSpeaker</h3>
         <div className={styles.content}>
           <Tabs sticky className={styles.tabs}>
@@ -187,6 +246,84 @@ const WordSpeaker = () => {
           </Tabs>
         </div>
       </div>
+
+      <Popup
+        visible={popup.visible}
+        position="bottom"
+        className={styles.popup}
+        style={{ height: "50%" }}
+        onClose={handleOnClose}
+      >
+        <div style={{ padding: "30px 50px" }}>
+          <div className={styles.option_item}>
+            <h3>音量</h3>
+            <Slider
+              min={0}
+              max={1}
+              step={0.1}
+              button={
+                <div
+                  className="rv-slider__button"
+                  style={{ padding: "6px", textAlign: "center" }}
+                >
+                  {state.currentOptions.volume}
+                </div>
+              }
+              value={state.currentOptions.volume}
+              onChange={(val: number) => {
+                controls.setOptions({
+                  volume: val,
+                });
+              }}
+              onChangeAfter={() => {}}
+            />
+          </div>
+          <div className={styles.option_item}>
+            <h3>语速</h3>
+            <Slider
+              min={0}
+              max={1}
+              step={0.1}
+              button={
+                <div
+                  className="rv-slider__button"
+                  style={{ padding: "6px", textAlign: "center" }}
+                >
+                  {state.currentOptions.rate}
+                </div>
+              }
+              value={state.currentOptions.rate}
+              onChange={(val: number) => {
+                controls.setOptions({
+                  rate: val,
+                });
+              }}
+              onChangeAfter={() => {}}
+            />
+          </div>
+          <div className={styles.option_item}>
+            <h3>发音人</h3>
+            <DropdownMenu
+              direction="up"
+              value={getvoiceOrvoices.voice}
+              onChange={(v) => {
+                const data = state.voices.find((item) => item.name === v.value);
+                if (data) {
+                  controls.setOptions({
+                    voice: data,
+                  });
+                }
+              }}
+            >
+              <DropdownMenu.Item
+                name="value"
+                options={getvoiceOrvoices.voices}
+              />
+            </DropdownMenu>
+          </div>
+        </div>
+      </Popup>
+      <Menu onChange={menuChange} />
     </>
   );
 };

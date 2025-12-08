@@ -2,8 +2,9 @@ import { FloatingBall, Flex } from "react-vant";
 import "react-vant/lib/floating-ball/style/index.css";
 import { SettingO, Plus } from "@react-vant/icons";
 import "./index.less";
-const Menu = () => {
-  const item = [{ icon: SettingO }];
+const Menu = (props: { onChange: (val: string) => void }) => {
+  const { onChange } = props;
+  const item = [{ icon: SettingO, text: "edit" }];
   return (
     <div className="demo-floating-box">
       <FloatingBall
@@ -18,7 +19,9 @@ const Menu = () => {
               <Flex
                 align="center"
                 justify="center"
-                onClick={() => {}}
+                onClick={() => {
+                  onChange(u.text);
+                }}
                 key={index}
                 className="menu-item"
               >
