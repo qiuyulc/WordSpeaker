@@ -44,7 +44,7 @@ const Layout = () => {
       >
         {data.map((res) => {
           return (
-            <Tabbar.Item name={res.name} icon={res.icon}>
+            <Tabbar.Item key={res.name} name={res.name} icon={res.icon}>
               {res.text}
             </Tabbar.Item>
           );

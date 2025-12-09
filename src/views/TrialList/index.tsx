@@ -4,7 +4,7 @@ import { useContext, useState } from "react";
 import styles from "./index.module.less";
 import { createWordQuizOptimized } from "@/utils/quizUtils";
 import { WordContext, type WordType } from "@/context/WordContext";
-import { Card, Button, Radio, Progress, NavBar } from "react-vant";
+import { Card, Button, Radio, Progress, NavBar, Notify } from "react-vant";
 import { Cross, Success, Replay } from "@react-vant/icons";
 const TrialList = () => {
   const { state } = useLocation();
@@ -57,6 +57,8 @@ const TrialList = () => {
     setReset((prev) => !prev);
     setWordIndex(0);
     setRadioValue("");
+
+    Notify.show({ type: "success", message: "成功刷新题库" });
   };
 
   return (

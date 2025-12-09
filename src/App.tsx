@@ -7,9 +7,9 @@ import word from "@/assets/word.json";
 function App() {
   return (
     <div className="app">
-      <WordContext value={word as WordsType[]}>
+      <WordContext.Provider value={word as WordsType[]}>
         <RouterView />
-      </WordContext>
+      </WordContext.Provider>
     </div>
   );
 }

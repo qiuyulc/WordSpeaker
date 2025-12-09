@@ -1,4 +1,4 @@
-import { useMemo, lazy, type ComponentType } from "react";
+import { useMemo, lazy, type ComponentType, type ReactNode } from "react";
 import { type RouteObject, Navigate } from "react-router";
 import Layout from "@/layout/layout";
 import Empty from "@/layout/empty";
@@ -18,10 +18,10 @@ export interface RouteMetaProps {
   };
 }
 
-const getElement = async (
+const getElement = (
   path: string,
   paths: Record<string, () => Promise<unknown>>
-) => {
+): ReactNode => {
   if (path === "layout") {
     return <Layout />;
   }
