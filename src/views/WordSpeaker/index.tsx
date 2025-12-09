@@ -1,5 +1,5 @@
 import styles from "./index.module.less";
-import { useState, useRef, useMemo } from "react";
+import { useState, useRef, useMemo, useContext } from "react";
 import { Volume, VolumeO } from "@react-vant/icons";
 import {
   Tabs,
@@ -11,23 +11,24 @@ import {
   NoticeBar,
   Sticky,
 } from "react-vant";
-import word from "../../assets/word.json";
+
 import useSpeech from "../../hooks/useSpeech";
 import Menu from "../../components/Menu";
+import {
+  WordContext,
+  type WordsType,
+  type WordType,
+} from "@/context/WordContext";
 
-export interface WordType {
-  word: string;
-  phonetic: string;
-  key_word: true;
+interface WordTypeHot extends WordType {
   hot?: boolean;
-  definitions_by_pos: Record<string, string>;
 }
-
 const getData = (
+  word: WordsType[],
   key: string,
   page: number,
   pageSize: number
-): Promise<{ data: WordType[]; total: number; status: number }> => {
+): Promise<{ data: WordTypeHot[]; total: number; status: number }> => {
   return new Promise((resolve) => {
     setTimeout(() => {
       const wordData = word.find((u) => u.title === key);
@@ -35,7 +36,7 @@ const getData = (
       const words = wordData?.words.slice(
         (page - 1) * pageSize,
         page * pageSize
-      ) as WordType[];
+      ) as WordTypeHot[];
       resolve({ data: words || [], total, status: 200 });
     }, 2000);
   });
@@ -49,16 +50,16 @@ const ListCom = (props: {
 }) => {
   const { title, playText, isPlaying, currentWord } = props;
   const [page, setPage] = useState(1);
-  const [words, setWords] = useState<WordType[]>([]);
+  const [words, setWords] = useState<WordTypeHot[]>([]);
   const [total, setTotal] = useState(0);
   const [finished, setFinished] = useState(false);
   const pageSize = 60;
   const refLoading = useRef(false);
-
+  const word = useContext(WordContext);
   const onLoad = async () => {
     if (!refLoading.current) {
       refLoading.current = true;
-      getData(title, page, pageSize).then((res) => {
+      getData(word, title, page, pageSize).then((res) => {
         if (res.status === 200) {
           setWords((prev) => {
             const data = [...prev, ...res.data];

@@ -11,7 +11,7 @@ const Menu = (props: { onChange: (val: string) => void }) => {
         className="demo-floating-box-menu"
         offset={{
           right: 30,
-          bottom: 20,
+          bottom: 80,
         }}
         menu={{
           items: item.map((u, index) => {
