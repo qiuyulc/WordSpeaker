@@ -111,6 +111,13 @@ export const useCalculateRouter: () => {
           title: "试练模式",
         },
       },
+      {
+        path: "trial_list",
+        component: "TrialList",
+        id: "4",
+        parentId: "0",
+        meta: {},
+      },
     ];
 
     const tree = buildRouteTree(routes, "0", paths);

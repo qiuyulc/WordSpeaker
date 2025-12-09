@@ -79,7 +79,9 @@ const ListCom = (props: {
     }
   };
 
-  const getMeaning = (definitions_by_pos: Record<string, string>) => {
+  const getMeaning = (
+    definitions_by_pos: Record<string, string | undefined>
+  ) => {
     const keys = Object.keys(definitions_by_pos);
     if (keys.length > 0) {
       return keys.map((u) => {

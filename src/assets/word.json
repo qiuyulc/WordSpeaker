@@ -2725,12 +2725,6 @@
         }
       },
       {
-        "word": "bed",
-        "phonetic": "[bed]",
-        "key_word": true,
-        "definitions_by_pos": {}
-      },
-      {
         "word": "beforehand",
         "phonetic": "[bɪ ˈfɔːrhænd]",
         "key_word": false,
@@ -3010,10 +3004,6 @@
         "definitions_by_pos": {
           "a.": "大的，重要的"
         }
-      },
-      {
-        "word": " bike= bicycle",
-        "key_word": false
       },
       {
         "word": "bill",

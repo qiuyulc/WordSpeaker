@@ -2,9 +2,10 @@ import { createContext } from "react";
 export interface WordType {
   word: string;
   phonetic: string;
-  key_word: true;
-  definitions_by_pos: Record<string, string>;
+  key_word: boolean;
+  definitions_by_pos: Record<string, string | undefined>;
 }
+
 export interface WordsType {
   title: string;
   words: WordType[];

@@ -10,8 +10,14 @@ const Menu = (props: { onChange: (val: string) => void }) => {
       <FloatingBall
         className="demo-floating-box-menu"
         offset={{
-          right: 30,
+          right: 20,
           bottom: 80,
+        }}
+        adsorb={{
+          // 滚动缩进比例
+          indent: 0,
+          // 近边停靠距离
+          distance: 20,
         }}
         menu={{
           items: item.map((u, index) => {
