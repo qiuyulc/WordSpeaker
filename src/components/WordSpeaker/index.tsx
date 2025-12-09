@@ -204,19 +204,26 @@ const WordSpeaker = () => {
   };
 
   const getvoiceOrvoices = useMemo(() => {
+    const seenNames = new Set();
     const { currentOptions, voices } = state;
     const data = voices
       .filter((u) => u.lang === "en-US")
-      .map((u) => {
-        return {
-          text: u.name,
-          value: u.name,
-        };
-      });
+      .filter((u) => {
+        if (seenNames.has(u.name)) {
+          return false; // 已存在，过滤掉
+        } else {
+          seenNames.add(u.name); // 添加到集合
+          return true;
+        }
+      })
+      .map((u) => ({
+        text: u.name,
+        value: u.name,
+      }));
 
     return {
       voice: {
-        value: currentOptions.voice?.voiceURI || 0,
+        value: currentOptions.voice?.name || 0,
       },
       voices: data,
     };
