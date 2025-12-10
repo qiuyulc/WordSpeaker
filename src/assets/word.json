@@ -7688,5 +7688,3931 @@
         }
       }
     ]
+  },
+  {
+    "title": "D",
+    "words": [
+      {
+        "word": "daily",
+        "phonetic": "[ˈdeɪli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "每日的， 日常的",
+          "ad.": "每日，天天",
+          "n.": "日报"
+        }
+      },
+      {
+        "word": "dam",
+        "phonetic": "[dæm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "堤，坝"
+        }
+      },
+      {
+        "word": "damage",
+        "phonetic": "[ˈdæmɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "损害，毁坏",
+          "n.": "损害，毁坏；( pl. )损害赔偿费"
+        }
+      },
+      {
+        "word": "damn",
+        "phonetic": "[dæm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "诅咒"
+        }
+      },
+
+      {
+        "word": "damp",
+        "phonetic": "[dæmp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "潮湿的"
+        }
+      },
+      {
+        "word": "dance",
+        "phonetic": "[dæns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "跳舞",
+          "n.": "舞蹈，舞会"
+        }
+      },
+      {
+        "word": "danger",
+        "phonetic": "[ˈdeɪndʒər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "危险，威胁"
+        }
+      },
+      {
+        "word": "dangerous",
+        "phonetic": "[ˈdeɪndʒərəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "危险的，不安全的"
+        }
+      },
+      {
+        "word": "dare",
+        "phonetic": "[der]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "aux. v.": "敢，胆敢",
+          "vt.": "敢，竟敢； 向……挑战"
+        }
+      },
+      {
+        "word": "dark",
+        "phonetic": "[dɑːrk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "暗，黑暗；深色，黑色",
+          "n.": "黑暗，暗处"
+        }
+      },
+      {
+        "word": "darling",
+        "phonetic": "[ˈdɑːrlɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "[称呼]亲爱的；心爱的人"
+        }
+      },
+      {
+        "word": "data",
+        "phonetic": "[ˈdeɪtə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "资料，材料"
+        }
+      },
+      {
+        "word": "database/-bank",
+        "phonetic": "[ˈdeɪtəbeɪs/-bæŋk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "数据库"
+        }
+      },
+      {
+        "word": "date",
+        "phonetic": "[deɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n. ": "日期，年代；约会",
+          "vi./vt.": "注日期；约会"
+        }
+      },
+      {
+        "word": "daughter",
+        "phonetic": "[ˈdɔːtər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "女儿"
+        }
+      },
+      {
+        "word": "dawn",
+        "phonetic": "[dɔːn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "黎明，曙光",
+          "vi.": "破晓；开始发展"
+        }
+      },
+
+      {
+        "word": "day",
+        "phonetic": "[deɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "白昼， 白天； ( 一) 天"
+        }
+      },
+      {
+        "word": "daylight",
+        "phonetic": "[ˈdeɪlaɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "白昼， 日光"
+        }
+      },
+      {
+        "word": "dead",
+        "phonetic": "[ded]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "死的；无感觉的"
+        }
+      },
+      {
+        "word": "deadline",
+        "phonetic": "[ˈdedlaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "最后期限，截止交稿日期"
+        }
+      },
+      {
+        "word": "deadly",
+        "phonetic": "[ˈdedli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "致命的，致死的；极有害的"
+        }
+      },
+      {
+        "word": "deaf",
+        "phonetic": "[def]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "聋的；不愿听的，装聋的"
+        }
+      },
+      {
+        "word": "deal",
+        "phonetic": "[diːl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(with)处理，应付",
+          "vt.": "给予",
+          "n.": "交易，买卖；契约"
+        }
+      },
+      {
+        "word": "dean",
+        "phonetic": "[diːn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "学院院长，教务长； [宗]教长"
+        }
+      },
+      {
+        "word": "dear",
+        "phonetic": "[dɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "贵的；亲爱的，可爱的",
+          "int.": "啊，哎呀"
+        }
+      },
+      {
+        "word": "death",
+        "phonetic": "[deθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "死，死亡；消亡，毁灭"
+        }
+      },
+      {
+        "word": "debate",
+        "phonetic": "[dɪ ˈbeɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vt.": "争论，辩论"
+        }
+      },
+      {
+        "word": "decade",
+        "phonetic": "[ˈdekeɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "十年"
+        }
+      },
+      {
+        "word": "decay",
+        "phonetic": "[dɪ ˈkeɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./n.": "腐败；衰落"
+        }
+      },
+      {
+        "word": "deceive",
+        "phonetic": "[dɪ ˈ si ːv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "欺骗，蒙骗"
+        }
+      },
+      {
+        "word": "December",
+        "phonetic": "[dɪˈsembər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "十二月"
+        }
+      },
+      {
+        "word": "decent",
+        "phonetic": "[ˈdiːsnt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "体面的，像样的，过得去的，正派的，得体的"
+        }
+      },
+      {
+        "word": "deception",
+        "phonetic": "[dɪ ˈ sepʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "欺骗，瞒骗"
+        }
+      },
+      {
+        "word": "decide",
+        "phonetic": "[ dɪ ˈ saɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "决定；裁决"
+        }
+      },
+
+      {
+        "word": "decision",
+        "phonetic": "[dɪ ˈ sɪʒn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "决心，决定；果断"
+        }
+      },
+      {
+        "word": "deck",
+        "phonetic": "[dek]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "甲板；覆盖物"
+        }
+      },
+      {
+        "word": "declaration",
+        "phonetic": "[ˌdeklə ˈreɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "宣布，宣告；声明； 申报"
+        }
+      },
+      {
+        "word": "declare",
+        "phonetic": "[dɪ ˈkler]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "断言，宣称；宣布，宣告，声明； 申报"
+        }
+      },
+      {
+        "word": "decline",
+        "phonetic": "[dɪ ˈklaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "减少，下降；衰落；婉言拒绝"
+        }
+      },
+      {
+        "word": "decorate",
+        "phonetic": "[ˈdekəreɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "装饰，装点"
+        }
+      },
+      {
+        "word": "decoration",
+        "phonetic": "[ˌdekə ˈreɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "装饰，装潢"
+        }
+      },
+      {
+        "word": "decrease",
+        "phonetic": "[dɪ ˈkri ːs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "减少，减小",
+          "vt./vi.": "(使) 减少， (使) 减小"
+        }
+      },
+      {
+        "word": "deed",
+        "phonetic": "[diːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "行为,行动；功绩，事迹"
+        }
+      },
+      {
+        "word": "deep",
+        "phonetic": "[diːp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "深的，深刻的；深奥的；深切的",
+          "ad.": "深深地"
+        }
+      },
+      {
+        "word": "deer",
+        "phonetic": "[dɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "鹿"
+        }
+      },
+      {
+        "word": "defeat",
+        "phonetic": "[dɪ ˈfiːt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "战胜，挫败"
+        }
+      },
+      {
+        "word": "defect",
+        "phonetic": "[ˈdiːfekt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "缺点，不足"
+        }
+      },
+      {
+        "word": "defense/-ce",
+        "phonetic": "[dɪ ˈfens]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "防御，保卫；答辩"
+        }
+      },
+      {
+        "word": "defend",
+        "phonetic": "[dɪ ˈfend]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "保卫，防守；答辩"
+        }
+      },
+
+      {
+        "word": "deficiency",
+        "phonetic": "[dɪ ˈfɪʃnsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "不足；缺点，缺陷"
+        }
+      },
+      {
+        "word": "define",
+        "phonetic": "[dɪ ˈfaɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "下定义，解释"
+        }
+      },
+      {
+        "word": "definite",
+        "phonetic": "[ˈdefɪnət]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "明确的，确定的，限定的"
+        }
+      },
+      {
+        "word": "definitely",
+        "phonetic": "[ˈdefɪnətli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "明确地，一定地"
+        }
+      },
+
+      {
+        "word": "definition",
+        "phonetic": "[ˌdefɪ ˈnɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "定义，解释"
+        }
+      },
+      {
+        "word": "defy",
+        "phonetic": "[dɪ ˈfaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "蔑视； 向……挑战；公然反抗"
+        }
+      },
+      {
+        "word": "degree",
+        "phonetic": "[dɪ ˈɡri ː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "度，程度；等级；学位"
+        }
+      },
+      {
+        "word": "delay",
+        "phonetic": "[dɪ ˈleɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi./vt.": "推迟；耽搁，延误"
+        }
+      },
+      {
+        "word": "delegate",
+        "phonetic": "[ˈdelɪɡət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "代表"
+        }
+      },
+      {
+        "word": "delegation",
+        "phonetic": "[ˌdelɪ ˈɡeɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(代表的) 委派；代表团"
+        }
+      },
+      {
+        "word": "delete",
+        "phonetic": "[dɪ ˈliːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "删除"
+        }
+      },
+      {
+        "word": "deliberate",
+        "phonetic": "[dɪ ˈlɪbərət]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "故意的，蓄意的；早有计划的；从容的"
+        }
+      },
+      {
+        "word": "deliberately",
+        "phonetic": "[dɪ ˈlɪbərətli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "故意地，蓄意地；审慎地；从容地"
+        }
+      },
+      {
+        "word": "delicate",
+        "phonetic": "[ˈdelɪkət]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "纤弱的，娇嫩的，易碎的；优美的，精美的，精致的；微妙 的，棘手 的；灵敏的，精密的"
+        }
+      },
+      {
+        "word": "delicious",
+        "phonetic": "[dɪ ˈlɪʃəs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "美味的，芬芳的"
+        }
+      },
+      {
+        "word": "delight",
+        "phonetic": "[dɪ ˈlaɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "快乐，高兴",
+          "vt.": "使高兴，使欣喜"
+        }
+      },
+
+      {
+        "word": "deliver",
+        "phonetic": "[dɪ ˈlɪvər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "交付，递送；释放，解救；发表，表达"
+        }
+      },
+      {
+        "word": "delivery",
+        "phonetic": "[dɪ ˈlɪvəri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "传送，交付；分娩"
+        }
+      },
+      {
+        "word": "demand",
+        "phonetic": "[dɪ ˈmænd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "要求，需要"
+        }
+      },
+      {
+        "word": "demanding",
+        "phonetic": "[dɪ ˈmændɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "要求高的；苛求的；费力的"
+        }
+      },
+      {
+        "word": "democracy",
+        "phonetic": "[dɪ ˈmɑːkrəsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "民主，民主制；民主国家"
+        }
+      },
+      {
+        "word": "democratic",
+        "phonetic": "[ˌdemə ˈkrætɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "民主的，有民主精神/作风的"
+        }
+      },
+      {
+        "word": "demonstrate",
+        "phonetic": "[ˈdemənstreɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "表明；论证；演示",
+          "vi.": "示威"
+        }
+      },
+      {
+        "word": "denial",
+        "phonetic": "[dɪ ˈnaɪəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "否认"
+        }
+      },
+      {
+        "word": "dense",
+        "phonetic": "[dens]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "密的，稠密的，浓密的"
+        }
+      },
+      {
+        "word": "density",
+        "phonetic": "[ˈdensəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "稠密；密度"
+        }
+      },
+      {
+        "word": "dental",
+        "phonetic": "[ˈdentl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "牙齿的；牙科的；齿音的"
+        }
+      },
+      {
+        "word": "dentist",
+        "phonetic": "[ˈdentɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "牙科医生"
+        }
+      },
+      {
+        "word": "deny",
+        "phonetic": "[dɪ ˈnaɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "否定，否认；拒绝，谢绝"
+        }
+      },
+      {
+        "word": "depart",
+        "phonetic": "[dɪ ˈpɑːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "出发，离开"
+        }
+      },
+      {
+        "word": "department",
+        "phonetic": "[dɪ ˈpɑːrtmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "部门，系"
+        }
+      },
+      {
+        "word": "departure",
+        "phonetic": "[dɪ ˈpɑːrtʃər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "离开，出发"
+        }
+      },
+      {
+        "word": "depend",
+        "phonetic": "[dɪ ˈpend]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "(on/upon)依靠，依赖；信任；取决于"
+        }
+      },
+      {
+        "word": "dependence",
+        "phonetic": "[dɪ ˈpendəns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "依靠，依赖；从属"
+        }
+      },
+      {
+        "word": "dependent",
+        "phonetic": "[dɪ ˈpendənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "(on/upon)依靠的，依赖的，从属的"
+        }
+      },
+      {
+        "word": "deposit",
+        "phonetic": "[dɪ ˈpɑːzɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "存款；押金，保证金；沉淀物",
+          "vt.": "存放，寄存；储蓄；使沉淀"
+        }
+      },
+      {
+        "word": "depress",
+        "phonetic": "[dɪ ˈpres]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "压抑；降低"
+        }
+      },
+      {
+        "word": "depression",
+        "phonetic": "[dɪ ˈpreʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "不景气，萧条；沮丧，消沉"
+        }
+      },
+      {
+        "word": "depth",
+        "phonetic": "[depθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "深度；深厚，深切"
+        }
+      },
+      {
+        "word": "deputy",
+        "phonetic": "[ˈdepjuti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "副，副职；代表，代表人"
+        }
+      },
+      {
+        "word": "derive",
+        "phonetic": "[dɪ ˈraɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(from)获得；衍生，派生"
+        }
+      },
+      {
+        "word": "descend",
+        "phonetic": "[dɪ ˈ send]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "下降"
+        }
+      },
+      {
+        "word": "describe",
+        "phonetic": "[dɪ ˈ skraɪb]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "描述，形容"
+        }
+      },
+      {
+        "word": "description",
+        "phonetic": "[dɪ ˈ skrɪpʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "描写，形容；说明书"
+        }
+      },
+      {
+        "word": "desert",
+        "phonetic": "[ˈdezərt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "沙漠，不毛之地",
+          "vt.": "离开，拋弃；从……开小差"
+        }
+      },
+      {
+        "word": "deserve",
+        "phonetic": "[dɪ ˈzɜːrv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "应受，值得"
+        }
+      },
+      {
+        "word": "design",
+        "phonetic": "[dɪ ˈzaɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "计划，设计，制图",
+          "n.": "图纸；图案，花样；设计"
+        }
+      },
+      {
+        "word": "desirable",
+        "phonetic": "[dɪˈzaɪərəbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "合乎需要的，令人满意的"
+        }
+      },
+      {
+        "word": "desire",
+        "phonetic": "[dɪˈzaɪər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "愿望，欲望；要求"
+        }
+      },
+      {
+        "word": "desk",
+        "phonetic": "[desk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "书桌，服务台，办公桌"
+        }
+      },
+      {
+        "word": "despair",
+        "phonetic": "[dɪˈsper]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./n.": "失望，绝望"
+        }
+      },
+      {
+        "word": "desperate",
+        "phonetic": "[ˈdespərət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "绝望的；危急的；不顾一切的，铤而走险的"
+        }
+      },
+      {
+        "word": "despite",
+        "phonetic": "[dɪˈspaɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "prep.": "即使，尽管"
+        }
+      },
+      {
+        "word": "dessert",
+        "phonetic": "[dɪˈzɜːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "餐后甜食"
+        }
+      },
+      {
+        "word": "destination",
+        "phonetic": "[ˌdestɪˈneɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "目的地"
+        }
+      },
+      {
+        "word": "destroy",
+        "phonetic": "[dɪˈstrɔɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "破坏，摧毁；消灭，扑灭；打破，粉碎"
+        }
+      },
+      {
+        "word": "destruction",
+        "phonetic": "[dɪˈstrʌkʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "破坏，毁灭"
+        }
+      },
+      {
+        "word": "destructive",
+        "phonetic": "[dɪˈstrʌktɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "破坏性的，毁灭的"
+        }
+      },
+      {
+        "word": "detail",
+        "phonetic": "[ˈdiːteɪl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "细节，详情；枝节，琐事",
+          "vt.": "详述，详谈"
+        }
+      },
+      {
+        "word": "detect",
+        "phonetic": "[dɪ ˈtekt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "察觉，发现"
+        }
+      },
+      {
+        "word": "detection",
+        "phonetic": "[dɪ ˈtekʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "觉察，发觉；侦察；探测"
+        }
+      },
+      {
+        "word": "detective",
+        "phonetic": "[dɪ ˈtektɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "侦探"
+        }
+      },
+      {
+        "word": "determination",
+        "phonetic": "[dɪ ˌtɜːrmɪˈneɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "决心，决定"
+        }
+      },
+      {
+        "word": "determine",
+        "phonetic": "[dɪ ˈtɜːrmɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "决心；决定"
+        }
+      },
+      {
+        "word": "determined",
+        "phonetic": "[dɪ ˈtɜːrmɪnd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "下定决心的，决意的"
+        }
+      },
+      {
+        "word": "develop",
+        "phonetic": "[dɪ ˈveləp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "发展，进展；开发，研制；显现，显影；发育，生 长；进化 development [dɪ ˈveləpmənt]",
+          "n.": "发展，进展；开发，研制；新进展"
+        }
+      },
+      {
+        "word": "device",
+        "phonetic": "[dɪ ˈvaɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "设备，装置；方法，设计"
+        }
+      },
+      {
+        "word": "devil",
+        "phonetic": "[ˈdevl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "魔鬼"
+        }
+      },
+      {
+        "word": "devise",
+        "phonetic": "[dɪ ˈvaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "设计，想出，发明"
+        }
+      },
+      {
+        "word": "devote",
+        "phonetic": "[ dɪ ˈvoʊt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "奉献，献身，致力"
+        }
+      },
+      {
+        "word": "devotion",
+        "phonetic": "[dɪ ˈvoʊʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "献身，忠诚；热爱"
+        }
+      },
+      {
+        "word": "diagnosis",
+        "phonetic": "[ˌdaɪəɡˈnoʊsɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "诊断；调查分析"
+        }
+      },
+      {
+        "word": "diagram",
+        "phonetic": "[ˈdaɪəɡræm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "图解，图表"
+        }
+      },
+      {
+        "word": "dial",
+        "phonetic": "[ˈdaɪəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "拨号，打电话",
+          "n.": "标度盘，钟面，拨号盘"
+        }
+      },
+      {
+        "word": "dialect",
+        "phonetic": "[ˈdaɪəlekt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "方言"
+        }
+      },
+      {
+        "word": "dialogue",
+        "phonetic": "[ˈdaɪəlɑːɡ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "对话，对白"
+        }
+      },
+      {
+        "word": "diameter/-re",
+        "phonetic": "[daɪˈæmɪtər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "直径"
+        }
+      },
+      {
+        "word": "diamond",
+        "phonetic": "[ˈdaɪəmənd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "钻石，金刚钻"
+        }
+      },
+      {
+        "word": "diary",
+        "phonetic": "[ˈdaɪəri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "日记"
+        }
+      },
+      {
+        "word": "dictation",
+        "phonetic": "[dɪkˈteɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "听写， 口述"
+        }
+      },
+      {
+        "word": "dictionary",
+        "phonetic": "[ˈdɪkʃəneri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "字典，词典"
+        }
+      },
+      {
+        "word": "die",
+        "phonetic": "[daɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "死亡，死"
+        }
+      },
+      {
+        "word": "diet",
+        "phonetic": "[ˈdaɪət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "饮食，食物"
+        }
+      },
+      {
+        "word": "differ",
+        "phonetic": "[ˈdɪfər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "不同，相异"
+        }
+      },
+      {
+        "word": "difference",
+        "phonetic": "[ˈdɪfrəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "差别，差异；分歧，争论"
+        }
+      },
+      {
+        "word": "different",
+        "phonetic": "[ˈdɪfrənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "差异的，不同的"
+        }
+      },
+      {
+        "word": "difficult",
+        "phonetic": "[ˈdɪfɪkəlt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "困难的，艰难的；难应付的，难满足的"
+        }
+      },
+      {
+        "word": "difficulty",
+        "phonetic": "[ˈdɪfɪkəlti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "困难，难事；困境"
+        }
+      },
+      {
+        "word": "dig",
+        "phonetic": "[dɪɡ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "挖，掘；探究"
+        }
+      },
+      {
+        "word": "digest",
+        "phonetic": "[daɪˈdʒest]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "领悟；做……的摘要",
+          "vi.": "消化",
+          "n.": "文摘"
+        }
+      },
+      {
+        "word": "digital",
+        "phonetic": "[ˈdɪdʒɪtl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "数字的"
+        }
+      },
+      {
+        "word": "dignity",
+        "phonetic": "[ˈdɪɡnəti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "尊严；尊贵"
+        }
+      },
+      {
+        "word": "dim",
+        "phonetic": "[dɪm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "昏暗的；模糊不清的"
+        }
+      },
+      {
+        "word": "dinner",
+        "phonetic": "[ˈdɪnər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "正餐，主餐；宴会"
+        }
+      },
+      {
+        "word": "dip",
+        "phonetic": "[dɪp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vt.": "浸"
+        }
+      },
+
+      {
+        "word": "diploma",
+        "phonetic": "[dɪ ˈploʊmə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "文凭，证书"
+        }
+      },
+      {
+        "word": "diplomat",
+        "phonetic": "[ˈdɪpləmæt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "外交人员，外交官"
+        }
+      },
+      {
+        "word": "diplomatic",
+        "phonetic": "[ˌdɪplə ˈmætɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "外交上的，外交人员的"
+        }
+      },
+      {
+        "word": "direct",
+        "phonetic": "[də ˈrekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a./ad.": "径直的/地，直接的/地；率直的/地",
+          "vt.": "把……对准；指示；管理，指导"
+        }
+      },
+      {
+        "word": "direction",
+        "phonetic": "[də ˈrekʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "方向，方位；指导，指令；(pl.)说明"
+        }
+      },
+      {
+        "word": "directly",
+        "phonetic": "[də ˈrektli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "直接地，直截了当地；立即，马上"
+        }
+      },
+      {
+        "word": "director",
+        "phonetic": "[də ˈrektər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "主任，处长，局长；主管，董事；导演"
+        }
+      },
+      {
+        "word": "dirt",
+        "phonetic": "[dɜːrt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "污垢，泥土"
+        }
+      },
+      {
+        "word": "dirty",
+        "phonetic": "[ˈdɜːrti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "脏的；卑鄙的"
+        }
+      },
+      {
+        "word": "disabled",
+        "phonetic": "[dɪs ˈeɪbld]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "残疾的，残废的"
+        }
+      },
+      {
+        "word": "disadvantage",
+        "phonetic": "[ˌdɪsədˈvæntɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "不利，不利条件；损失，损害"
+        }
+      },
+      {
+        "word": "disagree",
+        "phonetic": "[ˌdɪsə ˈɡri ː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(with)不同意，与……意见不合"
+        }
+      },
+      {
+        "word": "disappear",
+        "phonetic": "[ˌdɪsə ˈpɪr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "消失，消散，失踪"
+        }
+      },
+      {
+        "word": "disappoint",
+        "phonetic": "[ˌdɪsə ˈpɔɪnt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "令失望，使扫兴"
+        }
+      },
+      {
+        "word": "disappointing",
+        "phonetic": "[ˌdɪsə ˈpɔɪntɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "令人失望的，令人扫兴的"
+        }
+      },
+      {
+        "word": "disapprove",
+        "phonetic": "[ˌdɪsə ˈpruːv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(of)不赞成，反对"
+        }
+      },
+      {
+        "word": "disaster",
+        "phonetic": "[dɪ ˈzæstər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "灾害，灾祸，灾难"
+        }
+      },
+
+      {
+        "word": "disc/disk",
+        "phonetic": "[dɪsk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "圆盘，盘状物；磁盘"
+        }
+      },
+      {
+        "word": "discard",
+        "phonetic": "[dɪsˈkɑːrd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "丢弃，抛弃"
+        }
+      },
+      {
+        "word": "discipline",
+        "phonetic": "[ˈdɪsəplɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "纪律，风纪；学科；训练",
+          "vt.": "训练，训导；惩罚"
+        }
+      },
+      {
+        "word": "disco",
+        "phonetic": "[ˈdɪskoʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "迪斯科舞厅"
+        }
+      },
+      {
+        "word": "discount",
+        "phonetic": "[ˈdɪskaʊnt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "折扣；贴现 (率)",
+          "vt.": "打折扣"
+        }
+      },
+      {
+        "word": "discourage",
+        "phonetic": "[dɪsˈkɜːrɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使失去信心，使泄气"
+        }
+      },
+      {
+        "word": "discover",
+        "phonetic": "[dɪ ˈ skʌvər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "发现，暴露，显示"
+        }
+      },
+      {
+        "word": "discovery",
+        "phonetic": "[dɪ ˈ skʌvəri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "发现"
+        }
+      },
+      {
+        "word": "discuss",
+        "phonetic": "[dɪ ˈ skʌs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "讨论，议论"
+        }
+      },
+      {
+        "word": "discussion",
+        "phonetic": "[dɪ ˈ skʌʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "讨论，议论"
+        }
+      },
+      {
+        "word": "disease",
+        "phonetic": "[dɪ ˈzi ːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "疾病"
+        }
+      },
+      {
+        "word": "disguise",
+        "phonetic": "[dɪsˈɡaɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vt.": "伪装，假装"
+        }
+      },
+      {
+        "word": "disgust",
+        "phonetic": "[dɪsˈɡʌst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "令人作呕，厌恶"
+        }
+      },
+      {
+        "word": "dish",
+        "phonetic": "[dɪʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "碟，盘子；菜肴"
+        }
+      },
+      {
+        "word": "dislike",
+        "phonetic": "[dɪsˈlaɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "不喜欢"
+        }
+      },
+      {
+        "word": "dismiss",
+        "phonetic": "[dɪsˈmɪs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "不再考虑；免职，解雇，开除；解散"
+        }
+      },
+
+      {
+        "word": "disorder",
+        "phonetic": "[dɪs ˈɔːrdər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "紊乱，混乱；骚动，骚乱；疾病，失调"
+        }
+      },
+      {
+        "word": "display",
+        "phonetic": "[dɪ ˈ spleɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "陈列，展览；显示"
+        }
+      },
+      {
+        "word": "dispose",
+        "phonetic": "[ dɪ ˈ spoʊz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "(of)处理，解决；去掉，除掉"
+        }
+      },
+      {
+        "word": "dispute",
+        "phonetic": "[dɪ ˈ spjuːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "争论，辩驳，争吵",
+          "n.": "争论，争端"
+        }
+      },
+      {
+        "word": "dissolve",
+        "phonetic": "[dɪ ˈzɑːlv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "溶解，融化；解除，解散，取消"
+        }
+      },
+      {
+        "word": "distance",
+        "phonetic": "[ˈdɪstəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "距离，路程；远方，远处"
+        }
+      },
+      {
+        "word": "distant",
+        "phonetic": "[ˈdɪstənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "远的，疏远的，冷漠的"
+        }
+      },
+      {
+        "word": "distinct",
+        "phonetic": "[dɪ ˈ stɪŋkt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "不同的；清楚的，明显的，显著的"
+        }
+      },
+      {
+        "word": "distinction",
+        "phonetic": "[dɪ ˈ stɪŋkʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "区别"
+        }
+      },
+      {
+        "word": "distinguish",
+        "phonetic": "[dɪ ˈ stɪŋɡwɪʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "区别，辨别，辨认出"
+        }
+      },
+      {
+        "word": "distress",
+        "phonetic": "[dɪ ˈ stres]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "苦恼，悲痛；危难，不幸",
+          "vt.": "使苦恼，使痛苦"
+        }
+      },
+      {
+        "word": "distribute",
+        "phonetic": "[dɪ ˈ strɪbjuːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "分发，分送，配给；分布"
+        }
+      },
+      {
+        "word": "distribution",
+        "phonetic": "[ˌdɪstrɪˈbjuːʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "分发，分送，配给；分布"
+        }
+      },
+      {
+        "word": "district",
+        "phonetic": "[ˈdɪstrɪkt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "区，地区，行政区"
+        }
+      },
+      {
+        "word": "disturb",
+        "phonetic": "[dɪ ˈ stɜːrb]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "扰乱，妨碍；打扰，使不安"
+        }
+      },
+      {
+        "word": "ditch",
+        "phonetic": "[dɪtʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "沟，渠"
+        }
+      },
+      {
+        "word": "dive",
+        "phonetic": "[daɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi.": "跳水，潜水；俯冲，扑"
+        }
+      },
+      {
+        "word": "diverse",
+        "phonetic": "[daɪˈvɜːrs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "不同的，多种多样的"
+        }
+      },
+      {
+        "word": "divide",
+        "phonetic": "[dɪ ˈvaɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "分，划分，隔开；分配，分享，分担；隔开；除"
+        }
+      },
+      {
+        "word": "division",
+        "phonetic": "[dɪ ˈvɪʒn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "分，分割，分裂；除法"
+        }
+      },
+      {
+        "word": "divorce",
+        "phonetic": "[dɪ ˈvɔːrs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(与……) 离婚",
+          "n.": "离婚，离异；分离"
+        }
+      },
+      {
+        "word": "dizzy",
+        "phonetic": "[ˈdɪzi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "头晕目眩的"
+        }
+      },
+      {
+        "word": "DNA",
+        "phonetic": "[ˌdiːen ˈeɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "abbr.": "脱氧核糖核酸"
+        }
+      },
+      {
+        "word": "do",
+        "phonetic": "[dəː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "aux. v.": "[构成疑问句和否定句]； [代替动词]； [用于加强语气]",
+          "vt.": "做，干，办；完成，做完；产生",
+          "vi.": "做，行动，进行；行，合适"
+        }
+      },
+      {
+        "word": "doctor",
+        "phonetic": "[ˈdɑːktər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "医生，大夫；博士"
+        }
+      },
+      {
+        "word": "document",
+        "phonetic": "[ˈdɑːkjumənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "文件，文献"
+        }
+      },
+      {
+        "word": "dog",
+        "phonetic": "[dɔːɡ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "狗"
+        }
+      },
+      {
+        "word": "doll",
+        "phonetic": "[dɑːl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "玩偶，玩具娃娃"
+        }
+      },
+      {
+        "word": "dollar",
+        "phonetic": "[ˈdɑːlər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "美元，元"
+        }
+      },
+      {
+        "word": "dolphin",
+        "phonetic": "[ˈdɑːlfɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "海豚"
+        }
+      },
+      {
+        "word": "domestic",
+        "phonetic": "[də ˈmestɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "家里的，家庭的；国内的，国产的；驯养的"
+        }
+      },
+      {
+        "word": "dominant",
+        "phonetic": "[ˈdɑːmɪnənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "占优势的，支配的，统治的"
+        }
+      },
+      {
+        "word": "dominate",
+        "phonetic": "[ˈdɑːmɪneɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "支配，统治，控制；在……中占首要位置"
+        }
+      },
+      {
+        "word": "donation",
+        "phonetic": "[doʊ ˈneɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "捐款，捐赠物"
+        }
+      },
+      {
+        "word": "donkey",
+        "phonetic": "[ˈdɔːŋki]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "驴"
+        }
+      },
+      {
+        "word": "door",
+        "phonetic": "[dɔːr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "门"
+        }
+      },
+      {
+        "word": "dorm",
+        "phonetic": "[dɔːm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "宿舍，集体寝室"
+        }
+      },
+      {
+        "word": "dormitory",
+        "phonetic": "[ˈdɔːrmətɔːri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "宿舍，集体寝室"
+        }
+      },
+      {
+        "word": "dose",
+        "phonetic": "[doʊs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "剂量，一服，一剂"
+        }
+      },
+      {
+        "word": "dot",
+        "phonetic": "[dɑːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "点，圆点"
+        }
+      },
+      {
+        "word": "double",
+        "phonetic": "[ˈdʌbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "两倍的；双，双重",
+          "vt.": "使加倍，翻一番"
+        }
+      },
+      {
+        "word": "doubt",
+        "phonetic": "[daʊt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "怀疑，疑问，疑惑",
+          "vi./vt.": "怀疑，不相信"
+        }
+      },
+      {
+        "word": "doubtful",
+        "phonetic": "[ˈdaʊtfl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "怀疑的，不相信的；可疑的；难料的"
+        }
+      },
+      {
+        "word": "down",
+        "phonetic": "[daʊn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "下，向下； 由多到少；往南；处于低落状态",
+          "prep.": "下，顺……而下"
+        }
+      },
+      {
+        "word": "download",
+        "phonetic": "[ˌdaʊn ˈloʊd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "下载"
+        }
+      },
+      {
+        "word": "downstairs",
+        "phonetic": "[ˌdaʊnˈsterz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "在楼下，往楼下",
+          "a.": "楼下的"
+        }
+      },
+      {
+        "word": "downtown",
+        "phonetic": "[ˌdaʊn ˈtaʊn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "在/往商业区，在/往闹市区",
+          "a.": "商业区的，闹市区的"
+        }
+      },
+      {
+        "word": "downward",
+        "phonetic": "[ˈdaʊnwərd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "(s)向下地，下行地",
+          "a.": "向下的，下行的"
+        }
+      },
+      {
+        "word": "dozen",
+        "phonetic": "[ˈdʌzn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "(一)打，十二个"
+        }
+      },
+      {
+        "word": "draft/draught",
+        "phonetic": "[dræft/drɑːft]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "草稿，草案，草图",
+          "vt.": "起草，草拟"
+        }
+      },
+      {
+        "word": "drag",
+        "phonetic": "[dræɡ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "拖拽，拖拉"
+        }
+      },
+      {
+        "word": "dragon",
+        "phonetic": "[ˈdræɡən]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "龙"
+        }
+      },
+      {
+        "word": "drain",
+        "phonetic": "[dreɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "耗竭，消耗；排水管，水沟，下水道",
+          "vi./vt.": "排 (水) ，放 (水) ，放干"
+        }
+      },
+      {
+        "word": "drama",
+        "phonetic": "[ˈdrɑːmə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "剧本，戏剧"
+        }
+      },
+      {
+        "word": "dramatic",
+        "phonetic": "[drə ˈmætɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "戏剧的，戏剧性的；引人注目的",
+          "n.": "( pl. )戏剧，戏曲"
+        }
+      },
+      {
+        "word": "draw",
+        "phonetic": "[drɔː]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "画；拉，拖；拔出，抽出，引出；吸，汲取，提取；推断出",
+          "n.": "平局,和局"
+        }
+      },
+      {
+        "word": "drawer",
+        "phonetic": "[drɔːr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "抽屉",
+          "vi./vt.": "做梦，幻想"
+        }
+      },
+      {
+        "word": "drawing",
+        "phonetic": "[ˈdrɔːɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "素描，图画，机械图"
+        }
+      },
+      {
+        "word": "dream",
+        "phonetic": "[dri ːm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "梦，梦想，幻想",
+          "vi./vt.": "做梦，幻想"
+        }
+      },
+      {
+        "word": "dress",
+        "phonetic": "[dres]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "服装，女装",
+          "vt.": "给……穿衣，打扮"
+        }
+      },
+      {
+        "word": "drift",
+        "phonetic": "[drɪft]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi.": "漂，漂流"
+        }
+      },
+      {
+        "word": "drill",
+        "phonetic": "[drɪl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "练习，操练，训练；钻孔，打孔",
+          "vi.": "钻孔，打眼"
+        }
+      },
+      {
+        "word": "drink",
+        "phonetic": "[drɪŋk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "饮，喝，饮酒",
+          "n.": "饮料，酒"
+        }
+      },
+      {
+        "word": "drip",
+        "phonetic": "[drɪp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "滴，水滴，点滴",
+          "vi.": "滴下，漏水"
+        }
+      },
+      {
+        "word": "drive",
+        "phonetic": "[draɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "驾驶，开动；驱，赶；驱使，迫使",
+          "vi.": "驾驶，开车"
+        }
+      },
+      {
+        "word": "driver",
+        "phonetic": "[ˈdraɪvər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "司机，驾驶员"
+        }
+      },
+      {
+        "word": "drop",
+        "phonetic": "[ drɑːp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "下降；滴，水滴",
+          "vt.": "投下，落下；降低",
+          "vi.": "落下，下降"
+        }
+      },
+      {
+        "word": "dropout",
+        "phonetic": "[ˈdrɑːpaʊt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "辍学；退学的人，辍学者；反社会习俗者"
+        }
+      },
+      {
+        "word": "drown",
+        "phonetic": "[draʊn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "淹死，淹没"
+        }
+      },
+      {
+        "word": "drug",
+        "phonetic": "[drʌɡ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "药品；(pl. )麻醉药，毒品"
+        }
+      },
+      {
+        "word": "drum",
+        "phonetic": "[drʌm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "鼓，鼓状物"
+        }
+      },
+      {
+        "word": "drunk",
+        "phonetic": "[drʌŋk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "酒醉的"
+        }
+      },
+      {
+        "word": "dry",
+        "phonetic": "[draɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "干的，干旱的； 口干的，干渴的；干巴巴的，枯燥的",
+          "vt.": "使干燥，晒干"
+        }
+      },
+      {
+        "word": "duck",
+        "phonetic": "[dʌk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "鸭，鸭肉"
+        }
+      },
+      {
+        "word": "due",
+        "phonetic": "[duː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "预定的；应付的，到期的；应给的，应得的；应有的，适当的"
+        }
+      },
+      {
+        "word": "dull",
+        "phonetic": "[dʌl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "钝的；愚笨的，迟钝的；阴暗的，沉闷的，单调的；暗淡的，阴郁的"
+        }
+      },
+      {
+        "word": "dumb",
+        "phonetic": "[dʌm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "哑的，无声的"
+        }
+      },
+      {
+        "word": "dump",
+        "phonetic": "[dʌmp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "倾卸，倾倒"
+        }
+      },
+      {
+        "word": "durable",
+        "phonetic": "[ˈdʊrəbl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "耐用的，耐久的"
+        }
+      },
+      {
+        "word": "duration",
+        "phonetic": "[du ˈreɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "持续，持续的时间，期间"
+        }
+      },
+      {
+        "word": "during",
+        "phonetic": "[ˈdʊrɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "在……期间，在……时候"
+        }
+      },
+      {
+        "word": "dusk",
+        "phonetic": "[dʌsk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "薄暮，黄昏"
+        }
+      },
+      {
+        "word": "dust",
+        "phonetic": "[dʌst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "灰尘，尘土",
+          "vt./vi.": "拂，掸；撒 (粉)"
+        }
+      },
+      {
+        "word": "dustbin",
+        "phonetic": "[ˈdʌstbɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "垃圾箱"
+        }
+      },
+      {
+        "word": "duty",
+        "phonetic": "[ˈduːti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "职责；义务，责任；税，关税"
+        }
+      },
+      {
+        "word": "dwarf",
+        "phonetic": "[dwɔːrf]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "矮子，侏儒"
+        }
+      },
+      {
+        "word": "dye",
+        "phonetic": "[daɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "颜料，染料",
+          "vt.": "染，染色"
+        }
+      },
+      {
+        "word": "dynamic(al)",
+        "phonetic": "[daɪˈnæmɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "有活力的；动力的；动态的"
+        }
+      }
+    ]
+  },
+  {
+    "title": "E",
+    "words": [
+      {
+        "word": "each",
+        "phonetic": "[iːtʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a./pron.": "每个，各，各自"
+        }
+      },
+      {
+        "word": "eager",
+        "phonetic": "[ˈiːɡər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "热切的，渴望的"
+        }
+      },
+      {
+        "word": "eagle",
+        "phonetic": "[ˈiːɡl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "鹰"
+        }
+      },
+      {
+        "word": "ear",
+        "phonetic": "[ɪr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "耳朵，耳状物；听力，听觉"
+        }
+      },
+      {
+        "word": "early",
+        "phonetic": "[ˈɜːrli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "早的，早日的，提早的",
+          "ad.": "早，初"
+        }
+      },
+
+      {
+        "word": "earn",
+        "phonetic": "[ɜːrn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "赚得，赢得，获得"
+        }
+      },
+      {
+        "word": "earnest",
+        "phonetic": "[ˈɜːrnɪst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "认真的，热心的"
+        }
+      },
+      {
+        "word": "earth",
+        "phonetic": "[ɜːrθ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "地球；土壤；土地"
+        }
+      },
+      {
+        "word": "earthquake",
+        "phonetic": "[ˈɜːrθkweɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "地震"
+        }
+      },
+      {
+        "word": "ease",
+        "phonetic": "[iːz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "容易，轻易；安逸，安心",
+          "vi./vt.": "减轻，放松，缓和，降低"
+        }
+      },
+      {
+        "word": "east",
+        "phonetic": "[iːst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n./a.": "东方 (的) ，东部 (的)",
+          "ad.": "向/自/在东方"
+        }
+      },
+      {
+        "word": "eastern",
+        "phonetic": "[ˈiːstərn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "东方的，东部的，朝东的"
+        }
+      },
+      {
+        "word": "easy",
+        "phonetic": "[ˈiːzi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "容易；舒适，安心"
+        }
+      },
+      {
+        "word": "easy-going",
+        "phonetic": "[ˌiziˈɡoʊɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "随和的，好相处的"
+        }
+      },
+      {
+        "word": "eat",
+        "phonetic": "[iːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "吃"
+        }
+      },
+      {
+        "word": "echo",
+        "phonetic": "[ˈekoʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "回声，反响",
+          "vi.": "发出回声，共鸣"
+        }
+      },
+      {
+        "word": "economic",
+        "phonetic": "[ˌiːkə ˈnɑːmɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "经济的，经济学的"
+        }
+      },
+      {
+        "word": "economical",
+        "phonetic": "[ˌiːkə ˈnɑːmɪkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "节俭的，节省的，经济的"
+        }
+      },
+      {
+        "word": "economics",
+        "phonetic": "[ˌiːkə ˈnɑːmɪks]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "经济学；经济情况"
+        }
+      },
+      {
+        "word": "economy",
+        "phonetic": "[ɪ ˈkɑːnəmi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "经济，经济制度；节约，节省"
+        }
+      },
+      {
+        "word": "edge",
+        "phonetic": "[edʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "刃；边缘",
+          "vi.": "侧身移动，挤进"
+        }
+      },
+      {
+        "word": "edit",
+        "phonetic": "[ˈedɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "编辑，校订，剪辑"
+        }
+      },
+      {
+        "word": "edition",
+        "phonetic": "[ɪ ˈdɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "版，版本，版次"
+        }
+      },
+      {
+        "word": "editor",
+        "phonetic": "[ˈedɪtər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "编辑，编者"
+        }
+      },
+      {
+        "word": "editorial",
+        "phonetic": "[ˌedɪ ˈtɔːriəl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "社论",
+          "a.": "编辑上的，主笔的，社论的"
+        }
+      },
+      {
+        "word": "educate",
+        "phonetic": "[ˈedʒukeɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "教育，培养，训练"
+        }
+      },
+      {
+        "word": "educated",
+        "phonetic": "[ˈedʒukeɪtɪd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "受过教育的"
+        }
+      },
+      {
+        "word": "education",
+        "phonetic": "[ˌedʒuˈkeɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "教育，培养"
+        }
+      },
+      {
+        "word": "effect",
+        "phonetic": "[ɪ ˈfekt|]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "效果，作用，影响"
+        }
+      },
+      {
+        "word": "effective",
+        "phonetic": "[ɪ ˈfektɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "有效的，生效的"
+        }
+      },
+      {
+        "word": "efficiency",
+        "phonetic": "[ɪ ˈfɪʃnsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "效率，功效"
+        }
+      },
+      {
+        "word": "efficient",
+        "phonetic": "[ɪ ˈfɪʃnt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "效率高的，有能力的"
+        }
+      },
+      {
+        "word": "effort",
+        "phonetic": "[ˈefərt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "努力，尽力"
+        }
+      },
+      {
+        "word": "egg",
+        "phonetic": "[eɡ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "卵，蛋"
+        }
+      },
+      {
+        "word": "eggplant",
+        "phonetic": "[ˈeɡplænt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "茄子"
+        }
+      },
+      {
+        "word": "eight",
+        "phonetic": "[eɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "num.": "八"
+        }
+      },
+      {
+        "word": "eighteen",
+        "phonetic": "[ˌeɪˈtiːn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "num.": "八十"
+        }
+      },
+      {
+        "word": "either",
+        "phonetic": "[ˈaɪðər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "pron.": "(两者中) 任何一方，任何一个",
+          "ad.": "[与 not 连用]也 (不) ；[与 or 连用]或……或…… ，不是…… 就是 …… "
+        }
+      },
+      {
+        "word": "elaborate",
+        "phonetic": "[ɪ ˈlæbərət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "精心制作的；详细阐述的；精细的",
+          "vt.": "精心制作；详细阐述"
+        }
+      },
+      {
+        "word": "elbow",
+        "phonetic": "[ˈelboʊ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "肘，弯头，弯管",
+          "vi.": "用肘推，挤进"
+        }
+      },
+      {
+        "word": "elder",
+        "phonetic": "[ˈeldər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "年长的；资格老的",
+          "n.": "长者，长辈"
+        }
+      },
+      {
+        "word": "elderly",
+        "phonetic": "[ˈeldərli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "上了年纪的"
+        }
+      },
+      {
+        "word": "elect",
+        "phonetic": "[ɪ ˈlekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "推选，选举"
+        }
+      },
+      {
+        "word": "election",
+        "phonetic": "[ɪ ˈlekʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "选举"
+        }
+      },
+      {
+        "word": "electric",
+        "phonetic": "[ɪ ˈlektrɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "电的，带电的，电动的"
+        }
+      },
+      {
+        "word": "electrical",
+        "phonetic": "[ɪ ˈlektrɪkl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "电的，电气科学的"
+        }
+      },
+      {
+        "word": "electrician",
+        "phonetic": "[ɪ ˌlekˈtrɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "电学家，电工"
+        }
+      },
+      {
+        "word": "electricity",
+        "phonetic": "[ɪ ˌlekˈtrɪsəti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "电，电流，电学"
+        }
+      },
+      {
+        "word": "electronic",
+        "phonetic": "[ɪ ˌlekˈtrɑːnɪk]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "电子的"
+        }
+      },
+      {
+        "word": "electronics",
+        "phonetic": "[ɪ ˌlekˈtrɑːnɪks]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "电子学"
+        }
+      },
+      {
+        "word": "elegant",
+        "phonetic": "[ˈelɪɡənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "文雅的，端庄的，雅致的； [口]上品的，第一流的"
+        }
+      },
+      {
+        "word": "element",
+        "phonetic": "[ˈelɪmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "元素；要素，成分"
+        }
+      },
+      {
+        "word": "elementary",
+        "phonetic": "[ˌelɪ ˈmentri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "初等的；基本的"
+        }
+      },
+      {
+        "word": "elephant",
+        "phonetic": "[ˈelɪfənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "象"
+        }
+      },
+      {
+        "word": "elevator",
+        "phonetic": "[ˈelɪveɪtər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "电梯，升降机"
+        }
+      },
+      {
+        "word": "eleven",
+        "phonetic": "[ɪ ˈlevn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "num.": "十一"
+        }
+      },
+      {
+        "word": "eliminate",
+        "phonetic": "[ɪ ˈlɪmɪneɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "排除，消除"
+        }
+      },
+      {
+        "word": "else",
+        "phonetic": "[els]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "其他，另外，别的； [与 or 连用]否则"
+        }
+      },
+
+      {
+        "word": "elsewhere",
+        "phonetic": "[ˌels ˈwer]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "在别处"
+        }
+      },
+      {
+        "word": "email/e-mail",
+        "phonetic": "[ˈiːmeɪl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "电子邮件"
+        }
+      },
+      {
+        "word": "embarrass",
+        "phonetic": "[ɪm ˈbærəs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "使窘迫，使困惑，使为难"
+        }
+      },
+      {
+        "word": "embarrassing",
+        "phonetic": "[ɪm ˈbærəsɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "令人尴尬的"
+        }
+      },
+      {
+        "word": "embassy",
+        "phonetic": "[ˈembəsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "大使馆"
+        }
+      },
+      {
+        "word": "embrace",
+        "phonetic": "[ɪm ˈbreɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "拥抱；包括，包含；包围，环绕"
+        }
+      },
+      {
+        "word": "emerge",
+        "phonetic": "[iˈmɜːrdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "出现；浮现，显露"
+        }
+      },
+      {
+        "word": "emergency",
+        "phonetic": "[iˈmɜːrdʒənsi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "紧急情况，突然事件"
+        }
+      },
+      {
+        "word": "emit",
+        "phonetic": "[iˈmɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "发出，发射；散发 (光、热、气味等)"
+        }
+      },
+      {
+        "word": "emotion",
+        "phonetic": "[ɪ ˈmoʊʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "情感，情绪"
+        }
+      },
+      {
+        "word": "emperor",
+        "phonetic": "[ˈempərər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "皇帝"
+        }
+      },
+      {
+        "word": "emphasis",
+        "phonetic": "[ˈemfəsɪs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "强调，重点"
+        }
+      },
+      {
+        "word": "emphasize/-se",
+        "phonetic": "[ˈemfəsaɪz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "强调，着重"
+        }
+      },
+      {
+        "word": "empire",
+        "phonetic": "[ˈempaɪər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "帝国"
+        }
+      },
+      {
+        "word": "employ",
+        "phonetic": "[ɪm ˈplɔɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "雇用，使用"
+        }
+      },
+      {
+        "word": "employee",
+        "phonetic": "[ɪm ˈplɔɪi ː]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "雇员"
+        }
+      },
+      {
+        "word": "employer",
+        "phonetic": "[ɪm ˈplɔɪər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "雇主"
+        }
+      },
+      {
+        "word": "employment",
+        "phonetic": "[ɪm ˈplɔɪmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "职业，就业；雇用"
+        }
+      },
+
+      {
+        "word": "empty",
+        "phonetic": "[ˈempti]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "空的；空洞的",
+          "vt.": "倒空，搬空"
+        }
+      },
+      {
+        "word": "enable",
+        "phonetic": "[ɪ ˈneɪbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "使能够，使可能"
+        }
+      },
+      {
+        "word": "enclose",
+        "phonetic": "[ɪn ˈkloʊz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "包围，围住；把……封入信封"
+        }
+      },
+      {
+        "word": "encounter",
+        "phonetic": "[ɪn ˈkaʊntər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "遭遇，遇到"
+        }
+      },
+      {
+        "word": "encourage",
+        "phonetic": "[ɪn ˈkɜːrɪdʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "鼓励，助长，促进"
+        }
+      },
+      {
+        "word": "end",
+        "phonetic": "[end]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "终止，结束",
+          "n.": "端，尾； 目标， 目的"
+        }
+      },
+      {
+        "word": "ending",
+        "phonetic": "[ˈendɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "终止，终了"
+        }
+      },
+      {
+        "word": "endless",
+        "phonetic": "[ˈendləs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "无限的，无穷的"
+        }
+      },
+      {
+        "word": "endure",
+        "phonetic": "[ɪn ˈdʊr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "忍受，容忍",
+          "vi.": "忍受，忍耐；持久，持续"
+        }
+      },
+      {
+        "word": "enemy",
+        "phonetic": "[ˈenəmi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "敌人，仇敌"
+        }
+      },
+      {
+        "word": "energetic",
+        "phonetic": "[ˌenər ˈdʒetɪk]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "精力充沛的；积极的"
+        }
+      },
+      {
+        "word": "energy",
+        "phonetic": "[ˈenərdʒi]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "精力，气力，活力；能，能量"
+        }
+      },
+      {
+        "word": "enforce",
+        "phonetic": "[ɪn ˈfɔːrs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "实行，执行；强制，强迫"
+        }
+      },
+      {
+        "word": "engage",
+        "phonetic": "[ɪn ˈɡeɪdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使从事，使忙于； 占用 (时间等) ；雇用，聘用；使订婚；",
+          "vi.": "(in)从事于，参加"
+        }
+      },
+      {
+        "word": "engine",
+        "phonetic": "[ˈendʒɪn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "发动机，引擎；火车头，机车"
+        }
+      },
+      {
+        "word": "engineer",
+        "phonetic": "[ˌendʒɪˈnɪr]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "工程师"
+        }
+      },
+      {
+        "word": "engineering",
+        "phonetic": "[ˌendʒɪˈnɪrɪŋ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "工程，工程学"
+        }
+      },
+      {
+        "word": "enhance",
+        "phonetic": "[ɪnˈhæns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "提高，增强"
+        }
+      },
+      {
+        "word": "enjoy",
+        "phonetic": "[ɪn ˈdʒɔɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "欣赏，喜爱；享受，享有"
+        }
+      },
+
+      {
+        "word": "enjoyable",
+        "phonetic": "[ɪn ˈdʒɔɪəbl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "令人愉快的，惬意的"
+        }
+      },
+      {
+        "word": "enjoyment",
+        "phonetic": "[ɪn ˈdʒɔɪmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "令人愉快的事，享受"
+        }
+      },
+      {
+        "word": "enlarge",
+        "phonetic": "[ɪn ˈlɑːrdʒ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "扩大，放大，增大"
+        }
+      },
+      {
+        "word": "enormous",
+        "phonetic": "[ɪ ˈnɔːrməs]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "庞大的，巨大的"
+        }
+      },
+      {
+        "word": "enough",
+        "phonetic": "[ɪ ˈnʌf]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a./n.": "足够，充足",
+          "ad.": "足够地"
+        }
+      },
+      {
+        "word": "enrich",
+        "phonetic": "[ɪnˈrɪtʃ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使富足；使肥沃；装饰"
+        }
+      },
+      {
+        "word": "enrol(l)",
+        "phonetic": "[ɪn ˈroʊl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "登记，编入，招收"
+        }
+      },
+      {
+        "word": "ensure",
+        "phonetic": "[ɪn ˈʃʊr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "确保，保证"
+        }
+      },
+      {
+        "word": "enter",
+        "phonetic": "[ˈentər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./vi.": "走进，进入；参加，加入；写入，登录"
+        }
+      },
+      {
+        "word": "enterprise",
+        "phonetic": "[ˈentərpraɪz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "企业，事业"
+        }
+      },
+      {
+        "word": "entertain",
+        "phonetic": "[ˌentər ˈteɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "使欢乐，使娱乐；招待，款待"
+        }
+      },
+      {
+        "word": "entertainment",
+        "phonetic": "[ˌentər ˈteɪnmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "娱乐"
+        }
+      },
+      {
+        "word": "enthusiasm",
+        "phonetic": "[ɪnˈθuːziæzəm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "热心，热情，积极性"
+        }
+      },
+      {
+        "word": "entire",
+        "phonetic": "[ɪn ˈtaɪər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "完全的，全部的，完整的"
+        }
+      },
+      {
+        "word": "entrance",
+        "phonetic": "[ˈentrəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "入口，门 口；入场，入会，入学"
+        }
+      },
+      {
+        "word": "entry",
+        "phonetic": "[ˈentri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "进入，入场；入口，河口；登记，登录"
+        }
+      },
+      {
+        "word": "envelope",
+        "phonetic": "[ˈenvəloʊp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "信封"
+        }
+      },
+      {
+        "word": "environment",
+        "phonetic": "[ɪn ˈvaɪrənmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "环境，四周，外界"
+        }
+      },
+      {
+        "word": "envy",
+        "phonetic": "[ˈenvi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "妒忌，羡慕"
+        }
+      },
+      {
+        "word": "episode",
+        "phonetic": "[ˈepɪsoʊd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "一段情节；一个事件；插曲"
+        }
+      },
+      {
+        "word": "equal",
+        "phonetic": "[ˈiːkwəl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "(地位等) 相同的人，匹敌者",
+          "a.": "同等的，相等的；平等的；胜任的",
+          "vt.": "等于，比得上"
+        }
+      },
+      {
+        "word": "equality",
+        "phonetic": "[iˈkwɑːləti]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "同等，平等；相等，等同性"
+        }
+      },
+      {
+        "word": "equation",
+        "phonetic": "[ɪ ˈkweɪʒn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "方程式，等式"
+        }
+      },
+      {
+        "word": "equip",
+        "phonetic": "[ɪ ˈkwɪp]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "装备，配备"
+        }
+      },
+      {
+        "word": "equipment",
+        "phonetic": "[ɪ ˈkwɪpmənt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "装备，设备，器材"
+        }
+      },
+      {
+        "word": "era",
+        "phonetic": "[ˈɪrə]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "时代，年代，阶段"
+        }
+      },
+      {
+        "word": "erect",
+        "phonetic": "[ɪ ˈrekt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "直立的，竖立的，笔直的",
+          "vt.": "使竖立，使直立；树立，建立"
+        }
+      },
+      {
+        "word": "error",
+        "phonetic": "[ˈerər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "错误，过失"
+        }
+      },
+      {
+        "word": "escape",
+        "phonetic": "[ɪ ˈ skeɪp]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "逃跑；逃避，避免；逸出"
+        }
+      },
+
+      {
+        "word": "especially",
+        "phonetic": "[ɪ ˈ speʃəli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "特别，尤其，格外"
+        }
+      },
+      {
+        "word": "essay",
+        "phonetic": "[ˈeseɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "散文，随笔，论说文"
+        }
+      },
+      {
+        "word": "essential",
+        "phonetic": "[ɪ ˈ senʃl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "必不可少，必要的；本质的，实质的；基本的"
+        }
+      },
+      {
+        "word": "establish",
+        "phonetic": "[ɪ ˈ stæblɪʃ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "建立，设立，创办；确立，使确认"
+        }
+      },
+
+      {
+        "word": "establishment",
+        "phonetic": "[ɪ ˈ stæblɪʃmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "建立，设立，确立；建立的机构 (组织)"
+        }
+      },
+      {
+        "word": "estate",
+        "phonetic": "[ɪ ˈ steɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "不动产，财产"
+        }
+      },
+      {
+        "word": "estimate",
+        "phonetic": "[ˈestɪmət]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt./n.": "估计，估价，评价"
+        }
+      },
+      {
+        "word": "etc(=et cetera)",
+        "phonetic": "[ˌetˈsetərə]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "abbr.": "及其他"
+        }
+      },
+      {
+        "word": "euro",
+        "phonetic": "[ˈjʊroʊ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "欧元"
+        }
+      },
+      {
+        "word": "evaluate",
+        "phonetic": "[ɪ ˈvæljueɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "评价，评估"
+        }
+      },
+      {
+        "word": "eve",
+        "phonetic": "[iːv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "前夜，前夕"
+        }
+      },
+      {
+        "word": "even",
+        "phonetic": "[ˈiːvn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "甚至，连……都",
+          "a.": "平的，平坦的；均匀的；平等的，均等的；偶数的"
+        }
+      },
+      {
+        "word": "evening",
+        "phonetic": "[ˈiːvnɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "晚上，傍晚，黄昏"
+        }
+      },
+      {
+        "word": "event",
+        "phonetic": "[ɪ ˈvent]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "事件，事变，大事； 比赛项目"
+        }
+      },
+      {
+        "word": "eventually",
+        "phonetic": "[ɪ ˈventʃuəli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "最后，终于"
+        }
+      },
+      {
+        "word": "ever",
+        "phonetic": "[ˈevər]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "曾经，在任何时候"
+        }
+      },
+      {
+        "word": "every",
+        "phonetic": "[ˈevri]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "每，每个；每隔……的"
+        }
+      },
+      {
+        "word": "everybody",
+        "phonetic": "[ˈevribɑːdi]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "pron.": "每人，人人"
+        }
+      },
+      {
+        "word": "everyday",
+        "phonetic": "[ˈevrideɪ]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "每天的， 日常的"
+        }
+      },
+      {
+        "word": "everyone",
+        "phonetic": "[ˈevriwʌn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "每人，人人"
+        }
+      },
+      {
+        "word": "everything",
+        "phonetic": "[ˈevriθɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "pron.": "事事，凡事，一切东西"
+        }
+      },
+      {
+        "word": "everywhere",
+        "phonetic": "[ˈevriwer]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "到处，处处"
+        }
+      },
+      {
+        "word": "evidence",
+        "phonetic": "[ˈevɪdəns]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "证据，证物"
+        }
+      },
+      {
+        "word": "evident",
+        "phonetic": "[ˈevɪdənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "明显的，明白的"
+        }
+      },
+      {
+        "word": "evidently",
+        "phonetic": "[ˈevɪdəntli]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "ad.": "明显地，显而易见地"
+        }
+      },
+
+      {
+        "word": "evil",
+        "phonetic": "[ˈiːvl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "坏的，邪恶的",
+          "n.": "邪恶，罪恶；祸害"
+        }
+      },
+      {
+        "word": "evolution",
+        "phonetic": "[ˌiːvə ˈluːʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "渐进，发展；进化，演化"
+        }
+      },
+      {
+        "word": "evolve",
+        "phonetic": "[iˈvɑːlv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "(使) 进化， (使) 演化； (使) 发展， (使) 演变"
+        }
+      },
+      {
+        "word": "exact",
+        "phonetic": "[ɪɡˈzækt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "确切的，精确的"
+        }
+      },
+      {
+        "word": "exaggerate",
+        "phonetic": "[ɪɡˈzædʒəreɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "夸大，夸张"
+        }
+      },
+      {
+        "word": "exam",
+        "phonetic": "[ɪɡˈzæm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "n.考试，测验；检验，检查，审查"
+        }
+      },
+      {
+        "word": "examination",
+        "phonetic": "[ɪɡˌzæmɪˈneɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "n.考试，测验；检验，检查，审查"
+        }
+      },
+      {
+        "word": "examine",
+        "phonetic": "[ɪɡˈzæmɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "检验，审査，调查；考试"
+        }
+      },
+      {
+        "word": "example",
+        "phonetic": "[ɪɡˈzæmpl]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "例，实例；范例，榜样"
+        }
+      },
+      {
+        "word": "exceed",
+        "phonetic": "[ɪkˈsi ːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "超过，胜过"
+        }
+      },
+      {
+        "word": "excellent",
+        "phonetic": "[ˈeksələnt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "优秀的，杰出的，卓越的"
+        }
+      },
+      {
+        "word": "except",
+        "phonetic": "[ɪkˈsept]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "prep.": "除……之外"
+        }
+      },
+      {
+        "word": "exception",
+        "phonetic": "[ɪkˈsepʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "例外"
+        }
+      },
+      {
+        "word": "exchange",
+        "phonetic": "[ɪks ˈtʃeɪndʒ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt./n.": "交换，交流；调换，兑换",
+          "n.": "交换台，交易所"
+        }
+      },
+      {
+        "word": "excite",
+        "phonetic": "[ɪkˈsaɪt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "激动，使兴奋；激发，刺激，唤起"
+        }
+      },
+      {
+        "word": "excited",
+        "phonetic": "[ɪkˈsaɪtɪd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "兴奋的"
+        }
+      },
+      {
+        "word": "excitement",
+        "phonetic": "[ɪkˈsaɪtmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "刺激，兴奋"
+        }
+      },
+      {
+        "word": "exciting",
+        "phonetic": "[ɪkˈsaɪtɪŋ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "令人兴奋的"
+        }
+      },
+      {
+        "word": "exclaim",
+        "phonetic": "[ɪkˈskleɪm]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi.": "大叫，呼喊"
+        }
+      },
+      {
+        "word": "exclude",
+        "phonetic": "[ɪkˈskluːd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "拒绝接纳，把……排除在外，排斥"
+        }
+      },
+
+      {
+        "word": "excuse",
+        "phonetic": "[ɪkˈskjuːs]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "原谅",
+          "n.": "借口，理由"
+        }
+      },
+      {
+        "word": "execute",
+        "phonetic": "[ˈeksɪkjuːt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "实行，执行，实施；处死，处决"
+        }
+      },
+      {
+        "word": "executive",
+        "phonetic": "[ɪɡˈzekjətɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "执行的，实施的",
+          "n.": "执行者，行政官；高级官员"
+        }
+      },
+      {
+        "word": "exercise",
+        "phonetic": "[ˈeksərsaɪz]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "练习，习题；锻炼",
+          "vt.": "运用，行使，实行",
+          "vi.": "锻炼，训练"
+        }
+      },
+      {
+        "word": "exhaust",
+        "phonetic": "[ɪɡˈzɔːst]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "用尽，耗尽，竭力；使衰竭，使精疲力竭",
+          "n.": "排气装置，废气"
+        }
+      },
+      {
+        "word": "exhibit",
+        "phonetic": "[ɪɡˈzɪbɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "展览，陈列；显示",
+          "n.": "展览，展品"
+        }
+      },
+      {
+        "word": "exhibition",
+        "phonetic": "[ˌeksɪˈbɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "展览会；展览，显示"
+        }
+      },
+      {
+        "word": "exist",
+        "phonetic": "[ɪɡˈzɪst]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi.": "在，存在"
+        }
+      },
+      {
+        "word": "existence",
+        "phonetic": "[ɪɡˈzɪstəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "存在，生存"
+        }
+      },
+      {
+        "word": "exit",
+        "phonetic": "[ˈeksɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "出口；太平门",
+          "vi./n.": "退出，退场"
+        }
+      },
+      {
+        "word": "expand",
+        "phonetic": "[ɪkˈspænd]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vi./vt.": "膨胀，扩张，扩大"
+        }
+      },
+      {
+        "word": "expansion",
+        "phonetic": "[ɪkˈspænʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "扩充，开展，膨胀"
+        }
+      },
+      {
+        "word": "expect",
+        "phonetic": "[ɪkˈspekt]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "期待，盼望；料想，预期"
+        }
+      },
+      {
+        "word": "expectation",
+        "phonetic": "[ˌekspekˈteɪʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "期待，盼望；料想，预期"
+        }
+      },
+      {
+        "word": "expense",
+        "phonetic": "[ɪkˈspens]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "开销，花费；( pl. )费用"
+        }
+      },
+      {
+        "word": "expensive",
+        "phonetic": "[ɪkˈspensɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "花钱多的，高价的，昂贵的"
+        }
+      },
+      {
+        "word": "experience",
+        "phonetic": "[ɪkˈspɪriəns]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "经验，感受，体验；经历",
+          "vt.": "体验，经历"
+        }
+      },
+      {
+        "word": "experiment",
+        "phonetic": "[ɪkˈsperɪmənt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n./vi.": "(on/with)试验，实验"
+        }
+      },
+      {
+        "word": "experimental",
+        "phonetic": "[ɪkˌsperɪˈmentl]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "试验 (上) 的"
+        }
+      },
+      {
+        "word": "expert",
+        "phonetic": "[ˈekspɜːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "专家，能手",
+          "a.": "专家的， 内行的"
+        }
+      },
+      {
+        "word": "explain",
+        "phonetic": "[ɪkˈspleɪn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vt.": "解释，说明"
+        }
+      },
+      {
+        "word": "explanation",
+        "phonetic": "[ˌeksplə ˈneɪʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "解释，说明"
+        }
+      },
+      {
+        "word": "explode",
+        "phonetic": "[ɪkˈsploʊd]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "vi./vt.": "(使) 爆炸，爆发，破裂"
+        }
+      },
+      {
+        "word": "exploit",
+        "phonetic": "[ɪkˈsplɔɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "使用，利用；开采，开发"
+        }
+      },
+      {
+        "word": "explore",
+        "phonetic": "[ɪkˈsplɔːr]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "探险；探索，探究；勘探"
+        }
+      },
+      {
+        "word": "explosion",
+        "phonetic": "[ɪkˈsploʊʒn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "爆炸，爆发"
+        }
+      },
+      {
+        "word": "explosive",
+        "phonetic": "[ɪkˈsploʊsɪv]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "炸药",
+          "a.": "爆炸 (性) 的"
+        }
+      },
+      {
+        "word": "export",
+        "phonetic": "[ɪkˈspɔːrt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "出口，输出",
+          "n.": "出口，出口的商品"
+        }
+      },
+      {
+        "word": "expose",
+        "phonetic": "[ɪkˈspoʊz]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "(to)暴露；揭露"
+        }
+      },
+      {
+        "word": "exposure",
+        "phonetic": "[ɪkˈspoʊʒər]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "暴露；揭露；曝光"
+        }
+      },
+      {
+        "word": "express",
+        "phonetic": "[ɪkˈspres]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "快车，快运",
+          "vt.": "表示，表达",
+          "a.": "特快的，快速的"
+        }
+      },
+      {
+        "word": "expression",
+        "phonetic": "[ɪkˈspreʃn]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "表示，表现，表达；措辞，词句；表情，脸色"
+        }
+      },
+      {
+        "word": "extend",
+        "phonetic": "[ɪkˈstend]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "vt.": "伸，延伸，扩大；致，给予"
+        }
+      },
+      {
+        "word": "extension",
+        "phonetic": "[ɪkˈstenʃn]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "延长部分，扩大部分；伸展，扩大，延长； 电话分机"
+        }
+      },
+      {
+        "word": "extensive",
+        "phonetic": "[ɪkˈstensɪv]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "a.": "广博的，广泛的"
+        }
+      },
+      {
+        "word": "extent",
+        "phonetic": "[ɪkˈstent]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "广度，宽度，长度；范围，程度"
+        }
+      },
+      {
+        "word": "extra",
+        "phonetic": "[ˈekstrə]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "a.": "额外的，附加的",
+          "n.": "附加物，额外的东西",
+          "ad.": "特别地"
+        }
+      },
+      {
+        "word": "extraordinary",
+        "phonetic": "[ɪkˈstrɔːrdəneri]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "非常的，特别的"
+        }
+      },
+      {
+        "word": "extreme",
+        "phonetic": "[ɪkˈstri ːm]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "adj.": "尽头的，末端的；极端的，极度的",
+          "n.": "极端"
+        }
+      },
+      {
+        "word": "extremely",
+        "phonetic": "[ɪkˈstri ːmli]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "ad.": "极，非常"
+        }
+      },
+      {
+        "word": "eye",
+        "phonetic": "[aɪ]",
+        "key_word": true,
+        "definitions_by_pos": {
+          "n.": "眼睛；眼光，眼力",
+          "vt.": "看，注视"
+        }
+      },
+      {
+        "word": "eyesight",
+        "phonetic": "[ˈaɪsaɪt]",
+        "key_word": false,
+        "definitions_by_pos": {
+          "n.": "视力"
+        }
+      }
+    ]
   }
 ]
