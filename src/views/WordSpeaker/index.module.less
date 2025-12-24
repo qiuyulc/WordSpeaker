@@ -44,7 +44,7 @@
   flex-direction: column;
   // overflow: hidden;
   position: relative;
-  p {
+  .header {
     text-align: left;
     flex-shrink: 0;
     padding: 6px;
@@ -56,6 +56,18 @@
     z-index: 10;
     background-color: #fff;
     margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    .total {
+    }
+
+    .need {
+      display: flex;
+      align-items: center;
+      .need_title {
+        margin-right: 8px;
+      }
+    }
   }
   .list {
     flex-grow: 1;

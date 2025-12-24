@@ -1,5 +1,5 @@
 import styles from "./index.module.less";
-import { Card } from "react-vant";
+import { Card, Notify } from "react-vant";
 import { Arrow } from "@react-vant/icons";
 import { useNavigate } from "react-router";
 const TrialPractice = () => {
@@ -7,30 +7,49 @@ const TrialPractice = () => {
   const handleClick = (options: Record<string, string>) => {
     navigate("/trial_list", { state: options });
   };
+
+  const data = [
+    {
+      title: "随机模式",
+      key: "random",
+      description: "随机100个单词练习",
+      onClick: () => {
+        handleClick({
+          type: "random",
+        });
+      },
+    },
+    {
+      title: "闯关模式",
+      key: "order",
+      description: "从A-Z字母顺序练习",
+      onClick: () => {
+        Notify.show({ type: "primary", message: "敬请期待" });
+        // handleClick({
+        //   type: "order",
+        // });
+      },
+    },
+  ];
+
   return (
     <div className={styles.trial_practice}>
-      <Card
-        className={styles.card}
-        round
-        onClick={() =>
-          handleClick({
-            type: "random",
-          })
-        }
-      >
-        <Card.Header>随机模式</Card.Header>
-        <Card.Body>
-          <span>随机100个单词练习</span>
-          <Arrow />
-        </Card.Body>
-      </Card>
-      {/* <Card className={styles.card} round>
-        <Card.Header>顺序模式</Card.Header>
-        <Card.Body>
-          <span>从A-Z进行顺序练习</span>
-          <Arrow />
-        </Card.Body>
-      </Card> */}
+      {data.map((item) => {
+        return (
+          <Card
+            className={styles.card}
+            round
+            onClick={item.onClick}
+            key="random"
+          >
+            <Card.Header>{item.title}</Card.Header>
+            <Card.Body>
+              <span>{item.description}</span>
+              <Arrow />
+            </Card.Body>
+          </Card>
+        );
+      })}
     </div>
   );
 };

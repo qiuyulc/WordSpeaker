@@ -10,6 +10,7 @@ import {
   DropdownMenu,
   NoticeBar,
   Sticky,
+  Switch,
 } from "react-vant";
 
 import useSpeech from "../../hooks/useSpeech";
@@ -23,22 +24,34 @@ import {
 interface WordTypeHot extends WordType {
   hot?: boolean;
 }
+
+interface ParamsType {
+  word: WordsType[];
+  key: string;
+  page: number;
+  pageSize: number;
+  need: boolean;
+}
+
 const getData = (
-  word: WordsType[],
-  key: string,
-  page: number,
-  pageSize: number
+  props: ParamsType
 ): Promise<{ data: WordTypeHot[]; total: number; status: number }> => {
+  const { word, key, page, pageSize, need } = props;
   return new Promise((resolve) => {
     setTimeout(() => {
       const wordData = word.find((u) => u.title === key);
-      const total = wordData?.words.length || 0;
-      const words = wordData?.words.slice(
+      let wordList = wordData?.words || [];
+
+      if (need) {
+        wordList = wordList.filter((item) => item.key_word);
+      }
+      const total = wordList.length || 0;
+      const words = wordList.slice(
         (page - 1) * pageSize,
         page * pageSize
       ) as WordTypeHot[];
       resolve({ data: words || [], total, status: 200 });
-    }, 2000);
+    }, 1000);
   });
 };
 
@@ -49,27 +62,37 @@ const ListCom = (props: {
   currentWord: string;
 }) => {
   const { title, playText, isPlaying, currentWord } = props;
-  const [page, setPage] = useState(1);
+  const [params, setParams] = useState({
+    page: 1,
+    pageSize: 60,
+    need: false,
+  });
   const [words, setWords] = useState<WordTypeHot[]>([]);
   const [total, setTotal] = useState(0);
   const [finished, setFinished] = useState(false);
-  const pageSize = 60;
   const refLoading = useRef(false);
   const word = useContext(WordContext);
-  const onLoad = async () => {
+
+  const handleGetData = ({ word, key, page, pageSize, need }: ParamsType) => {
     if (!refLoading.current) {
       refLoading.current = true;
-      getData(word, title, page, pageSize).then((res) => {
+      getData({ word, key, page, pageSize, need }).then((res) => {
         if (res.status === 200) {
           setWords((prev) => {
             const data = [...prev, ...res.data];
             if (data.length >= res.total) {
               setFinished(true);
+            } else {
+              setParams((prev) => {
+                return {
+                  ...prev,
+                  page: prev.page + 1,
+                };
+              });
             }
             return data;
           });
           setTotal(res.total);
-          setPage((prev) => prev + 1);
         } else {
           setWords([]);
           setTotal(0);
@@ -77,6 +100,9 @@ const ListCom = (props: {
         refLoading.current = false;
       });
     }
+  };
+  const onLoad = async () => {
+    handleGetData({ word, key: title, ...params });
   };
 
   const getMeaning = (
@@ -114,11 +140,36 @@ const ListCom = (props: {
     playText(u);
   };
 
+  const onChange = (val: boolean) => {
+    setWords([]);
+    setFinished(false);
+    setParams((prev) => {
+      const { pageSize } = prev;
+      handleGetData({ word, key: title, page: 1, need: val, pageSize });
+      return {
+        ...prev,
+        page: 1,
+        need: val,
+      };
+    });
+  };
+
   return (
     <div className={styles.list_box}>
-      <p>
-        {total}/{getHotWordCount}
-      </p>
+      <div className={styles.header}>
+        <div className={styles.total}>
+          {total}/{getHotWordCount}
+        </div>
+
+        <div className={styles.need}>
+          <span className={styles.need_title}>重点:</span>
+          <Switch
+            checked={params.need}
+            onChange={onChange}
+            size="18px"
+          ></Switch>
+        </div>
+      </div>
       <List
         offset={50}
         className={styles.list}
@@ -126,13 +177,13 @@ const ListCom = (props: {
         onLoad={onLoad}
         finishedText="没有更多了"
       >
-        {words.map((u) => {
+        {words.map((u, i) => {
           return (
             <Card
               onClick={() => cardClick(u.word)}
               round
               className={`${styles.card} ${u.hot ? styles.card_hot : ""}`}
-              key={u.word}
+              key={u.word + i}
             >
               <Card.Header className={styles.card_header}>
                 <div className={styles.card_header_box}>
