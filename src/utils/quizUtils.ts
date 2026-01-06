@@ -25,7 +25,7 @@ function formatDefinition(
 }
 
 //随机生成选择指定数量元素
-function getRandomItems<T>(array: T[], count: number): T[] {
+export function getRandomItems<T>(array: T[], count: number): T[] {
   if (count >= array.length) {
     // 如果需要的数量大于等于数组长度，返回打乱顺序的整个数组
     return [...array].sort(() => Math.random() - 0.5);

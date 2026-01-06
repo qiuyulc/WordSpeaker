@@ -1,11 +1,11 @@
 import styles from "./index.module.less";
-import { Card, Notify } from "react-vant";
+import { Card } from "react-vant";
 import { Arrow } from "@react-vant/icons";
 import { useNavigate } from "react-router";
 const TrialPractice = () => {
   const navigate = useNavigate();
-  const handleClick = (options: Record<string, string>) => {
-    navigate("/trial_list", { state: options });
+  const handleClick = (path: string, options: Record<string, string>) => {
+    navigate(path, { state: options });
   };
 
   const data = [
@@ -14,7 +14,7 @@ const TrialPractice = () => {
       key: "random",
       description: "随机100个单词练习",
       onClick: () => {
-        handleClick({
+        handleClick("/trial_list", {
           type: "random",
         });
       },
@@ -24,10 +24,10 @@ const TrialPractice = () => {
       key: "order",
       description: "从A-Z字母顺序练习",
       onClick: () => {
-        Notify.show({ type: "primary", message: "敬请期待" });
-        // handleClick({
-        //   type: "order",
-        // });
+        // Notify.show({ type: "primary", message: "敬请期待" });
+        handleClick("/order_list", {
+          type: "order",
+        });
       },
     },
   ];
@@ -40,7 +40,7 @@ const TrialPractice = () => {
             className={styles.card}
             round
             onClick={item.onClick}
-            key="random"
+            key={item.key}
           >
             <Card.Header>{item.title}</Card.Header>
             <Card.Body>

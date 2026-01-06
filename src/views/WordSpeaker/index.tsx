@@ -305,8 +305,8 @@ const WordSpeaker = () => {
                   <ListCom
                     isPlaying={state.isPlaying}
                     playText={playText}
-                    title={u}
                     currentWord={state.currentWord}
+                    title={u}
                   />
                 </Tabs.TabPane>
               );

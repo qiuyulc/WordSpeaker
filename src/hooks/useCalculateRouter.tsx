@@ -118,6 +118,13 @@ export const useCalculateRouter: () => {
         parentId: "0",
         meta: {},
       },
+      {
+        path: "order_list",
+        component: "OrderList",
+        id: "5",
+        parentId: "0",
+        meta: {},
+      },
     ];
 
     const tree = buildRouteTree(routes, "0", paths);
