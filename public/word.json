@@ -1289,7 +1289,15 @@
         "key_word": true,
         "definitions_by_pos": {
           "a.": "任何的，任一的； [否定、疑问、条件句中]什么，一些",
-          "pron.": "无论哪个，无论哪些，任一 anybody= anyone"
+          "pron.": "无论哪个，无论哪些，任一"
+        }
+      },
+      {
+        "word": "anybody",
+        "phonetic": "",
+        "key_word": false,
+        "definitions_by_pos": {
+          "pron.": "[否定、疑问、条件句中]任何人； [肯定句中]随便哪一个人"
         }
       },
       {
@@ -1297,8 +1305,7 @@
         "phonetic": "[ˈenihaʊ]",
         "key_word": false,
         "definitions_by_pos": {
-          "ad.": "不管以何种方式；无论如何",
-          "pron.": " anyway [ˈeniweɪ]"
+          "ad.": "无论如何，不管怎样；不管以什么方法；总之"
         }
       },
       {

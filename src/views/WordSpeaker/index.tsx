@@ -286,15 +286,15 @@ const WordSpeaker = () => {
   return (
     <>
       <div className={styles.wordSpeaker}>
-        {getvoiceOrvoices.voices.length === 0 ? (
+        {getvoiceOrvoices.voices.length > 0 ? (
+          ""
+        ) : (
           <Sticky>
             <NoticeBar
               leftIcon={<VolumeO />}
               text="很抱歉，没有可用语音。朗读功能暂时不可用。"
             />
           </Sticky>
-        ) : (
-          ""
         )}
         <h3 className={styles.title}>WordSpeaker</h3>
         <div className={styles.content}>

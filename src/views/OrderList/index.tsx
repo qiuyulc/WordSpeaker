@@ -103,7 +103,14 @@ export const OrderItem = (props: {
     <Card className={styles.card}>
       <Card.Header className={styles.header}>
         <div className={styles.header_cont}>
-          <span className={styles.word}>{wordData?.word}</span>
+          <span className={styles.word}>
+            {wordData?.key_word ? (
+              <span className={styles.card_title_icon}>*</span>
+            ) : (
+              ""
+            )}
+            {wordData?.word}
+          </span>
           <span className={styles.phonetic}>{wordData?.phonetic}</span>
           <span
             className={`${styles.card_icon} ${
