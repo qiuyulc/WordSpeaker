@@ -27,10 +27,10 @@ const RandomList = () => {
     handleSetData,
     handleEditIndexedDB,
     handleResetData,
-    setIndex,
+    // setIndex,
   } = useLocalWords({ checked });
 
-  const [visible, setVisible] = useState(false);
+  // const [visible, setVisible] = useState(false);
   const { state: locationState } = useLocation();
   const navigate = useNavigate();
   const handleReset = () => {
