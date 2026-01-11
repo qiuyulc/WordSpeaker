@@ -125,6 +125,13 @@ export const useCalculateRouter: () => {
         parentId: "0",
         meta: {},
       },
+      {
+        path: "random_list",
+        component: "RandomList",
+        id: "6",
+        parentId: "0",
+        meta: {},
+      },
     ];
 
     const tree = buildRouteTree(routes, "0", paths);

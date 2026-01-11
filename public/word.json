@@ -14359,7 +14359,7 @@
         }
       },
       {
-        "word": "growth",
+        "word": "growth (1)",
         "phonetic": "[ɡroʊθ]",
         "key_word": true,
         "definitions_by_pos": {
@@ -14367,7 +14367,7 @@
         }
       },
       {
-        "word": "grown-up",
+        "word": "grown-up (1)",
         "phonetic": "[ˌɡroʊnˈʌp]",
         "key_word": false,
         "definitions_by_pos": {
@@ -14375,19 +14375,11 @@
         }
       },
       {
-        "word": "grown-up",
+        "word": "grown-up (2)",
         "phonetic": "[ˈɡroʊnʌp]",
         "key_word": false,
         "definitions_by_pos": {
           "n.": "成年人"
-        }
-      },
-      {
-        "word": "growth",
-        "phonetic": "[ɡroʊθ]",
-        "key_word": false,
-        "definitions_by_pos": {
-          "n.": "生长，增长，发展；增长量"
         }
       },
       {
@@ -16074,16 +16066,16 @@
         }
       },
       {
-        "word": "import",
-        "phonetic": "[ɪm ˈpɔːrt] [ˈɪmpɔːrt]",
+        "word": "import (1)",
+        "phonetic": "[ɪm ˈpɔːrt]",
         "key_word": false,
         "definitions_by_pos": {
           "vt.": "输入，进口"
         }
       },
       {
-        "word": "import",
-        "phonetic": "",
+        "word": "import (2)",
+        "phonetic": "[ˈɪmpɔːrt]",
         "key_word": false,
         "definitions_by_pos": {
           "n.": "输人，进口；(pl.)进口商品，进口物质"
@@ -16213,7 +16205,7 @@
         }
       },
       {
-        "word": "increase",
+        "word": "increase (1)",
         "phonetic": "[ɪn ˈkri ːs]",
         "key_word": true,
         "definitions_by_pos": {
@@ -16221,7 +16213,7 @@
         }
       },
       {
-        "word": "increase",
+        "word": "increase (2)",
         "phonetic": "[ˈɪnkri ːs]",
         "key_word": true,
         "definitions_by_pos": {
@@ -22963,7 +22955,7 @@
         }
       },
       {
-        "word": "perfect",
+        "word": "perfect (1)",
         "phonetic": "[ˈpɜːrfɪkt]",
         "key_word": true,
         "definitions_by_pos": {
@@ -22971,7 +22963,7 @@
         }
       },
       {
-        "word": "perfect",
+        "word": "perfect (2)",
         "phonetic": "[pərˈfekt]",
         "key_word": true,
         "definitions_by_pos": {
@@ -24264,7 +24256,7 @@
         }
       },
       {
-        "word": "present",
+        "word": "present (1)",
         "phonetic": "[prɪˈznt]",
         "key_word": true,
         "definitions_by_pos": {
@@ -24272,7 +24264,7 @@
         }
       },
       {
-        "word": "present",
+        "word": "present (2)",
         "phonetic": "[ˈpreznt]",
         "key_word": true,
         "definitions_by_pos": {
@@ -24572,7 +24564,7 @@
         }
       },
       {
-        "word": "produce",
+        "word": "produce (1)",
         "phonetic": "[prəˈduːs]",
         "key_word": true,
         "definitions_by_pos": {
@@ -24580,7 +24572,7 @@
         }
       },
       {
-        "word": "produce",
+        "word": "produce (2)",
         "phonetic": "[ˈprɑːduːs]",
         "key_word": true,
         "definitions_by_pos": {
@@ -25686,7 +25678,7 @@
         }
       },
       {
-        "word": "rebel",
+        "word": "rebel (1)",
         "phonetic": "[rɪˈbel]",
         "key_word": false,
         "definitions_by_pos": {
@@ -25694,7 +25686,7 @@
         }
       },
       {
-        "word": "rebel",
+        "word": "rebel (2)",
         "phonetic": "[ˈrebl]",
         "key_word": false,
         "definitions_by_pos": {
@@ -25807,7 +25799,7 @@
         }
       },
       {
-        "word": "record",
+        "word": "record (1)",
         "phonetic": "[ˈrekərd]",
         "key_word": true,
         "definitions_by_pos": {
@@ -25815,7 +25807,7 @@
         }
       },
       {
-        "word": "record",
+        "word": "record (2)",
         "phonetic": "[rɪˈkɔːrd]",
         "key_word": true,
         "definitions_by_pos": {
@@ -28161,7 +28153,7 @@
         }
       },
       {
-        "word": "separate",
+        "word": "separate (1)",
         "phonetic": "[ˈseprət]",
         "key_word": true,
         "definitions_by_pos": {
@@ -28169,7 +28161,7 @@
         }
       },
       {
-        "word": "separate",
+        "word": "separate (2)",
         "phonetic": "[ˈsepəreɪt]",
         "key_word": true,
         "definitions_by_pos": {
@@ -31520,7 +31512,7 @@
         }
       },
       {
-        "word": "suspect",
+        "word": "suspect (1)",
         "phonetic": "[ˈsʌspekt]",
         "key_word": false,
         "definitions_by_pos": {
@@ -31530,7 +31522,7 @@
         }
       },
       {
-        "word": "suspect",
+        "word": "suspect (2)",
         "phonetic": "[sə ˈ spekt]",
         "key_word": false,
         "definitions_by_pos": {
@@ -32798,14 +32790,6 @@
         "key_word": false,
         "definitions_by_pos": {
           "a.": "疲劳的；厌倦的",
-          "n.": "轮胎"
-        }
-      },
-      {
-        "word": "tyre",
-        "phonetic": "[ˈtaɪər]",
-        "key_word": false,
-        "definitions_by_pos": {
           "n.": "轮胎"
         }
       },

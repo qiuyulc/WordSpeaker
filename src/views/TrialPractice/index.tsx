@@ -10,7 +10,7 @@ const TrialPractice = () => {
 
   const data = [
     {
-      title: "随机模式",
+      title: "小练一下",
       key: "random",
       description: "随机100个单词练习",
       onClick: () => {
@@ -28,6 +28,14 @@ const TrialPractice = () => {
         handleClick("/order_list", {
           type: "order",
         });
+      },
+    },
+    {
+      title: "随机模式",
+      key: "random-list",
+      description: "随机单词记忆",
+      onClick: () => {
+        handleClick("/random_list", {});
       },
     },
   ];

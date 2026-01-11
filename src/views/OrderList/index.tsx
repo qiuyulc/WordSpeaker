@@ -1,5 +1,14 @@
 import styles from "./index.module.less";
-import { NavBar, Notify, Tabs, Card, Button, Radio } from "react-vant";
+import {
+  NavBar,
+  Notify,
+  Tabs,
+  Card,
+  Button,
+  Radio,
+  Switch,
+  Empty,
+} from "react-vant";
 import { useMemo, useContext, useState, useEffect } from "react";
 import { useLocation, useNavigate } from "react-router";
 import { Replay, Success, Cross, Volume } from "@react-vant/icons";
@@ -12,19 +21,26 @@ interface OptionType extends WordType {
 }
 
 export const OrderItem = (props: {
+  auto: boolean;
+  checked: boolean;
   title: string;
   playText: (val: string) => void;
   isPlaying: boolean;
   currentWord: string;
 }) => {
-  const { title, playText, isPlaying, currentWord } = props;
+  const { title, playText, isPlaying, currentWord, checked, auto } = props;
   const word = useContext(WordContext);
   const [wordIndex, setWordIndex] = useState(0);
   const [words, setWords] = useState<OptionType[]>([]);
 
   useEffect(() => {
     const data = word.find((u) => u.title === title);
-    const dataWords = data?.words || [];
+    let dataWords = data?.words || [];
+    if (checked) {
+      dataWords = dataWords.filter((u) => u.key_word);
+    }
+
+    setWordIndex(0);
 
     const options: OptionType[] = [];
     for (let i = 0; i < dataWords.length; i++) {
@@ -47,7 +63,7 @@ export const OrderItem = (props: {
     }
 
     setWords(options);
-  }, [title]);
+  }, [title, checked]);
 
   const handlePlay = (event: React.MouseEvent<HTMLSpanElement>, u: string) => {
     event.stopPropagation();
@@ -57,6 +73,12 @@ export const OrderItem = (props: {
   const wordData = useMemo(() => {
     return words[wordIndex];
   }, [wordIndex, words]);
+
+  useEffect(() => {
+    if (wordData && auto) {
+      playText(wordData.word);
+    }
+  }, [wordData, auto]);
   const getMeaning = (
     definitions_by_pos: Record<string, string | undefined>
   ) => {
@@ -87,6 +109,7 @@ export const OrderItem = (props: {
 
   const lastClick = () => {
     if (wordIndex === 0) {
+      Notify.show({ type: "success", message: "现在是第一个单词" });
       setWordIndex(0);
     } else {
       setWordIndex(wordIndex - 1);
@@ -94,12 +117,13 @@ export const OrderItem = (props: {
   };
   const nextClick = () => {
     if (wordIndex === words.length - 1) {
+      Notify.show({ type: "success", message: "恭喜你完成了最后一个单词" });
       setWordIndex(words.length - 1);
     } else {
       setWordIndex(wordIndex + 1);
     }
   };
-  return (
+  return wordData ? (
     <Card className={styles.card}>
       <Card.Header className={styles.header}>
         <div className={styles.header_cont}>
@@ -168,6 +192,8 @@ export const OrderItem = (props: {
         </Button>
       </Card.Footer>
     </Card>
+  ) : (
+    <Empty description="暂无数据" />
   );
 };
 
@@ -186,15 +212,45 @@ export const OrderTabs = () => {
       controls.speak(text);
     }
   };
+  const [checked, setChecked] = useState(false);
+  const onChange = (checked: boolean) => {
+    setChecked(checked);
+  };
+
+  const [autoChecked, setAutoChecked] = useState(false);
+  const onAutoChange = (val: boolean) => {
+    setAutoChecked(val);
+  };
+
   return (
     <div className={styles.tabs}>
       <Tabs sticky className={styles.tabs}>
         {uppercaseLetters.map((u) => {
           return (
             <Tabs.TabPane key={u} title={u}>
+              <div className={styles.tools}>
+                <div className={styles.auto}>
+                  <span className={styles.auto_title}>自动播放:</span>
+                  <Switch
+                    checked={autoChecked}
+                    onChange={onAutoChange}
+                    size="18px"
+                  ></Switch>
+                </div>
+                <div className={styles.need}>
+                  <span className={styles.need_title}>重点:</span>
+                  <Switch
+                    checked={checked}
+                    onChange={onChange}
+                    size="18px"
+                  ></Switch>
+                </div>
+              </div>
               <OrderItem
                 isPlaying={state.isPlaying}
                 playText={playText}
+                checked={checked}
+                auto={autoChecked}
                 currentWord={state.currentWord}
                 title={u}
               />
